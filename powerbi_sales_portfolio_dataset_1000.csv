@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,State,Region,Segment,ProductID,ProductName,Category,Quantity,UnitPrice,DiscountPercent,Sales,CostPrice,Profit,ProfitMargin,PaymentMode,ShippingMode,DeliveryDays,Salesperson,Returned
+ORD00001,2025-02-07,C275,Customer 49,Bengaluru,Karnataka,South,Corporate,P006,Headphones,Electronics,7,1366,0,9562.0,600,5362.0,56.08,Net Banking,Standard,5,Priya,Yes
+ORD00002,2025-02-16,C283,Customer 218,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,7,351,5,2334.15,180,1080.29,46.28,Net Banking,Standard,2,Aisha,Yes
+ORD00003,2025-03-10,C149,Customer 215,Chennai,Tamil Nadu,South,Consumer,P007,Desk,Furniture,4,1647,20,5270.4,1500,-466.08,-8.84,Net Banking,Standard,5,Arjun,Yes
+ORD00004,2025-07-10,C050,Customer 281,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,10,934,5,8873.0,180,7096.35,79.98,UPI,Same Day,1,Kiran,Yes
+ORD00005,2025-08-27,C300,Customer 233,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,9,1237,10,10019.7,700,3831.03,38.23,Debit Card,Standard,7,Priya,Yes
+ORD00006,2025-06-25,C230,Customer 148,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,5,817,15,3472.25,180,2664.16,76.73,UPI,Standard,5,Meena,Yes
+ORD00007,2025-12-09,C040,Customer 286,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,8,1131,0,9048.0,600,4248.0,46.95,Debit Card,Express,6,Arjun,No
+ORD00008,2025-12-23,C034,Customer 32,Chennai,Tamil Nadu,South,Home Office,P008,Webcam,Electronics,2,1076,15,1829.2,700,477.62,26.11,Debit Card,Same Day,5,Aisha,No
+ORD00009,2025-01-12,C237,Customer 182,Kochi,Kerala,South,Consumer,P005,Laptop Stand,Accessories,7,1004,10,6325.2,220,4855.48,76.76,Net Banking,Standard,4,Ravi,Yes
+ORD00010,2025-09-12,C042,Customer 86,Bengaluru,Karnataka,South,Corporate,P005,Laptop Stand,Accessories,4,727,15,2471.8,220,1657.23,67.05,Cash,Same Day,3,Priya,No
+ORD00011,2025-04-29,C078,Customer 43,Kochi,Kerala,South,Consumer,P005,Laptop Stand,Accessories,7,687,15,4087.65,220,2655.85,64.97,Credit Card,Standard,6,Priya,Yes
+ORD00012,2025-01-03,C075,Customer 215,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,3,1069,10,2886.3,700,818.37,28.35,Debit Card,Same Day,5,Arjun,Yes
+ORD00013,2025-07-24,C202,Customer 54,Mumbai,Maharashtra,West,Corporate,P001,Wireless Mouse,Electronics,9,751,15,5745.15,250,3647.23,63.48,Cash,Standard,2,Ravi,Yes
+ORD00014,2025-01-27,C053,Customer 1,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,2,1148,20,1836.8,700,528.64,28.78,Credit Card,Same Day,1,Arjun,Yes
+ORD00015,2025-11-21,C130,Customer 178,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,10,665,5,6317.5,180,4534.12,71.77,Debit Card,Express,1,Ravi,No
+ORD00016,2025-03-15,C053,Customer 176,Mumbai,Maharashtra,West,Home Office,P008,Webcam,Electronics,8,1119,0,8952.0,700,3352.0,37.44,Debit Card,Express,7,Aisha,Yes
+ORD00017,2025-12-20,C279,Customer 14,Bengaluru,Karnataka,South,Home Office,P001,Wireless Mouse,Electronics,9,720,5,6156.0,250,3922.2,63.71,Debit Card,Same Day,7,Ravi,No
+ORD00018,2025-09-30,C278,Customer 258,Bengaluru,Karnataka,South,Corporate,P006,Headphones,Electronics,6,1490,5,8493.0,600,4915.35,57.88,Credit Card,Same Day,7,Priya,Yes
+ORD00019,2025-09-10,C183,Customer 15,Kochi,Kerala,South,Consumer,P007,Desk,Furniture,4,1804,20,5772.8,1500,61.44,1.06,Debit Card,Express,3,Priya,No
+ORD00020,2025-04-23,C053,Customer 117,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,6,1173,0,7038.0,700,2838.0,40.32,Credit Card,Express,2,Meena,Yes
+ORD00021,2025-12-05,C062,Customer 199,Kochi,Kerala,South,Home Office,P008,Webcam,Electronics,6,1618,0,9708.0,700,5508.0,56.74,Credit Card,Express,2,Meena,No
+ORD00022,2025-02-13,C082,Customer 88,Kochi,Kerala,South,Consumer,P002,Keyboard,Electronics,7,754,15,4486.3,180,3345.05,74.56,UPI,Standard,5,Meena,Yes
+ORD00023,2025-10-08,C068,Customer 11,Kochi,Kerala,South,Consumer,P008,Webcam,Electronics,6,959,20,4603.2,700,633.36,13.76,UPI,Same Day,6,Priya,No
+ORD00024,2025-05-30,C257,Customer 124,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,1,857,5,814.15,500,316.29,38.85,Debit Card,Express,5,Meena,Yes
+ORD00025,2025-09-22,C216,Customer 257,Kochi,Kerala,South,Consumer,P001,Wireless Mouse,Electronics,6,819,20,3931.2,250,2627.76,66.84,Net Banking,Standard,5,Kiran,Yes
+ORD00026,2025-03-30,C073,Customer 243,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,10,804,5,7638.0,700,658.1,8.62,UPI,Same Day,1,Arjun,No
+ORD00027,2025-05-22,C022,Customer 51,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,1,534,5,507.3,180,328.63,64.78,Cash,Same Day,1,Ravi,No
+ORD00028,2025-04-13,C142,Customer 232,Delhi,Delhi,North,Home Office,P006,Headphones,Electronics,9,1320,20,9504.0,600,4579.2,48.18,Net Banking,Express,5,Priya,No
+ORD00029,2025-07-20,C227,Customer 162,Mumbai,Maharashtra,West,Consumer,P004,Office Chair,Furniture,3,1026,0,3078.0,500,1578.0,51.27,Credit Card,Express,1,Priya,No
+ORD00030,2025-03-12,C240,Customer 113,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,6,426,10,2300.4,180,1245.96,54.16,UPI,Express,4,Priya,Yes
+ORD00031,2025-06-23,C216,Customer 101,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,7,1427,15,8490.65,800,3115.4,36.69,Debit Card,Standard,6,Arjun,Yes
+ORD00032,2025-07-16,C170,Customer 265,Delhi,Delhi,North,Home Office,P006,Headphones,Electronics,8,1151,0,9208.0,600,4408.0,47.87,Debit Card,Same Day,1,Ravi,Yes
+ORD00033,2025-04-03,C139,Customer 67,Chennai,Tamil Nadu,South,Corporate,P002,Keyboard,Electronics,5,558,0,2790.0,180,1890.0,67.74,Debit Card,Express,2,Kiran,No
+ORD00034,2025-08-06,C038,Customer 138,Chennai,Tamil Nadu,South,Consumer,P006,Headphones,Electronics,5,758,5,3600.5,600,609.98,16.94,UPI,Express,1,Kiran,Yes
+ORD00035,2025-06-23,C284,Customer 214,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,2,744,0,1488.0,180,1128.0,75.81,Net Banking,Standard,1,Kiran,Yes
+ORD00036,2025-04-14,C160,Customer 157,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,5,331,5,1572.25,180,676.39,43.02,Credit Card,Express,4,Kiran,Yes
+ORD00037,2025-01-08,C010,Customer 259,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,1,576,0,576.0,220,356.0,61.81,Credit Card,Same Day,4,Priya,No
+ORD00038,2025-10-07,C202,Customer 260,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,7,952,15,5664.4,180,4554.34,80.4,Credit Card,Standard,3,Priya,Yes
+ORD00039,2025-01-08,C037,Customer 131,Hyderabad,Telangana,South,Corporate,P007,Desk,Furniture,1,2457,5,2334.15,1500,840.29,36.0,Credit Card,Standard,1,Aisha,No
+ORD00040,2025-01-24,C236,Customer 95,Delhi,Delhi,North,Consumer,P005,Laptop Stand,Accessories,4,1029,10,3704.4,220,2865.56,77.36,Debit Card,Express,1,Arjun,No
+ORD00041,2025-06-08,C112,Customer 183,Delhi,Delhi,North,Consumer,P006,Headphones,Electronics,6,950,0,5700.0,600,2100.0,36.84,UPI,Express,4,Ravi,No
+ORD00042,2025-01-03,C047,Customer 136,Delhi,Delhi,North,Consumer,P005,Laptop Stand,Accessories,4,574,20,1836.8,220,1048.64,57.09,Credit Card,Express,5,Ravi,No
+ORD00043,2025-02-13,C300,Customer 271,Hyderabad,Telangana,South,Consumer,P001,Wireless Mouse,Electronics,5,994,5,4721.5,250,3483.93,73.79,Net Banking,Express,7,Arjun,No
+ORD00044,2025-01-23,C263,Customer 220,Hyderabad,Telangana,South,Home Office,P003,Monitor,Electronics,10,1558,5,14801.0,800,6839.95,46.21,Net Banking,Standard,5,Kiran,Yes
+ORD00045,2025-11-23,C185,Customer 54,Chennai,Tamil Nadu,South,Corporate,P004,Office Chair,Furniture,1,642,5,609.9,500,111.5,18.28,Cash,Same Day,1,Aisha,Yes
+ORD00046,2025-02-05,C258,Customer 275,Mumbai,Maharashtra,West,Consumer,P004,Office Chair,Furniture,5,603,15,2562.75,500,130.59,5.1,Net Banking,Standard,6,Aisha,No
+ORD00047,2025-04-29,C236,Customer 253,Chennai,Tamil Nadu,South,Corporate,P005,Laptop Stand,Accessories,5,560,5,2660.0,220,1567.0,58.91,UPI,Express,6,Arjun,Yes
+ORD00048,2025-05-11,C156,Customer 291,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,10,750,10,6750.0,500,1825.0,27.04,UPI,Express,1,Meena,No
+ORD00049,2025-05-29,C265,Customer 147,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,4,971,15,3301.4,180,2668.79,80.84,Cash,Express,7,Ravi,Yes
+ORD00050,2025-08-23,C040,Customer 260,Chennai,Tamil Nadu,South,Corporate,P005,Laptop Stand,Accessories,8,337,10,2426.4,220,693.36,28.58,Debit Card,Express,2,Priya,Yes
+ORD00051,2025-03-09,C261,Customer 144,Bengaluru,Karnataka,South,Consumer,P002,Keyboard,Electronics,9,548,10,4438.8,180,2868.12,64.61,Debit Card,Standard,4,Meena,No
+ORD00052,2025-07-27,C155,Customer 73,Bengaluru,Karnataka,South,Corporate,P001,Wireless Mouse,Electronics,1,853,15,725.05,250,494.24,68.17,Debit Card,Express,3,Ravi,No
+ORD00053,2025-03-03,C101,Customer 7,Hyderabad,Telangana,South,Home Office,P001,Wireless Mouse,Electronics,6,1209,15,6165.9,250,4829.11,78.32,Debit Card,Express,3,Ravi,No
+ORD00054,2025-05-21,C025,Customer 144,Delhi,Delhi,North,Consumer,P007,Desk,Furniture,2,1969,15,3347.3,1500,435.9,13.02,UPI,Same Day,3,Aisha,Yes
+ORD00055,2025-04-08,C192,Customer 220,Hyderabad,Telangana,South,Consumer,P004,Office Chair,Furniture,7,1123,10,7074.9,500,3653.51,51.64,Cash,Same Day,5,Priya,Yes
+ORD00056,2025-03-12,C147,Customer 249,Kochi,Kerala,South,Consumer,P001,Wireless Mouse,Electronics,7,811,20,4541.6,250,3018.68,66.47,Net Banking,Standard,2,Meena,No
+ORD00057,2025-07-27,C123,Customer 155,Hyderabad,Telangana,South,Corporate,P006,Headphones,Electronics,5,961,10,4324.5,600,1372.55,31.74,Net Banking,Same Day,4,Ravi,Yes
+ORD00058,2025-10-09,C113,Customer 232,Chennai,Tamil Nadu,South,Corporate,P003,Monitor,Electronics,4,1412,15,4800.8,800,1727.88,35.99,Cash,Express,2,Kiran,Yes
+ORD00059,2025-02-16,C164,Customer 123,Chennai,Tamil Nadu,South,Corporate,P004,Office Chair,Furniture,3,950,20,2280.0,500,894.0,39.21,Debit Card,Same Day,2,Ravi,No
+ORD00060,2025-05-19,C174,Customer 32,Mumbai,Maharashtra,West,Corporate,P007,Desk,Furniture,9,1815,15,13884.75,1500,752.29,5.42,Debit Card,Same Day,3,Priya,Yes
+ORD00061,2025-11-27,C229,Customer 222,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,4,673,15,2288.2,180,1628.77,71.18,UPI,Standard,1,Meena,No
+ORD00062,2025-08-28,C230,Customer 128,Chennai,Tamil Nadu,South,Consumer,P008,Webcam,Electronics,2,1200,20,1920.0,700,616.0,32.08,Credit Card,Standard,2,Kiran,Yes
+ORD00063,2025-01-01,C065,Customer 120,Chennai,Tamil Nadu,South,Home Office,P008,Webcam,Electronics,9,1595,0,14355.0,700,8055.0,56.11,UPI,Same Day,6,Arjun,Yes
+ORD00064,2025-02-20,C037,Customer 154,Delhi,Delhi,North,Home Office,P005,Laptop Stand,Accessories,7,1035,0,7245.0,220,5705.0,78.74,Net Banking,Standard,4,Arjun,Yes
+ORD00065,2025-05-23,C162,Customer 125,Chennai,Tamil Nadu,South,Corporate,P001,Wireless Mouse,Electronics,9,658,15,5033.7,250,2916.95,57.95,Net Banking,Standard,5,Priya,Yes
+ORD00066,2025-04-10,C256,Customer 216,Kochi,Kerala,South,Consumer,P007,Desk,Furniture,5,1656,0,8280.0,1500,780.0,9.42,Debit Card,Standard,6,Meena,No
+ORD00067,2025-08-04,C186,Customer 203,Mumbai,Maharashtra,West,Consumer,P004,Office Chair,Furniture,1,1312,10,1180.8,500,693.92,58.77,UPI,Express,6,Kiran,Yes
+ORD00068,2025-04-29,C239,Customer 114,Mumbai,Maharashtra,West,Corporate,P004,Office Chair,Furniture,4,919,5,3492.2,500,1501.39,42.99,Debit Card,Standard,5,Meena,Yes
+ORD00069,2025-11-01,C075,Customer 202,Mumbai,Maharashtra,West,Consumer,P004,Office Chair,Furniture,7,1281,0,8967.0,500,5467.0,60.97,Credit Card,Standard,5,Priya,No
+ORD00070,2025-08-19,C161,Customer 58,Kochi,Kerala,South,Consumer,P001,Wireless Mouse,Electronics,1,538,15,457.3,250,219.41,47.98,Credit Card,Express,2,Priya,No
+ORD00071,2025-06-19,C227,Customer 87,Hyderabad,Telangana,South,Consumer,P001,Wireless Mouse,Electronics,7,1209,10,7616.7,250,5951.33,78.14,UPI,Standard,3,Ravi,No
+ORD00072,2025-07-14,C183,Customer 159,Chennai,Tamil Nadu,South,Corporate,P007,Desk,Furniture,9,2377,5,20323.35,1500,6876.83,33.84,UPI,Standard,6,Meena,Yes
+ORD00073,2025-07-06,C243,Customer 16,Delhi,Delhi,North,Home Office,P006,Headphones,Electronics,8,897,10,6458.4,600,1730.16,26.79,Cash,Standard,7,Aisha,No
+ORD00074,2025-02-01,C132,Customer 100,Mumbai,Maharashtra,West,Home Office,P001,Wireless Mouse,Electronics,1,825,0,825.0,250,575.0,69.7,UPI,Same Day,3,Arjun,No
+ORD00075,2025-05-22,C153,Customer 2,Delhi,Delhi,North,Home Office,P006,Headphones,Electronics,1,968,10,871.2,600,280.88,32.24,Net Banking,Same Day,1,Ravi,Yes
+ORD00076,2025-05-09,C221,Customer 253,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,8,1074,15,7303.2,180,6056.52,82.93,Cash,Standard,1,Aisha,No
+ORD00077,2025-08-24,C186,Customer 41,Delhi,Delhi,North,Home Office,P003,Monitor,Electronics,4,1235,10,4446.0,800,1295.4,29.14,Credit Card,Express,7,Priya,Yes
+ORD00078,2025-10-06,C167,Customer 83,Chennai,Tamil Nadu,South,Corporate,P007,Desk,Furniture,1,2093,20,1674.4,1500,258.12,15.42,UPI,Standard,3,Kiran,Yes
+ORD00079,2025-03-30,C120,Customer 69,Chennai,Tamil Nadu,South,Corporate,P004,Office Chair,Furniture,7,1110,15,6604.5,500,3279.32,49.65,Cash,Same Day,6,Priya,Yes
+ORD00080,2025-07-10,C131,Customer 134,Hyderabad,Telangana,South,Consumer,P005,Laptop Stand,Accessories,5,900,10,4050.0,220,2995.0,73.95,Cash,Standard,2,Priya,Yes
+ORD00081,2025-02-03,C203,Customer 129,Hyderabad,Telangana,South,Consumer,P003,Monitor,Electronics,10,1092,10,9828.0,800,1937.2,19.71,Net Banking,Same Day,2,Aisha,Yes
+ORD00082,2025-04-29,C230,Customer 192,Chennai,Tamil Nadu,South,Consumer,P008,Webcam,Electronics,2,804,15,1366.8,700,2.98,0.22,Debit Card,Standard,1,Ravi,Yes
+ORD00083,2025-08-18,C134,Customer 4,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,6,1124,5,6406.8,500,3423.66,53.44,Net Banking,Same Day,5,Arjun,Yes
+ORD00084,2025-04-15,C131,Customer 20,Hyderabad,Telangana,South,Home Office,P001,Wireless Mouse,Electronics,6,494,0,2964.0,250,1464.0,49.39,Credit Card,Standard,7,Arjun,No
+ORD00085,2025-04-15,C017,Customer 254,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,10,1019,0,10190.0,600,4190.0,41.12,Cash,Standard,4,Ravi,No
+ORD00086,2025-07-23,C139,Customer 210,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,9,993,5,8490.15,800,1312.49,15.46,Debit Card,Express,1,Arjun,No
+ORD00087,2025-11-26,C101,Customer 201,Mumbai,Maharashtra,West,Home Office,P007,Desk,Furniture,1,2484,10,2235.6,1500,760.44,34.02,Cash,Standard,1,Meena,Yes
+ORD00088,2025-07-06,C236,Customer 84,Chennai,Tamil Nadu,South,Consumer,P007,Desk,Furniture,2,2015,20,3224.0,1500,385.2,11.95,UPI,Standard,5,Priya,No
+ORD00089,2025-03-29,C075,Customer 179,Delhi,Delhi,North,Corporate,P002,Keyboard,Electronics,10,659,20,5272.0,180,3735.6,70.86,Credit Card,Same Day,2,Ravi,Yes
+ORD00090,2025-01-23,C248,Customer 162,Mumbai,Maharashtra,West,Consumer,P007,Desk,Furniture,4,1908,5,7250.4,1500,1269.48,17.51,Net Banking,Same Day,4,Ravi,Yes
+ORD00091,2025-08-31,C094,Customer 290,Delhi,Delhi,North,Consumer,P004,Office Chair,Furniture,7,1229,5,8172.85,500,4694.36,57.44,UPI,Express,5,Priya,No
+ORD00092,2025-01-22,C288,Customer 20,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,3,952,5,2713.2,600,920.34,33.92,Debit Card,Standard,4,Kiran,No
+ORD00093,2025-05-08,C218,Customer 200,Kochi,Kerala,South,Home Office,P005,Laptop Stand,Accessories,7,635,20,3556.0,220,2193.8,61.69,Debit Card,Express,5,Meena,Yes
+ORD00094,2025-05-01,C229,Customer 235,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,10,851,15,7233.5,250,4924.98,68.09,Cash,Express,1,Ravi,Yes
+ORD00095,2025-09-16,C262,Customer 21,Mumbai,Maharashtra,West,Consumer,P006,Headphones,Electronics,6,793,15,4044.3,600,551.36,13.63,Credit Card,Standard,6,Arjun,Yes
+ORD00096,2025-01-14,C034,Customer 57,Delhi,Delhi,North,Consumer,P001,Wireless Mouse,Electronics,7,1018,5,6769.7,250,5037.52,74.41,Credit Card,Express,3,Priya,Yes
+ORD00097,2025-03-23,C166,Customer 141,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,10,1054,10,9486.0,180,7791.4,82.14,Credit Card,Express,5,Meena,Yes
+ORD00098,2025-07-10,C019,Customer 102,Delhi,Delhi,North,Consumer,P005,Laptop Stand,Accessories,9,563,10,4560.3,220,2630.97,57.69,Cash,Standard,6,Arjun,No
+ORD00099,2025-01-25,C185,Customer 232,Bengaluru,Karnataka,South,Home Office,P007,Desk,Furniture,5,1717,20,6868.0,1500,-288.6,-4.2,Net Banking,Same Day,6,Ravi,No
+ORD00100,2025-07-08,C296,Customer 75,Kochi,Kerala,South,Corporate,P007,Desk,Furniture,6,1871,15,9542.1,1500,794.68,8.33,Debit Card,Standard,4,Priya,Yes
+ORD00101,2025-11-24,C300,Customer 161,Hyderabad,Telangana,South,Home Office,P001,Wireless Mouse,Electronics,9,609,10,4932.9,250,2737.71,55.5,UPI,Same Day,1,Priya,Yes
+ORD00102,2025-07-06,C025,Customer 68,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,7,747,20,4183.2,220,2852.36,68.19,Credit Card,Same Day,6,Ravi,Yes
+ORD00103,2025-02-24,C268,Customer 183,Chennai,Tamil Nadu,South,Home Office,P001,Wireless Mouse,Electronics,10,713,10,6417.0,250,3988.3,62.15,Credit Card,Express,5,Arjun,Yes
+ORD00104,2025-03-23,C069,Customer 8,Hyderabad,Telangana,South,Consumer,P004,Office Chair,Furniture,10,1448,15,12308.0,500,7633.8,62.02,Credit Card,Express,1,Ravi,Yes
+ORD00105,2025-11-27,C288,Customer 180,Mumbai,Maharashtra,West,Home Office,P005,Laptop Stand,Accessories,5,331,0,1655.0,220,555.0,33.53,Net Banking,Express,5,Kiran,No
+ORD00106,2025-09-30,C013,Customer 208,Bengaluru,Karnataka,South,Consumer,P004,Office Chair,Furniture,1,645,0,645.0,500,145.0,22.48,Credit Card,Standard,1,Ravi,Yes
+ORD00107,2025-11-08,C260,Customer 213,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,7,804,20,4502.4,500,1227.52,27.26,Credit Card,Same Day,3,Ravi,No
+ORD00108,2025-01-04,C193,Customer 224,Kochi,Kerala,South,Home Office,P001,Wireless Mouse,Electronics,8,1082,20,6924.8,250,5271.04,76.12,Cash,Standard,6,Aisha,No
+ORD00109,2025-11-26,C020,Customer 64,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,2,1167,5,2217.3,800,623.13,28.1,Debit Card,Same Day,1,Arjun,No
+ORD00110,2025-01-08,C087,Customer 134,Hyderabad,Telangana,South,Consumer,P005,Laptop Stand,Accessories,4,407,20,1302.4,220,487.52,37.43,Credit Card,Standard,6,Arjun,Yes
+ORD00111,2025-11-19,C275,Customer 241,Hyderabad,Telangana,South,Corporate,P007,Desk,Furniture,10,1844,15,15674.0,1500,1088.9,6.95,Net Banking,Same Day,1,Ravi,No
+ORD00112,2025-07-20,C300,Customer 40,Delhi,Delhi,North,Home Office,P004,Office Chair,Furniture,5,1408,5,6688.0,500,4205.6,62.88,Credit Card,Standard,1,Ravi,Yes
+ORD00113,2025-12-25,C015,Customer 16,Delhi,Delhi,North,Consumer,P002,Keyboard,Electronics,3,633,5,1804.05,180,1268.8,70.33,Credit Card,Same Day,6,Aisha,Yes
+ORD00114,2025-07-06,C103,Customer 274,Kochi,Kerala,South,Home Office,P002,Keyboard,Electronics,1,347,20,277.6,180,111.48,40.16,UPI,Same Day,4,Ravi,Yes
+ORD00115,2025-11-21,C045,Customer 148,Bengaluru,Karnataka,South,Corporate,P004,Office Chair,Furniture,2,634,0,1268.0,500,268.0,21.14,UPI,Standard,1,Aisha,Yes
+ORD00116,2025-01-11,C180,Customer 132,Hyderabad,Telangana,South,Corporate,P005,Laptop Stand,Accessories,6,753,10,4066.2,220,2791.38,68.65,UPI,Same Day,7,Arjun,No
+ORD00117,2025-07-31,C016,Customer 224,Hyderabad,Telangana,South,Home Office,P008,Webcam,Electronics,10,1563,0,15630.0,700,8630.0,55.21,UPI,Express,4,Aisha,Yes
+ORD00118,2025-03-29,C224,Customer 1,Kochi,Kerala,South,Home Office,P004,Office Chair,Furniture,2,1188,10,2138.4,500,1162.16,54.35,Credit Card,Express,7,Ravi,Yes
+ORD00119,2025-09-11,C178,Customer 264,Mumbai,Maharashtra,West,Corporate,P006,Headphones,Electronics,2,1203,5,2285.7,600,1091.71,47.76,Net Banking,Standard,3,Priya,Yes
+ORD00120,2025-09-09,C288,Customer 54,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,2,1451,0,2902.0,700,1502.0,51.76,Debit Card,Express,1,Meena,No
+ORD00121,2025-06-05,C135,Customer 220,Mumbai,Maharashtra,West,Home Office,P002,Keyboard,Electronics,1,660,5,627.0,180,448.65,71.56,Net Banking,Standard,4,Aisha,Yes
+ORD00122,2025-11-27,C018,Customer 179,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,9,1408,20,10137.6,700,4344.48,42.86,Debit Card,Same Day,2,Meena,No
+ORD00123,2025-10-24,C119,Customer 65,Mumbai,Maharashtra,West,Corporate,P003,Monitor,Electronics,8,1605,10,11556.0,800,5284.4,45.73,Cash,Same Day,6,Priya,Yes
+ORD00124,2025-05-07,C168,Customer 268,Hyderabad,Telangana,South,Corporate,P005,Laptop Stand,Accessories,10,478,5,4541.0,220,2352.95,51.82,Credit Card,Standard,3,Priya,No
+ORD00125,2025-03-19,C076,Customer 155,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,2,480,15,816.0,180,477.6,58.53,Debit Card,Express,3,Priya,Yes
+ORD00126,2025-01-18,C007,Customer 205,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,4,677,15,2301.8,180,1642.73,71.37,Credit Card,Same Day,6,Arjun,No
+ORD00127,2025-01-03,C125,Customer 221,Bengaluru,Karnataka,South,Home Office,P001,Wireless Mouse,Electronics,5,968,15,4114.0,250,2972.9,72.26,Net Banking,Same Day,6,Aisha,No
+ORD00128,2025-12-14,C093,Customer 64,Kochi,Kerala,South,Corporate,P004,Office Chair,Furniture,10,1472,5,13984.0,500,9020.8,64.51,Cash,Express,3,Aisha,Yes
+ORD00129,2025-05-09,C217,Customer 248,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,7,2330,5,15494.5,1500,5035.27,32.5,UPI,Same Day,7,Meena,Yes
+ORD00130,2025-02-24,C020,Customer 129,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,7,1551,15,9228.45,600,5272.73,57.14,Credit Card,Standard,6,Priya,No
+ORD00131,2025-09-01,C263,Customer 9,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,8,834,5,6338.4,180,4915.08,77.54,Debit Card,Same Day,3,Meena,No
+ORD00132,2025-03-04,C183,Customer 29,Kochi,Kerala,South,Corporate,P004,Office Chair,Furniture,3,1001,20,2402.4,500,1022.52,42.56,Debit Card,Express,4,Ravi,Yes
+ORD00133,2025-10-25,C136,Customer 56,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,7,923,10,5814.9,180,4619.51,79.44,Debit Card,Same Day,4,Kiran,Yes
+ORD00134,2025-02-05,C099,Customer 241,Mumbai,Maharashtra,West,Home Office,P007,Desk,Furniture,4,1768,5,6718.4,1500,736.08,10.96,Net Banking,Same Day,2,Priya,No
+ORD00135,2025-11-29,C065,Customer 241,Mumbai,Maharashtra,West,Corporate,P007,Desk,Furniture,5,2378,20,9512.0,1500,2487.6,26.15,Credit Card,Express,6,Meena,No
+ORD00136,2025-05-24,C184,Customer 126,Kochi,Kerala,South,Home Office,P007,Desk,Furniture,3,2093,0,6279.0,1500,1779.0,28.33,Debit Card,Express,4,Meena,No
+ORD00137,2025-07-17,C030,Customer 44,Kochi,Kerala,South,Home Office,P002,Keyboard,Electronics,6,436,10,2354.4,180,1300.56,55.24,Debit Card,Standard,5,Arjun,Yes
+ORD00138,2025-05-09,C052,Customer 297,Bengaluru,Karnataka,South,Consumer,P001,Wireless Mouse,Electronics,2,1021,10,1837.8,250,1358.22,73.9,Credit Card,Standard,7,Meena,No
+ORD00139,2025-03-27,C047,Customer 281,Bengaluru,Karnataka,South,Home Office,P003,Monitor,Electronics,7,1710,20,9576.0,800,4454.8,46.52,Debit Card,Standard,4,Aisha,Yes
+ORD00140,2025-10-12,C061,Customer 136,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,8,967,0,7736.0,180,6296.0,81.39,Credit Card,Standard,4,Meena,Yes
+ORD00141,2025-05-07,C256,Customer 85,Mumbai,Maharashtra,West,Home Office,P008,Webcam,Electronics,3,1517,15,3868.35,700,1870.75,48.36,Net Banking,Same Day,1,Priya,No
+ORD00142,2025-08-27,C192,Customer 219,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,10,1309,10,11781.0,700,4911.9,41.69,UPI,Standard,6,Arjun,Yes
+ORD00143,2025-02-18,C262,Customer 248,Delhi,Delhi,North,Corporate,P001,Wireless Mouse,Electronics,1,1048,10,943.2,250,703.68,74.61,Credit Card,Standard,2,Aisha,No
+ORD00144,2025-06-24,C243,Customer 270,Hyderabad,Telangana,South,Home Office,P003,Monitor,Electronics,2,1782,10,3207.6,800,1643.24,51.23,Credit Card,Express,4,Arjun,No
+ORD00145,2025-05-30,C182,Customer 253,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,1,1166,10,1049.4,220,841.06,80.15,Debit Card,Same Day,3,Kiran,No
+ORD00146,2025-06-19,C099,Customer 163,Kochi,Kerala,South,Home Office,P004,Office Chair,Furniture,8,1410,0,11280.0,500,7280.0,64.54,Debit Card,Standard,5,Aisha,Yes
+ORD00147,2025-10-21,C026,Customer 205,Mumbai,Maharashtra,West,Corporate,P001,Wireless Mouse,Electronics,9,765,20,5508.0,250,3533.4,64.15,UPI,Standard,1,Priya,No
+ORD00148,2025-11-12,C076,Customer 43,Delhi,Delhi,North,Consumer,P001,Wireless Mouse,Electronics,9,976,15,7466.4,250,5414.04,72.51,UPI,Same Day,6,Meena,Yes
+ORD00149,2025-08-04,C052,Customer 7,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,3,1170,0,3510.0,180,2970.0,84.62,Credit Card,Express,5,Aisha,No
+ORD00150,2025-01-11,C221,Customer 290,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,7,355,10,2236.5,220,721.35,32.25,Net Banking,Standard,4,Kiran,Yes
+ORD00151,2025-08-17,C035,Customer 8,Mumbai,Maharashtra,West,Home Office,P002,Keyboard,Electronics,10,992,15,8432.0,180,6855.2,81.3,Cash,Same Day,5,Aisha,Yes
+ORD00152,2025-11-26,C242,Customer 109,Mumbai,Maharashtra,West,Consumer,P008,Webcam,Electronics,9,904,0,8136.0,700,1836.0,22.57,UPI,Express,1,Ravi,Yes
+ORD00153,2025-01-10,C142,Customer 292,Bengaluru,Karnataka,South,Consumer,P002,Keyboard,Electronics,2,412,15,700.4,180,358.94,51.25,Cash,Same Day,6,Priya,Yes
+ORD00154,2025-05-31,C286,Customer 256,Kochi,Kerala,South,Corporate,P006,Headphones,Electronics,3,1447,0,4341.0,600,2541.0,58.53,Debit Card,Standard,6,Ravi,Yes
+ORD00155,2025-06-09,C160,Customer 85,Chennai,Tamil Nadu,South,Corporate,P001,Wireless Mouse,Electronics,10,431,15,3663.5,250,1260.47,34.41,Net Banking,Standard,3,Arjun,No
+ORD00156,2025-07-05,C084,Customer 214,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,3,948,0,2844.0,700,744.0,26.16,Cash,Express,3,Kiran,No
+ORD00157,2025-06-20,C008,Customer 78,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,1,956,20,764.8,220,583.04,76.23,Debit Card,Same Day,4,Priya,No
+ORD00158,2025-08-20,C146,Customer 1,Kochi,Kerala,South,Corporate,P007,Desk,Furniture,7,2216,5,14736.4,1500,4275.18,29.01,Debit Card,Express,4,Priya,Yes
+ORD00159,2025-10-08,C256,Customer 178,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,10,470,10,4230.0,220,2077.0,49.1,UPI,Same Day,5,Meena,No
+ORD00160,2025-01-30,C203,Customer 239,Kochi,Kerala,South,Home Office,P004,Office Chair,Furniture,4,916,20,2931.2,500,1077.76,36.77,Credit Card,Express,5,Ravi,No
+ORD00161,2025-02-02,C120,Customer 204,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,2,1349,10,2428.2,700,1055.18,43.46,Net Banking,Express,7,Kiran,No
+ORD00162,2025-04-19,C099,Customer 48,Delhi,Delhi,North,Consumer,P008,Webcam,Electronics,10,1006,5,9557.0,700,2582.15,27.02,Debit Card,Express,5,Kiran,No
+ORD00163,2025-09-10,C192,Customer 55,Delhi,Delhi,North,Corporate,P007,Desk,Furniture,3,1852,0,5556.0,1500,1056.0,19.01,Cash,Standard,2,Arjun,Yes
+ORD00164,2025-02-18,C018,Customer 105,Hyderabad,Telangana,South,Home Office,P006,Headphones,Electronics,9,1321,0,11889.0,600,6489.0,54.58,Cash,Same Day,5,Priya,No
+ORD00165,2025-11-08,C068,Customer 131,Mumbai,Maharashtra,West,Consumer,P005,Laptop Stand,Accessories,2,777,20,1243.2,220,865.36,69.61,Debit Card,Standard,2,Meena,Yes
+ORD00166,2025-12-28,C235,Customer 250,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,1,920,10,828.0,250,587.2,70.92,Net Banking,Same Day,4,Ravi,Yes
+ORD00167,2025-12-09,C260,Customer 202,Hyderabad,Telangana,South,Consumer,P005,Laptop Stand,Accessories,10,558,0,5580.0,220,3380.0,60.57,Cash,Standard,3,Priya,Yes
+ORD00168,2025-10-11,C015,Customer 25,Chennai,Tamil Nadu,South,Corporate,P003,Monitor,Electronics,5,1260,0,6300.0,800,2300.0,36.51,Net Banking,Same Day,6,Aisha,No
+ORD00169,2025-04-12,C153,Customer 226,Chennai,Tamil Nadu,South,Home Office,P001,Wireless Mouse,Electronics,3,675,0,2025.0,250,1275.0,62.96,UPI,Express,3,Arjun,No
+ORD00170,2025-03-28,C226,Customer 123,Chennai,Tamil Nadu,South,Consumer,P007,Desk,Furniture,6,2092,15,10669.2,1500,1951.62,18.29,UPI,Express,6,Priya,Yes
+ORD00171,2025-03-13,C229,Customer 50,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,2,1533,10,2759.4,800,1190.06,43.13,UPI,Same Day,1,Meena,No
+ORD00172,2025-03-15,C170,Customer 114,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,8,818,10,5889.6,600,1155.04,19.61,UPI,Standard,6,Meena,Yes
+ORD00173,2025-05-07,C080,Customer 14,Bengaluru,Karnataka,South,Corporate,P008,Webcam,Electronics,5,1228,15,5219.0,700,1857.15,35.58,Net Banking,Express,3,Priya,No
+ORD00174,2025-02-28,C079,Customer 263,Chennai,Tamil Nadu,South,Consumer,P008,Webcam,Electronics,6,1267,15,6461.7,700,2432.74,37.65,Credit Card,Same Day,4,Arjun,Yes
+ORD00175,2025-05-03,C122,Customer 50,Bengaluru,Karnataka,South,Corporate,P005,Laptop Stand,Accessories,6,762,10,4114.8,220,2840.52,69.03,Debit Card,Express,2,Ravi,No
+ORD00176,2025-06-24,C262,Customer 72,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,1,1352,20,1081.6,800,335.68,31.04,UPI,Same Day,3,Priya,No
+ORD00177,2025-10-20,C093,Customer 71,Chennai,Tamil Nadu,South,Consumer,P007,Desk,Furniture,7,1823,10,11484.9,1500,1112.51,9.69,Net Banking,Standard,6,Priya,Yes
+ORD00178,2025-05-21,C090,Customer 106,Chennai,Tamil Nadu,South,Consumer,P002,Keyboard,Electronics,10,1028,15,8738.0,180,7169.3,82.05,Net Banking,Same Day,6,Aisha,Yes
+ORD00179,2025-07-28,C029,Customer 266,Bengaluru,Karnataka,South,Corporate,P005,Laptop Stand,Accessories,1,387,20,309.6,220,105.08,33.94,Debit Card,Express,7,Aisha,No
+ORD00180,2025-03-10,C137,Customer 128,Chennai,Tamil Nadu,South,Consumer,P002,Keyboard,Electronics,7,1061,15,6312.95,180,5220.06,82.69,Net Banking,Express,1,Priya,No
+ORD00181,2025-02-06,C062,Customer 183,Hyderabad,Telangana,South,Home Office,P001,Wireless Mouse,Electronics,9,806,20,5803.2,250,3843.36,66.23,Credit Card,Express,7,Aisha,No
+ORD00182,2025-08-17,C263,Customer 14,Hyderabad,Telangana,South,Home Office,P001,Wireless Mouse,Electronics,2,1098,15,1866.6,250,1416.01,75.86,Net Banking,Standard,1,Priya,Yes
+ORD00183,2025-06-09,C129,Customer 285,Delhi,Delhi,North,Consumer,P004,Office Chair,Furniture,3,771,0,2313.0,500,813.0,35.15,UPI,Standard,6,Aisha,Yes
+ORD00184,2025-08-26,C268,Customer 123,Chennai,Tamil Nadu,South,Home Office,P005,Laptop Stand,Accessories,10,972,20,7776.0,220,5964.8,76.71,Cash,Standard,3,Ravi,Yes
+ORD00185,2025-10-27,C257,Customer 144,Hyderabad,Telangana,South,Consumer,P001,Wireless Mouse,Electronics,2,826,15,1404.2,250,941.37,67.04,UPI,Standard,4,Priya,Yes
+ORD00186,2025-03-26,C010,Customer 200,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,10,1073,15,9120.5,500,4361.93,47.83,Cash,Same Day,7,Kiran,Yes
+ORD00187,2025-05-04,C172,Customer 224,Chennai,Tamil Nadu,South,Home Office,P007,Desk,Furniture,6,1946,15,9924.6,1500,1187.31,11.96,Debit Card,Express,7,Kiran,Yes
+ORD00188,2025-05-08,C217,Customer 6,Delhi,Delhi,North,Corporate,P006,Headphones,Electronics,3,1396,10,3769.2,600,2011.08,53.36,UPI,Same Day,2,Ravi,No
+ORD00189,2025-04-26,C072,Customer 216,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,9,2285,0,20565.0,1500,7065.0,34.35,Cash,Same Day,1,Ravi,Yes
+ORD00190,2025-01-19,C052,Customer 129,Kochi,Kerala,South,Consumer,P005,Laptop Stand,Accessories,10,599,20,4792.0,220,2831.6,59.09,Net Banking,Standard,4,Priya,Yes
+ORD00191,2025-03-03,C031,Customer 264,Chennai,Tamil Nadu,South,Corporate,P005,Laptop Stand,Accessories,5,675,5,3206.25,220,2114.69,65.96,UPI,Express,5,Kiran,Yes
+ORD00192,2025-07-28,C296,Customer 148,Chennai,Tamil Nadu,South,Corporate,P008,Webcam,Electronics,9,934,10,7565.4,700,1349.46,17.84,Credit Card,Same Day,1,Aisha,No
+ORD00193,2025-04-14,C281,Customer 188,Delhi,Delhi,North,Corporate,P008,Webcam,Electronics,10,1026,15,8721.0,700,1951.85,22.38,Net Banking,Express,5,Meena,No
+ORD00194,2025-04-07,C263,Customer 280,Chennai,Tamil Nadu,South,Corporate,P005,Laptop Stand,Accessories,4,661,5,2511.8,220,1638.41,65.23,Net Banking,Express,1,Arjun,Yes
+ORD00195,2025-05-19,C146,Customer 111,Hyderabad,Telangana,South,Corporate,P004,Office Chair,Furniture,9,933,15,7137.45,500,2826.38,39.6,UPI,Standard,2,Kiran,Yes
+ORD00196,2025-08-14,C182,Customer 56,Mumbai,Maharashtra,West,Home Office,P006,Headphones,Electronics,1,1229,15,1044.65,600,472.3,45.21,Credit Card,Same Day,6,Priya,No
+ORD00197,2025-11-12,C142,Customer 266,Kochi,Kerala,South,Consumer,P006,Headphones,Electronics,6,843,5,4805.1,600,1217.74,25.34,Cash,Express,7,Aisha,Yes
+ORD00198,2025-10-27,C061,Customer 255,Chennai,Tamil Nadu,South,Corporate,P007,Desk,Furniture,1,2020,20,1616.0,1500,196.8,12.18,Net Banking,Standard,4,Arjun,Yes
+ORD00199,2025-05-30,C181,Customer 201,Mumbai,Maharashtra,West,Home Office,P007,Desk,Furniture,8,1894,10,13636.8,1500,1788.32,13.11,Net Banking,Same Day,4,Aisha,No
+ORD00200,2025-06-03,C095,Customer 275,Kochi,Kerala,South,Corporate,P001,Wireless Mouse,Electronics,8,739,15,5025.2,250,3158.22,62.85,Credit Card,Express,5,Meena,Yes
+ORD00201,2025-05-05,C167,Customer 105,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,6,1143,20,5486.4,180,4680.72,85.31,UPI,Standard,1,Arjun,No
+ORD00202,2025-08-12,C265,Customer 265,Delhi,Delhi,North,Home Office,P005,Laptop Stand,Accessories,5,871,20,3484.0,220,2558.2,73.43,Cash,Express,4,Arjun,Yes
+ORD00203,2025-09-26,C118,Customer 51,Mumbai,Maharashtra,West,Corporate,P006,Headphones,Electronics,1,1392,0,1392.0,600,792.0,56.9,Debit Card,Same Day,4,Aisha,Yes
+ORD00204,2025-11-16,C176,Customer 272,Mumbai,Maharashtra,West,Home Office,P004,Office Chair,Furniture,8,1011,15,6874.8,500,3056.78,44.46,UPI,Standard,3,Arjun,No
+ORD00205,2025-12-02,C151,Customer 176,Hyderabad,Telangana,South,Home Office,P002,Keyboard,Electronics,9,459,0,4131.0,180,2511.0,60.78,Cash,Same Day,2,Kiran,No
+ORD00206,2025-01-31,C290,Customer 55,Delhi,Delhi,North,Corporate,P004,Office Chair,Furniture,4,1022,5,3883.6,500,1893.82,48.76,Net Banking,Same Day,6,Aisha,Yes
+ORD00207,2025-01-03,C156,Customer 204,Chennai,Tamil Nadu,South,Consumer,P007,Desk,Furniture,1,1914,20,1531.2,1500,107.76,7.04,Net Banking,Standard,6,Ravi,Yes
+ORD00208,2025-11-28,C273,Customer 264,Mumbai,Maharashtra,West,Consumer,P003,Monitor,Electronics,9,1480,10,11988.0,800,4921.2,41.05,Net Banking,Standard,4,Kiran,Yes
+ORD00209,2025-02-24,C015,Customer 52,Bengaluru,Karnataka,South,Consumer,P003,Monitor,Electronics,9,1677,20,12074.4,800,5478.12,45.37,Credit Card,Same Day,4,Meena,No
+ORD00210,2025-06-15,C074,Customer 122,Kochi,Kerala,South,Corporate,P001,Wireless Mouse,Electronics,1,1050,20,840.0,250,632.0,75.24,Debit Card,Standard,1,Arjun,Yes
+ORD00211,2025-07-17,C011,Customer 28,Hyderabad,Telangana,South,Consumer,P002,Keyboard,Electronics,4,740,20,2368.0,180,1766.4,74.59,Cash,Same Day,7,Ravi,No
+ORD00212,2025-01-23,C082,Customer 89,Delhi,Delhi,North,Corporate,P001,Wireless Mouse,Electronics,4,605,5,2299.0,250,1305.05,56.77,UPI,Express,3,Meena,No
+ORD00213,2025-12-12,C300,Customer 114,Chennai,Tamil Nadu,South,Corporate,P008,Webcam,Electronics,4,1493,15,5076.2,700,2410.57,47.49,Debit Card,Express,6,Meena,Yes
+ORD00214,2025-07-14,C096,Customer 4,Chennai,Tamil Nadu,South,Corporate,P004,Office Chair,Furniture,3,774,10,2089.8,500,613.02,29.33,Cash,Same Day,3,Ravi,No
+ORD00215,2025-03-05,C217,Customer 180,Hyderabad,Telangana,South,Home Office,P007,Desk,Furniture,7,2266,0,15862.0,1500,5362.0,33.8,Credit Card,Express,2,Meena,No
+ORD00216,2025-12-07,C013,Customer 175,Bengaluru,Karnataka,South,Consumer,P006,Headphones,Electronics,7,735,10,4630.5,600,481.95,10.41,Credit Card,Same Day,2,Ravi,Yes
+ORD00217,2025-08-28,C123,Customer 82,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,3,888,15,2264.4,220,1664.34,73.5,Debit Card,Standard,6,Meena,No
+ORD00218,2025-04-27,C232,Customer 68,Hyderabad,Telangana,South,Home Office,P004,Office Chair,Furniture,8,1116,5,8481.6,500,4503.92,53.1,Debit Card,Same Day,4,Kiran,No
+ORD00219,2025-03-06,C063,Customer 263,Mumbai,Maharashtra,West,Consumer,P004,Office Chair,Furniture,10,1122,5,10659.0,500,5687.05,53.35,Net Banking,Express,6,Meena,Yes
+ORD00220,2025-12-22,C091,Customer 119,Hyderabad,Telangana,South,Corporate,P003,Monitor,Electronics,1,1299,0,1299.0,800,499.0,38.41,Credit Card,Same Day,1,Ravi,No
+ORD00221,2025-02-15,C116,Customer 148,Bengaluru,Karnataka,South,Consumer,P005,Laptop Stand,Accessories,2,1055,10,1899.0,220,1480.1,77.94,Cash,Express,3,Meena,No
+ORD00222,2025-12-14,C180,Customer 212,Hyderabad,Telangana,South,Consumer,P003,Monitor,Electronics,3,930,10,2511.0,800,138.9,5.53,Cash,Standard,7,Meena,No
+ORD00223,2025-11-08,C113,Customer 21,Bengaluru,Karnataka,South,Corporate,P002,Keyboard,Electronics,5,397,10,1786.5,180,906.35,50.73,UPI,Same Day,2,Meena,Yes
+ORD00224,2025-10-10,C160,Customer 92,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,7,1076,0,7532.0,220,5992.0,79.55,Credit Card,Same Day,4,Aisha,No
+ORD00225,2025-02-27,C147,Customer 22,Kochi,Kerala,South,Home Office,P007,Desk,Furniture,10,1957,0,19570.0,1500,4570.0,23.35,Net Banking,Same Day,1,Priya,Yes
+ORD00226,2025-02-14,C214,Customer 202,Hyderabad,Telangana,South,Home Office,P001,Wireless Mouse,Electronics,4,1145,10,4122.0,250,3167.8,76.85,Net Banking,Standard,3,Kiran,Yes
+ORD00227,2025-12-19,C232,Customer 261,Mumbai,Maharashtra,West,Consumer,P006,Headphones,Electronics,8,1048,20,6707.2,600,2242.56,33.44,Credit Card,Express,6,Kiran,Yes
+ORD00228,2025-05-14,C090,Customer 280,Bengaluru,Karnataka,South,Consumer,P008,Webcam,Electronics,1,1519,20,1215.2,700,575.96,47.4,Credit Card,Same Day,3,Priya,Yes
+ORD00229,2025-04-14,C160,Customer 71,Hyderabad,Telangana,South,Consumer,P003,Monitor,Electronics,6,1321,0,7926.0,800,3126.0,39.44,Cash,Same Day,4,Priya,Yes
+ORD00230,2025-12-24,C154,Customer 69,Delhi,Delhi,North,Home Office,P001,Wireless Mouse,Electronics,8,486,10,3499.2,250,1538.08,43.96,Credit Card,Same Day,5,Priya,No
+ORD00231,2025-12-13,C080,Customer 237,Delhi,Delhi,North,Corporate,P002,Keyboard,Electronics,7,1058,5,7035.7,180,5794.22,82.35,Credit Card,Standard,6,Arjun,Yes
+ORD00232,2025-05-24,C156,Customer 101,Mumbai,Maharashtra,West,Consumer,P006,Headphones,Electronics,4,744,0,2976.0,600,576.0,19.35,Debit Card,Express,1,Priya,No
+ORD00233,2025-03-28,C286,Customer 37,Mumbai,Maharashtra,West,Consumer,P008,Webcam,Electronics,10,1171,10,10539.0,700,3656.1,34.69,UPI,Express,7,Meena,Yes
+ORD00234,2025-11-27,C251,Customer 223,Kochi,Kerala,South,Corporate,P006,Headphones,Electronics,10,970,0,9700.0,600,3700.0,38.14,Credit Card,Same Day,3,Ravi,No
+ORD00235,2025-12-01,C129,Customer 126,Kochi,Kerala,South,Consumer,P002,Keyboard,Electronics,5,922,20,3688.0,180,2972.4,80.6,Credit Card,Same Day,1,Ravi,No
+ORD00236,2025-12-16,C087,Customer 53,Hyderabad,Telangana,South,Home Office,P003,Monitor,Electronics,6,1090,20,5232.0,800,693.6,13.26,Debit Card,Same Day,5,Arjun,No
+ORD00237,2025-07-08,C070,Customer 283,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,6,1227,5,6993.9,800,2212.3,31.63,Debit Card,Standard,1,Ravi,Yes
+ORD00238,2025-09-13,C081,Customer 154,Chennai,Tamil Nadu,South,Home Office,P007,Desk,Furniture,4,2106,15,7160.4,1500,1349.94,18.85,Net Banking,Same Day,1,Priya,Yes
+ORD00239,2025-02-15,C021,Customer 226,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,8,1552,15,10553.6,800,4432.96,42.0,Credit Card,Standard,6,Arjun,Yes
+ORD00240,2025-05-26,C037,Customer 29,Delhi,Delhi,North,Home Office,P001,Wireless Mouse,Electronics,9,785,5,6711.75,250,4479.41,66.74,Cash,Express,1,Meena,Yes
+ORD00241,2025-01-03,C227,Customer 289,Kochi,Kerala,South,Home Office,P003,Monitor,Electronics,3,1287,10,3474.9,800,1113.51,32.04,Debit Card,Same Day,2,Meena,Yes
+ORD00242,2025-11-17,C080,Customer 206,Delhi,Delhi,North,Home Office,P006,Headphones,Electronics,8,1138,20,7283.2,600,2847.36,39.09,Net Banking,Standard,7,Ravi,No
+ORD00243,2025-09-04,C071,Customer 154,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,10,751,10,6759.0,220,4634.1,68.56,Net Banking,Same Day,1,Priya,Yes
+ORD00244,2025-07-10,C285,Customer 298,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,2,950,20,1520.0,700,196.0,12.89,Debit Card,Same Day,2,Kiran,No
+ORD00245,2025-04-14,C281,Customer 58,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,2,1832,5,3480.8,1500,489.96,14.08,Debit Card,Same Day,1,Priya,No
+ORD00246,2025-10-05,C294,Customer 58,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,9,1269,5,10849.95,700,4578.5,42.2,Net Banking,Same Day,5,Ravi,No
+ORD00247,2025-10-09,C260,Customer 59,Mumbai,Maharashtra,West,Home Office,P002,Keyboard,Electronics,3,1164,20,2793.6,180,2393.28,85.67,Net Banking,Standard,4,Aisha,No
+ORD00248,2025-03-12,C192,Customer 30,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,10,1386,0,13860.0,800,5860.0,42.28,Credit Card,Standard,3,Ravi,Yes
+ORD00249,2025-08-07,C045,Customer 104,Mumbai,Maharashtra,West,Home Office,P004,Office Chair,Furniture,5,723,5,3434.25,500,943.29,27.47,UPI,Same Day,7,Arjun,Yes
+ORD00250,2025-05-11,C063,Customer 123,Kochi,Kerala,South,Corporate,P006,Headphones,Electronics,6,1523,0,9138.0,600,5538.0,60.6,Net Banking,Same Day,5,Arjun,No
+ORD00251,2025-10-09,C168,Customer 58,Delhi,Delhi,North,Consumer,P001,Wireless Mouse,Electronics,6,452,10,2440.8,250,967.92,39.66,Credit Card,Express,3,Priya,No
+ORD00252,2025-09-07,C057,Customer 38,Delhi,Delhi,North,Corporate,P001,Wireless Mouse,Electronics,8,466,0,3728.0,250,1728.0,46.35,Credit Card,Standard,5,Arjun,No
+ORD00253,2025-08-16,C008,Customer 13,Delhi,Delhi,North,Corporate,P003,Monitor,Electronics,5,1451,10,6529.5,800,2602.05,39.85,Credit Card,Express,5,Meena,Yes
+ORD00254,2025-07-20,C244,Customer 82,Chennai,Tamil Nadu,South,Home Office,P001,Wireless Mouse,Electronics,3,985,20,2364.0,250,1732.2,73.27,Cash,Express,2,Kiran,Yes
+ORD00255,2025-03-09,C023,Customer 109,Hyderabad,Telangana,South,Consumer,P006,Headphones,Electronics,9,921,10,7460.1,600,2142.99,28.73,Debit Card,Same Day,4,Arjun,No
+ORD00256,2025-10-24,C248,Customer 171,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,6,1606,10,8672.4,1500,-231.24,-2.67,UPI,Standard,4,Kiran,Yes
+ORD00257,2025-05-20,C033,Customer 257,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,3,1179,15,3006.45,800,686.03,22.82,Debit Card,Same Day,5,Kiran,Yes
+ORD00258,2025-08-07,C293,Customer 51,Delhi,Delhi,North,Corporate,P001,Wireless Mouse,Electronics,2,1243,5,2361.7,250,1867.91,79.09,Debit Card,Standard,7,Priya,Yes
+ORD00259,2025-06-29,C282,Customer 208,Hyderabad,Telangana,South,Corporate,P005,Laptop Stand,Accessories,6,841,5,4793.7,220,3486.32,72.73,UPI,Same Day,3,Aisha,No
+ORD00260,2025-06-28,C078,Customer 70,Delhi,Delhi,North,Consumer,P008,Webcam,Electronics,6,1049,5,5979.3,700,1795.04,30.02,UPI,Same Day,4,Meena,No
+ORD00261,2025-02-03,C074,Customer 155,Delhi,Delhi,North,Home Office,P007,Desk,Furniture,5,1772,20,7088.0,1500,-57.6,-0.81,Debit Card,Express,6,Kiran,No
+ORD00262,2025-04-02,C156,Customer 298,Bengaluru,Karnataka,South,Corporate,P002,Keyboard,Electronics,10,361,20,2888.0,180,1232.4,42.67,Cash,Express,7,Aisha,No
+ORD00263,2025-05-12,C280,Customer 12,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,6,459,10,2478.6,180,1426.14,57.54,Debit Card,Standard,6,Ravi,Yes
+ORD00264,2025-05-25,C257,Customer 51,Mumbai,Maharashtra,West,Consumer,P001,Wireless Mouse,Electronics,8,555,20,3552.0,250,1729.6,48.69,Credit Card,Same Day,1,Priya,Yes
+ORD00265,2025-01-03,C097,Customer 139,Chennai,Tamil Nadu,South,Home Office,P002,Keyboard,Electronics,10,629,5,5975.5,180,4191.23,70.14,UPI,Same Day,3,Ravi,Yes
+ORD00266,2025-07-27,C173,Customer 90,Hyderabad,Telangana,South,Consumer,P006,Headphones,Electronics,1,1364,15,1159.4,600,590.09,50.9,Cash,Standard,1,Aisha,No
+ORD00267,2025-01-07,C014,Customer 163,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,7,1063,15,6324.85,700,1592.27,25.17,Debit Card,Standard,4,Kiran,No
+ORD00268,2025-03-15,C272,Customer 47,Chennai,Tamil Nadu,South,Corporate,P003,Monitor,Electronics,1,1059,5,1006.05,800,208.7,20.74,Debit Card,Express,3,Kiran,Yes
+ORD00269,2025-01-17,C159,Customer 282,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,10,964,15,8194.0,600,2410.9,29.42,Cash,Same Day,3,Arjun,No
+ORD00270,2025-02-21,C186,Customer 78,Hyderabad,Telangana,South,Home Office,P003,Monitor,Electronics,1,1471,15,1250.35,800,483.45,38.67,Credit Card,Express,7,Ravi,Yes
+ORD00271,2025-04-15,C285,Customer 94,Chennai,Tamil Nadu,South,Corporate,P003,Monitor,Electronics,1,1456,20,1164.8,800,423.04,36.32,Net Banking,Express,6,Priya,Yes
+ORD00272,2025-08-15,C256,Customer 110,Delhi,Delhi,North,Home Office,P003,Monitor,Electronics,1,1259,5,1196.05,800,399.2,33.38,Debit Card,Express,4,Priya,No
+ORD00273,2025-12-12,C180,Customer 31,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,1,417,15,354.45,250,113.83,32.11,Net Banking,Express,4,Meena,Yes
+ORD00274,2025-05-04,C119,Customer 182,Hyderabad,Telangana,South,Consumer,P001,Wireless Mouse,Electronics,1,618,15,525.3,250,289.21,55.06,Debit Card,Express,6,Arjun,No
+ORD00275,2025-09-02,C137,Customer 70,Bengaluru,Karnataka,South,Corporate,P008,Webcam,Electronics,10,1609,5,15285.5,700,8325.73,54.47,Debit Card,Standard,3,Ravi,No
+ORD00276,2025-11-02,C232,Customer 109,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,6,1299,20,6235.2,500,3546.96,56.89,UPI,Standard,7,Aisha,No
+ORD00277,2025-06-02,C013,Customer 58,Mumbai,Maharashtra,West,Consumer,P001,Wireless Mouse,Electronics,3,795,5,2265.75,250,1521.71,67.16,UPI,Standard,3,Priya,No
+ORD00278,2025-02-16,C213,Customer 174,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,8,979,15,6657.2,180,5393.42,81.02,Cash,Express,1,Kiran,Yes
+ORD00279,2025-09-16,C119,Customer 295,Kochi,Kerala,South,Corporate,P004,Office Chair,Furniture,1,638,5,606.1,500,107.69,17.77,UPI,Same Day,1,Ravi,No
+ORD00280,2025-09-27,C220,Customer 2,Chennai,Tamil Nadu,South,Consumer,P002,Keyboard,Electronics,2,779,5,1480.1,180,1123.99,75.94,Credit Card,Same Day,5,Priya,Yes
+ORD00281,2025-04-25,C038,Customer 140,Mumbai,Maharashtra,West,Home Office,P006,Headphones,Electronics,2,1057,5,2008.3,600,813.59,40.51,Credit Card,Standard,3,Arjun,Yes
+ORD00282,2025-10-12,C186,Customer 137,Bengaluru,Karnataka,South,Consumer,P001,Wireless Mouse,Electronics,9,399,15,3052.35,250,883.15,28.93,Debit Card,Same Day,1,Aisha,No
+ORD00283,2025-05-18,C205,Customer 217,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,6,1026,15,5232.6,220,4051.11,77.42,Net Banking,Express,4,Priya,No
+ORD00284,2025-05-03,C257,Customer 131,Mumbai,Maharashtra,West,Home Office,P007,Desk,Furniture,3,2250,0,6750.0,1500,2250.0,33.33,Net Banking,Same Day,4,Priya,Yes
+ORD00285,2025-01-26,C208,Customer 286,Chennai,Tamil Nadu,South,Corporate,P002,Keyboard,Electronics,10,1082,0,10820.0,180,9020.0,83.36,Cash,Same Day,6,Arjun,No
+ORD00286,2025-10-31,C280,Customer 195,Mumbai,Maharashtra,West,Consumer,P001,Wireless Mouse,Electronics,8,872,10,6278.4,250,4348.16,69.26,Cash,Express,6,Ravi,No
+ORD00287,2025-12-07,C115,Customer 136,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,6,393,20,1886.4,220,660.72,35.03,Cash,Same Day,3,Kiran,No
+ORD00288,2025-07-06,C269,Customer 105,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,2,1375,20,2200.0,500,1310.0,59.55,Credit Card,Express,2,Aisha,Yes
+ORD00289,2025-06-14,C196,Customer 186,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,8,1081,0,8648.0,800,2248.0,25.99,UPI,Express,2,Aisha,No
+ORD00290,2025-09-24,C155,Customer 232,Chennai,Tamil Nadu,South,Home Office,P007,Desk,Furniture,6,1965,20,9432.0,1500,903.6,9.58,UPI,Express,4,Arjun,No
+ORD00291,2025-09-22,C077,Customer 4,Mumbai,Maharashtra,West,Home Office,P002,Keyboard,Electronics,8,1028,5,7812.8,180,6393.36,81.83,Credit Card,Express,4,Kiran,Yes
+ORD00292,2025-05-10,C010,Customer 285,Delhi,Delhi,North,Consumer,P006,Headphones,Electronics,6,1520,15,7752.0,600,4357.2,56.21,UPI,Same Day,3,Ravi,Yes
+ORD00293,2025-05-11,C124,Customer 136,Kochi,Kerala,South,Corporate,P005,Laptop Stand,Accessories,9,601,10,4868.1,220,2942.19,60.44,UPI,Same Day,6,Meena,Yes
+ORD00294,2025-11-13,C191,Customer 23,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,7,1411,10,8889.3,500,5488.07,61.74,Cash,Express,3,Ravi,No
+ORD00295,2025-06-30,C123,Customer 198,Mumbai,Maharashtra,West,Home Office,P007,Desk,Furniture,10,2430,10,21870.0,1500,7113.0,32.52,Credit Card,Same Day,2,Aisha,No
+ORD00296,2025-02-10,C229,Customer 195,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,4,617,0,2468.0,180,1748.0,70.83,Net Banking,Express,4,Aisha,Yes
+ORD00297,2025-12-25,C224,Customer 213,Delhi,Delhi,North,Corporate,P002,Keyboard,Electronics,10,753,15,6400.5,180,4769.93,74.52,Credit Card,Standard,4,Meena,No
+ORD00298,2025-04-13,C206,Customer 278,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,1,1586,5,1506.7,800,710.66,47.17,Debit Card,Same Day,3,Meena,No
+ORD00299,2025-10-20,C008,Customer 53,Chennai,Tamil Nadu,South,Corporate,P002,Keyboard,Electronics,4,1148,0,4592.0,180,3872.0,84.32,UPI,Standard,5,Meena,Yes
+ORD00300,2025-10-09,C214,Customer 299,Kochi,Kerala,South,Consumer,P004,Office Chair,Furniture,6,1094,0,6564.0,500,3564.0,54.3,Cash,Standard,7,Aisha,Yes
+ORD00301,2025-04-06,C276,Customer 141,Hyderabad,Telangana,South,Home Office,P006,Headphones,Electronics,4,1230,0,4920.0,600,2520.0,51.22,Debit Card,Standard,3,Meena,No
+ORD00302,2025-12-15,C027,Customer 158,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,7,843,15,5015.85,220,3608.62,71.94,Credit Card,Express,7,Meena,No
+ORD00303,2025-10-02,C192,Customer 238,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,3,373,5,1063.05,220,405.85,38.18,Cash,Same Day,5,Priya,No
+ORD00304,2025-12-06,C027,Customer 161,Bengaluru,Karnataka,South,Consumer,P006,Headphones,Electronics,8,1423,20,9107.2,600,4762.56,52.29,Net Banking,Standard,4,Kiran,No
+ORD00305,2025-05-30,C103,Customer 108,Hyderabad,Telangana,South,Home Office,P001,Wireless Mouse,Electronics,4,1165,15,3961.0,250,3065.85,77.4,Net Banking,Express,4,Aisha,No
+ORD00306,2025-11-24,C064,Customer 26,Bengaluru,Karnataka,South,Consumer,P004,Office Chair,Furniture,1,784,15,666.4,500,184.04,27.62,UPI,Same Day,4,Priya,Yes
+ORD00307,2025-04-19,C274,Customer 82,Mumbai,Maharashtra,West,Consumer,P003,Monitor,Electronics,4,1590,10,5724.0,800,2587.6,45.21,Credit Card,Same Day,1,Meena,Yes
+ORD00308,2025-12-04,C132,Customer 227,Chennai,Tamil Nadu,South,Home Office,P004,Office Chair,Furniture,1,1024,5,972.8,500,475.36,48.87,Cash,Standard,7,Ravi,Yes
+ORD00309,2025-10-26,C164,Customer 288,Bengaluru,Karnataka,South,Home Office,P001,Wireless Mouse,Electronics,8,650,5,4940.0,250,2953.0,59.78,Credit Card,Express,3,Arjun,Yes
+ORD00310,2025-06-17,C195,Customer 80,Kochi,Kerala,South,Home Office,P003,Monitor,Electronics,4,1300,0,5200.0,800,2000.0,38.46,Debit Card,Standard,6,Kiran,Yes
+ORD00311,2025-08-09,C171,Customer 206,Mumbai,Maharashtra,West,Consumer,P004,Office Chair,Furniture,3,1345,5,3833.25,500,2343.34,61.13,UPI,Express,1,Aisha,Yes
+ORD00312,2025-09-12,C048,Customer 103,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,8,636,0,5088.0,180,3648.0,71.7,Debit Card,Express,5,Kiran,Yes
+ORD00313,2025-10-24,C154,Customer 17,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,8,877,5,6665.2,500,2682.74,40.25,Net Banking,Standard,1,Arjun,Yes
+ORD00314,2025-06-20,C180,Customer 231,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,5,951,5,4517.25,800,529.14,11.71,Credit Card,Express,6,Arjun,Yes
+ORD00315,2025-08-21,C049,Customer 283,Hyderabad,Telangana,South,Consumer,P002,Keyboard,Electronics,2,1021,20,1633.6,180,1355.28,82.96,Credit Card,Same Day,4,Meena,Yes
+ORD00316,2025-07-31,C068,Customer 213,Chennai,Tamil Nadu,South,Home Office,P001,Wireless Mouse,Electronics,9,943,0,8487.0,250,6237.0,73.49,Debit Card,Standard,3,Aisha,Yes
+ORD00317,2025-11-27,C246,Customer 156,Bengaluru,Karnataka,South,Consumer,P006,Headphones,Electronics,2,1039,0,2078.0,600,878.0,42.25,Debit Card,Standard,1,Priya,Yes
+ORD00318,2025-03-02,C167,Customer 240,Mumbai,Maharashtra,West,Consumer,P003,Monitor,Electronics,5,1448,20,5792.0,800,2081.6,35.94,Credit Card,Same Day,5,Ravi,No
+ORD00319,2025-04-15,C066,Customer 123,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,5,1113,20,4452.0,600,1674.6,37.61,Net Banking,Same Day,2,Ravi,Yes
+ORD00320,2025-04-18,C118,Customer 45,Chennai,Tamil Nadu,South,Consumer,P002,Keyboard,Electronics,8,1090,20,6976.0,180,5884.8,84.36,Credit Card,Express,1,Meena,No
+ORD00321,2025-12-06,C297,Customer 112,Hyderabad,Telangana,South,Consumer,P002,Keyboard,Electronics,10,403,0,4030.0,180,2230.0,55.33,Credit Card,Same Day,7,Kiran,Yes
+ORD00322,2025-01-22,C111,Customer 90,Chennai,Tamil Nadu,South,Corporate,P004,Office Chair,Furniture,10,945,0,9450.0,500,4450.0,47.09,Debit Card,Standard,7,Meena,Yes
+ORD00323,2025-01-17,C046,Customer 126,Hyderabad,Telangana,South,Consumer,P001,Wireless Mouse,Electronics,7,1155,15,6872.25,250,5304.16,77.18,Net Banking,Same Day,2,Priya,No
+ORD00324,2025-12-29,C035,Customer 2,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,4,1124,10,4046.4,800,891.36,22.03,UPI,Express,5,Arjun,Yes
+ORD00325,2025-07-30,C048,Customer 179,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,1,1146,10,1031.4,180,862.86,83.66,Credit Card,Express,6,Aisha,No
+ORD00326,2025-12-15,C085,Customer 223,Hyderabad,Telangana,South,Corporate,P003,Monitor,Electronics,5,954,15,4054.5,800,161.83,3.99,Net Banking,Express,6,Kiran,Yes
+ORD00327,2025-10-28,C235,Customer 288,Hyderabad,Telangana,South,Consumer,P002,Keyboard,Electronics,4,525,5,1995.0,180,1280.25,64.17,Cash,Same Day,6,Aisha,Yes
+ORD00328,2025-07-14,C208,Customer 45,Kochi,Kerala,South,Consumer,P007,Desk,Furniture,7,2412,10,15195.6,1500,4864.44,32.01,Debit Card,Same Day,5,Meena,No
+ORD00329,2025-02-26,C244,Customer 215,Hyderabad,Telangana,South,Corporate,P001,Wireless Mouse,Electronics,8,968,0,7744.0,250,5744.0,74.17,Net Banking,Express,4,Priya,No
+ORD00330,2025-11-14,C017,Customer 150,Chennai,Tamil Nadu,South,Corporate,P004,Office Chair,Furniture,6,1003,15,5115.3,500,2250.7,44.0,UPI,Express,2,Aisha,No
+ORD00331,2025-03-03,C111,Customer 22,Kochi,Kerala,South,Corporate,P007,Desk,Furniture,9,2426,5,20742.3,1500,7296.89,35.18,Credit Card,Express,3,Arjun,Yes
+ORD00332,2025-07-21,C158,Customer 256,Bengaluru,Karnataka,South,Corporate,P006,Headphones,Electronics,4,1059,20,3388.8,600,1158.24,34.18,Net Banking,Same Day,2,Priya,No
+ORD00333,2025-08-21,C290,Customer 129,Chennai,Tamil Nadu,South,Home Office,P001,Wireless Mouse,Electronics,3,456,5,1299.6,250,553.02,42.55,Debit Card,Same Day,1,Kiran,No
+ORD00334,2025-11-16,C170,Customer 228,Hyderabad,Telangana,South,Corporate,P003,Monitor,Electronics,7,977,20,5471.2,800,144.76,2.65,Debit Card,Express,3,Aisha,No
+ORD00335,2025-12-21,C010,Customer 30,Kochi,Kerala,South,Home Office,P001,Wireless Mouse,Electronics,8,855,10,6156.0,250,4224.4,68.62,UPI,Same Day,4,Meena,No
+ORD00336,2025-01-18,C167,Customer 248,Kochi,Kerala,South,Consumer,P003,Monitor,Electronics,10,1667,15,14169.5,800,6544.57,46.19,UPI,Express,2,Priya,Yes
+ORD00337,2025-11-18,C124,Customer 150,Bengaluru,Karnataka,South,Home Office,P007,Desk,Furniture,10,2256,10,20304.0,1500,5529.6,27.23,UPI,Express,5,Meena,Yes
+ORD00338,2025-06-15,C083,Customer 295,Mumbai,Maharashtra,West,Corporate,P007,Desk,Furniture,6,2307,10,12457.8,1500,3596.22,28.87,UPI,Same Day,3,Priya,Yes
+ORD00339,2025-03-29,C160,Customer 28,Bengaluru,Karnataka,South,Home Office,P001,Wireless Mouse,Electronics,5,1106,20,4424.0,250,3395.2,76.75,Debit Card,Express,7,Arjun,Yes
+ORD00340,2025-06-14,C225,Customer 207,Hyderabad,Telangana,South,Consumer,P005,Laptop Stand,Accessories,8,522,20,3340.8,220,1747.84,52.32,Debit Card,Express,4,Arjun,No
+ORD00341,2025-08-19,C257,Customer 210,Hyderabad,Telangana,South,Home Office,P008,Webcam,Electronics,2,1008,20,1612.8,700,293.44,18.19,Credit Card,Express,1,Priya,No
+ORD00342,2025-02-09,C141,Customer 201,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,9,1668,15,12760.2,700,6797.97,53.27,Cash,Same Day,7,Arjun,Yes
+ORD00343,2025-12-24,C291,Customer 157,Mumbai,Maharashtra,West,Corporate,P005,Laptop Stand,Accessories,1,362,20,289.6,220,84.08,29.03,Net Banking,Express,3,Priya,Yes
+ORD00344,2025-06-07,C085,Customer 91,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,7,1134,0,7938.0,180,6678.0,84.13,UPI,Express,4,Aisha,No
+ORD00345,2025-06-29,C096,Customer 74,Mumbai,Maharashtra,West,Home Office,P007,Desk,Furniture,8,2425,10,17460.0,1500,5654.0,32.38,Net Banking,Express,6,Arjun,Yes
+ORD00346,2025-09-15,C002,Customer 294,Hyderabad,Telangana,South,Home Office,P004,Office Chair,Furniture,2,1023,0,2046.0,500,1046.0,51.12,Credit Card,Same Day,4,Meena,Yes
+ORD00347,2025-12-10,C123,Customer 257,Kochi,Kerala,South,Consumer,P005,Laptop Stand,Accessories,3,474,5,1350.9,220,694.46,51.41,Debit Card,Standard,6,Aisha,No
+ORD00348,2025-12-31,C035,Customer 261,Bengaluru,Karnataka,South,Corporate,P005,Laptop Stand,Accessories,7,947,10,5966.1,220,4492.39,75.3,Net Banking,Standard,2,Arjun,Yes
+ORD00349,2025-07-04,C012,Customer 265,Kochi,Kerala,South,Consumer,P006,Headphones,Electronics,10,1521,0,15210.0,600,9210.0,60.55,UPI,Express,2,Ravi,No
+ORD00350,2025-08-17,C285,Customer 17,Mumbai,Maharashtra,West,Consumer,P003,Monitor,Electronics,5,1415,0,7075.0,800,3075.0,43.46,Net Banking,Express,1,Meena,Yes
+ORD00351,2025-10-19,C118,Customer 112,Kochi,Kerala,South,Home Office,P005,Laptop Stand,Accessories,6,658,20,3158.4,220,1996.32,63.21,Credit Card,Express,7,Kiran,Yes
+ORD00352,2025-05-18,C218,Customer 192,Bengaluru,Karnataka,South,Consumer,P004,Office Chair,Furniture,1,1430,20,1144.0,500,701.2,61.29,Debit Card,Same Day,1,Kiran,Yes
+ORD00353,2025-04-26,C029,Customer 191,Mumbai,Maharashtra,West,Home Office,P007,Desk,Furniture,9,2202,15,16845.3,1500,3791.2,22.51,Debit Card,Same Day,3,Ravi,No
+ORD00354,2025-08-21,C098,Customer 175,Mumbai,Maharashtra,West,Home Office,P003,Monitor,Electronics,8,1599,20,10233.6,800,4345.28,42.46,Credit Card,Standard,4,Priya,No
+ORD00355,2025-04-12,C101,Customer 136,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,9,616,15,4712.4,500,337.14,7.15,Net Banking,Same Day,7,Arjun,Yes
+ORD00356,2025-01-07,C276,Customer 136,Chennai,Tamil Nadu,South,Home Office,P001,Wireless Mouse,Electronics,6,560,15,2856.0,250,1431.6,50.13,Debit Card,Same Day,2,Kiran,No
+ORD00357,2025-12-20,C182,Customer 216,Hyderabad,Telangana,South,Consumer,P006,Headphones,Electronics,2,745,5,1415.5,600,219.22,15.49,Cash,Standard,3,Ravi,Yes
+ORD00358,2025-06-13,C244,Customer 66,Mumbai,Maharashtra,West,Consumer,P006,Headphones,Electronics,8,784,10,5644.8,600,907.52,16.08,Net Banking,Same Day,3,Kiran,No
+ORD00359,2025-04-09,C143,Customer 266,Hyderabad,Telangana,South,Corporate,P004,Office Chair,Furniture,5,1272,0,6360.0,500,3860.0,60.69,Cash,Standard,7,Meena,Yes
+ORD00360,2025-09-30,C195,Customer 15,Chennai,Tamil Nadu,South,Consumer,P003,Monitor,Electronics,2,1119,20,1790.4,800,279.92,15.63,UPI,Express,7,Ravi,Yes
+ORD00361,2025-08-25,C249,Customer 106,Hyderabad,Telangana,South,Consumer,P002,Keyboard,Electronics,6,919,20,4411.2,180,3551.76,80.52,Credit Card,Standard,3,Meena,Yes
+ORD00362,2025-08-22,C293,Customer 300,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,3,484,15,1234.2,180,726.87,58.89,Cash,Standard,5,Aisha,Yes
+ORD00363,2025-11-29,C241,Customer 242,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,7,1467,5,9755.55,700,4881.22,50.04,Credit Card,Standard,4,Kiran,No
+ORD00364,2025-01-03,C201,Customer 290,Kochi,Kerala,South,Home Office,P002,Keyboard,Electronics,4,1099,5,4176.2,180,3467.19,83.02,Credit Card,Same Day,6,Aisha,Yes
+ORD00365,2025-01-20,C239,Customer 25,Chennai,Tamil Nadu,South,Corporate,P004,Office Chair,Furniture,4,1421,0,5684.0,500,3684.0,64.81,Credit Card,Standard,7,Aisha,Yes
+ORD00366,2025-01-10,C246,Customer 54,Hyderabad,Telangana,South,Home Office,P007,Desk,Furniture,1,1757,15,1493.45,1500,32.98,2.21,UPI,Standard,2,Kiran,Yes
+ORD00367,2025-01-02,C037,Customer 16,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,9,1505,15,11513.25,600,6418.01,55.74,UPI,Same Day,5,Kiran,Yes
+ORD00368,2025-08-23,C204,Customer 4,Kochi,Kerala,South,Home Office,P001,Wireless Mouse,Electronics,9,979,10,7929.9,250,5768.01,72.74,Credit Card,Standard,2,Kiran,No
+ORD00369,2025-02-26,C045,Customer 280,Chennai,Tamil Nadu,South,Home Office,P004,Office Chair,Furniture,4,1287,15,4375.8,500,2491.63,56.94,Debit Card,Same Day,1,Ravi,Yes
+ORD00370,2025-06-08,C152,Customer 76,Chennai,Tamil Nadu,South,Corporate,P002,Keyboard,Electronics,6,560,10,3024.0,180,1977.6,65.4,Net Banking,Same Day,3,Priya,Yes
+ORD00371,2025-04-20,C267,Customer 198,Chennai,Tamil Nadu,South,Corporate,P002,Keyboard,Electronics,1,396,20,316.8,180,152.64,48.18,Cash,Same Day,5,Aisha,Yes
+ORD00372,2025-12-10,C070,Customer 221,Chennai,Tamil Nadu,South,Consumer,P002,Keyboard,Electronics,1,1013,0,1013.0,180,833.0,82.23,Credit Card,Same Day,3,Meena,No
+ORD00373,2025-01-15,C167,Customer 196,Hyderabad,Telangana,South,Consumer,P003,Monitor,Electronics,5,1766,10,7947.0,800,4035.3,50.78,Credit Card,Express,2,Aisha,No
+ORD00374,2025-10-03,C011,Customer 175,Hyderabad,Telangana,South,Consumer,P006,Headphones,Electronics,4,713,15,2424.2,600,88.37,3.65,Net Banking,Express,7,Arjun,Yes
+ORD00375,2025-02-23,C019,Customer 161,Hyderabad,Telangana,South,Corporate,P004,Office Chair,Furniture,2,1144,5,2173.6,500,1179.32,54.26,Debit Card,Express,1,Kiran,Yes
+ORD00376,2025-11-29,C276,Customer 126,Bengaluru,Karnataka,South,Corporate,P008,Webcam,Electronics,4,1343,0,5372.0,700,2572.0,47.88,Net Banking,Same Day,7,Aisha,Yes
+ORD00377,2025-05-14,C221,Customer 61,Bengaluru,Karnataka,South,Consumer,P004,Office Chair,Furniture,5,1373,0,6865.0,500,4365.0,63.58,Net Banking,Express,5,Aisha,Yes
+ORD00378,2025-01-15,C047,Customer 108,Mumbai,Maharashtra,West,Home Office,P005,Laptop Stand,Accessories,4,669,10,2408.4,220,1555.16,64.57,Debit Card,Same Day,6,Aisha,Yes
+ORD00379,2025-06-05,C040,Customer 33,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,2,991,15,1684.7,180,1369.3,81.28,UPI,Same Day,1,Ravi,No
+ORD00380,2025-11-28,C262,Customer 141,Bengaluru,Karnataka,South,Corporate,P002,Keyboard,Electronics,9,395,15,3021.75,180,1481.74,49.04,Credit Card,Standard,3,Arjun,No
+ORD00381,2025-08-24,C176,Customer 166,Kochi,Kerala,South,Consumer,P007,Desk,Furniture,3,2055,0,6165.0,1500,1665.0,27.01,UPI,Express,7,Priya,Yes
+ORD00382,2025-01-06,C098,Customer 38,Hyderabad,Telangana,South,Consumer,P004,Office Chair,Furniture,6,884,20,4243.2,500,1455.36,34.3,Credit Card,Same Day,6,Kiran,No
+ORD00383,2025-02-19,C030,Customer 197,Bengaluru,Karnataka,South,Corporate,P005,Laptop Stand,Accessories,1,467,15,396.95,220,187.46,47.23,UPI,Same Day,5,Priya,Yes
+ORD00384,2025-07-01,C187,Customer 278,Hyderabad,Telangana,South,Home Office,P002,Keyboard,Electronics,1,554,5,526.3,180,347.69,66.06,Credit Card,Standard,3,Aisha,No
+ORD00385,2025-05-08,C085,Customer 147,Hyderabad,Telangana,South,Corporate,P006,Headphones,Electronics,3,1235,0,3705.0,600,1905.0,51.42,UPI,Standard,6,Priya,Yes
+ORD00386,2025-05-15,C004,Customer 26,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,4,2256,15,7670.4,1500,1873.44,24.42,Cash,Express,2,Arjun,Yes
+ORD00387,2025-08-24,C285,Customer 252,Mumbai,Maharashtra,West,Consumer,P008,Webcam,Electronics,8,918,0,7344.0,700,1744.0,23.75,Cash,Standard,4,Meena,Yes
+ORD00388,2025-04-08,C035,Customer 137,Mumbai,Maharashtra,West,Corporate,P004,Office Chair,Furniture,8,662,0,5296.0,500,1296.0,24.47,Cash,Express,2,Arjun,Yes
+ORD00389,2025-10-16,C193,Customer 57,Delhi,Delhi,North,Consumer,P002,Keyboard,Electronics,4,775,5,2945.0,180,2232.75,75.81,Cash,Same Day,1,Priya,Yes
+ORD00390,2025-05-16,C240,Customer 236,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,2,785,15,1334.5,600,169.82,12.73,Credit Card,Standard,7,Meena,No
+ORD00391,2025-02-04,C062,Customer 244,Bengaluru,Karnataka,South,Corporate,P002,Keyboard,Electronics,5,958,10,4311.0,180,3458.9,80.23,Debit Card,Standard,5,Ravi,Yes
+ORD00392,2025-09-13,C072,Customer 187,Kochi,Kerala,South,Consumer,P008,Webcam,Electronics,1,1350,5,1282.5,700,585.88,45.68,Cash,Express,6,Ravi,No
+ORD00393,2025-08-23,C042,Customer 231,Kochi,Kerala,South,Consumer,P003,Monitor,Electronics,4,916,20,2931.2,800,-122.24,-4.17,UPI,Express,4,Priya,Yes
+ORD00394,2025-02-03,C206,Customer 13,Kochi,Kerala,South,Home Office,P005,Laptop Stand,Accessories,6,917,5,5226.9,220,3920.65,75.01,Credit Card,Standard,3,Meena,Yes
+ORD00395,2025-12-11,C109,Customer 111,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,6,803,15,4095.3,180,3123.7,76.28,Cash,Standard,3,Meena,No
+ORD00396,2025-06-25,C212,Customer 12,Hyderabad,Telangana,South,Home Office,P004,Office Chair,Furniture,1,1016,5,965.2,500,467.74,48.46,Debit Card,Standard,2,Ravi,Yes
+ORD00397,2025-10-08,C198,Customer 71,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,8,806,20,5158.4,220,3656.32,70.88,Credit Card,Same Day,1,Arjun,No
+ORD00398,2025-06-14,C030,Customer 86,Bengaluru,Karnataka,South,Consumer,P003,Monitor,Electronics,9,1038,20,7473.6,800,647.28,8.66,Cash,Standard,1,Kiran,No
+ORD00399,2025-03-19,C138,Customer 209,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,10,2277,5,21631.5,1500,6688.43,30.92,UPI,Express,7,Ravi,Yes
+ORD00400,2025-03-12,C216,Customer 38,Chennai,Tamil Nadu,South,Home Office,P005,Laptop Stand,Accessories,5,1091,5,5182.25,220,4095.89,79.04,Cash,Express,7,Aisha,Yes
+ORD00401,2025-10-28,C190,Customer 268,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,8,1473,20,9427.2,700,4298.56,45.6,Credit Card,Express,1,Kiran,No
+ORD00402,2025-07-30,C188,Customer 269,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,5,2258,5,10725.5,1500,3253.72,30.34,UPI,Same Day,6,Ravi,No
+ORD00403,2025-08-16,C244,Customer 175,Kochi,Kerala,South,Home Office,P004,Office Chair,Furniture,6,1418,0,8508.0,500,5508.0,64.74,Credit Card,Express,3,Priya,No
+ORD00404,2025-03-10,C120,Customer 190,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,9,698,15,5339.7,180,3861.05,72.31,Debit Card,Express,6,Meena,No
+ORD00405,2025-02-27,C019,Customer 262,Bengaluru,Karnataka,South,Consumer,P003,Monitor,Electronics,4,1800,10,6480.0,800,3352.0,51.73,Cash,Same Day,4,Aisha,Yes
+ORD00406,2025-10-05,C183,Customer 177,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,8,1140,20,7296.0,700,2060.8,28.25,Cash,Express,2,Meena,Yes
+ORD00407,2025-10-09,C105,Customer 128,Mumbai,Maharashtra,West,Home Office,P003,Monitor,Electronics,6,1019,10,5502.6,800,763.74,13.88,Net Banking,Standard,3,Arjun,No
+ORD00408,2025-01-24,C102,Customer 8,Chennai,Tamil Nadu,South,Home Office,P003,Monitor,Electronics,10,1365,20,10920.0,800,3466.0,31.74,Net Banking,Express,6,Kiran,No
+ORD00409,2025-02-13,C128,Customer 3,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,1,1207,5,1146.65,250,899.67,78.46,Credit Card,Standard,3,Aisha,Yes
+ORD00410,2025-04-12,C077,Customer 241,Chennai,Tamil Nadu,South,Corporate,P001,Wireless Mouse,Electronics,2,434,0,868.0,250,368.0,42.4,UPI,Same Day,3,Arjun,No
+ORD00411,2025-06-20,C029,Customer 43,Kochi,Kerala,South,Corporate,P007,Desk,Furniture,8,2495,10,17964.0,1500,6163.6,34.31,Credit Card,Express,1,Ravi,Yes
+ORD00412,2025-09-09,C073,Customer 97,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,6,669,20,3211.2,220,2051.76,63.89,Net Banking,Standard,7,Priya,No
+ORD00413,2025-02-06,C242,Customer 49,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,1,1834,10,1650.6,1500,168.94,10.24,Net Banking,Standard,2,Aisha,No
+ORD00414,2025-10-17,C223,Customer 71,Bengaluru,Karnataka,South,Consumer,P008,Webcam,Electronics,10,895,15,7607.5,700,808.88,10.63,Credit Card,Same Day,2,Ravi,No
+ORD00415,2025-09-30,C170,Customer 30,Hyderabad,Telangana,South,Consumer,P004,Office Chair,Furniture,9,1033,20,7437.6,500,3309.48,44.5,Credit Card,Same Day,1,Priya,No
+ORD00416,2025-04-05,C105,Customer 160,Kochi,Kerala,South,Home Office,P004,Office Chair,Furniture,8,1229,5,9340.4,500,5364.98,57.44,Debit Card,Standard,2,Ravi,Yes
+ORD00417,2025-09-25,C157,Customer 29,Hyderabad,Telangana,South,Home Office,P008,Webcam,Electronics,5,1206,10,5427.0,700,1987.3,36.62,Debit Card,Standard,3,Ravi,No
+ORD00418,2025-08-25,C016,Customer 102,Bengaluru,Karnataka,South,Corporate,P004,Office Chair,Furniture,3,1244,5,3545.4,500,2054.73,57.95,UPI,Same Day,6,Kiran,No
+ORD00419,2025-02-24,C036,Customer 199,Delhi,Delhi,North,Corporate,P008,Webcam,Electronics,5,1594,0,7970.0,700,4470.0,56.09,Cash,Standard,3,Aisha,Yes
+ORD00420,2025-12-28,C191,Customer 274,Hyderabad,Telangana,South,Corporate,P008,Webcam,Electronics,8,1529,15,10397.2,700,5072.42,48.79,Debit Card,Same Day,1,Ravi,No
+ORD00421,2025-10-13,C067,Customer 33,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,5,416,0,2080.0,180,1180.0,56.73,Net Banking,Standard,3,Aisha,Yes
+ORD00422,2025-07-21,C049,Customer 27,Mumbai,Maharashtra,West,Consumer,P006,Headphones,Electronics,9,787,5,6728.85,600,1346.56,20.01,Debit Card,Same Day,2,Kiran,Yes
+ORD00423,2025-11-06,C209,Customer 87,Hyderabad,Telangana,South,Consumer,P002,Keyboard,Electronics,3,1118,20,2683.2,180,2277.36,84.87,Credit Card,Express,7,Meena,No
+ORD00424,2025-03-01,C047,Customer 133,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,4,1169,20,3740.8,600,1527.84,40.84,Cash,Express,2,Priya,No
+ORD00425,2025-04-10,C252,Customer 55,Mumbai,Maharashtra,West,Home Office,P008,Webcam,Electronics,4,1551,5,5893.8,700,3109.31,52.76,Debit Card,Standard,1,Arjun,No
+ORD00426,2025-06-24,C097,Customer 215,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,6,1220,5,6954.0,800,2172.3,31.24,UPI,Standard,5,Arjun,Yes
+ORD00427,2025-04-27,C163,Customer 137,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,1,358,10,322.2,220,105.78,32.83,Debit Card,Express,5,Arjun,No
+ORD00428,2025-12-13,C211,Customer 291,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,2,1832,0,3664.0,1500,664.0,18.12,UPI,Same Day,2,Priya,No
+ORD00429,2025-06-07,C069,Customer 123,Delhi,Delhi,North,Home Office,P005,Laptop Stand,Accessories,6,709,15,3615.9,220,2391.61,66.14,Debit Card,Same Day,7,Ravi,No
+ORD00430,2025-12-01,C025,Customer 281,Hyderabad,Telangana,South,Corporate,P003,Monitor,Electronics,3,1777,20,4264.8,800,2078.04,48.73,Debit Card,Express,7,Meena,Yes
+ORD00431,2025-03-02,C168,Customer 14,Hyderabad,Telangana,South,Consumer,P006,Headphones,Electronics,4,765,0,3060.0,600,660.0,21.57,Credit Card,Express,1,Kiran,Yes
+ORD00432,2025-11-24,C206,Customer 160,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,1,1003,15,852.55,700,175.12,20.54,Cash,Express,6,Aisha,No
+ORD00433,2025-10-21,C055,Customer 266,Hyderabad,Telangana,South,Consumer,P006,Headphones,Electronics,5,1456,10,6552.0,600,3624.8,55.32,Cash,Express,4,Ravi,Yes
+ORD00434,2025-12-04,C064,Customer 292,Bengaluru,Karnataka,South,Consumer,P004,Office Chair,Furniture,6,1155,10,6237.0,500,3306.3,53.01,Cash,Same Day,5,Meena,Yes
+ORD00435,2025-05-29,C264,Customer 183,Mumbai,Maharashtra,West,Consumer,P003,Monitor,Electronics,2,1088,20,1740.8,800,227.84,13.09,Credit Card,Same Day,5,Ravi,Yes
+ORD00436,2025-11-23,C040,Customer 214,Kochi,Kerala,South,Consumer,P006,Headphones,Electronics,7,861,15,5122.95,600,1058.56,20.66,Debit Card,Express,3,Kiran,Yes
+ORD00437,2025-11-06,C194,Customer 288,Delhi,Delhi,North,Consumer,P008,Webcam,Electronics,9,811,5,6934.05,700,652.3,9.41,Credit Card,Standard,6,Kiran,Yes
+ORD00438,2025-01-12,C258,Customer 111,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,1,912,20,729.6,600,166.08,22.76,Cash,Standard,5,Priya,Yes
+ORD00439,2025-08-06,C070,Customer 133,Kochi,Kerala,South,Home Office,P003,Monitor,Electronics,8,1722,0,13776.0,800,7376.0,53.54,Debit Card,Standard,4,Priya,No
+ORD00440,2025-03-26,C122,Customer 276,Chennai,Tamil Nadu,South,Corporate,P001,Wireless Mouse,Electronics,1,1171,10,1053.9,250,815.61,77.39,Credit Card,Same Day,7,Priya,Yes
+ORD00441,2025-08-25,C111,Customer 140,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,10,1638,0,16380.0,800,8380.0,51.16,Net Banking,Standard,4,Ravi,No
+ORD00442,2025-03-14,C164,Customer 236,Chennai,Tamil Nadu,South,Consumer,P002,Keyboard,Electronics,9,973,15,7443.45,180,6020.48,80.88,Credit Card,Same Day,3,Meena,Yes
+ORD00443,2025-07-02,C224,Customer 156,Bengaluru,Karnataka,South,Corporate,P004,Office Chair,Furniture,3,1490,15,3799.5,500,2400.07,63.17,Credit Card,Same Day,2,Meena,Yes
+ORD00444,2025-09-16,C152,Customer 95,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,10,1223,0,12230.0,800,4230.0,34.59,Cash,Express,7,Kiran,No
+ORD00445,2025-08-30,C261,Customer 75,Hyderabad,Telangana,South,Home Office,P008,Webcam,Electronics,8,1330,5,10108.0,700,4534.6,44.86,Credit Card,Standard,1,Arjun,No
+ORD00446,2025-06-21,C181,Customer 201,Mumbai,Maharashtra,West,Home Office,P002,Keyboard,Electronics,2,642,15,1091.4,180,760.29,69.66,Credit Card,Express,7,Kiran,Yes
+ORD00447,2025-11-19,C206,Customer 222,Kochi,Kerala,South,Home Office,P001,Wireless Mouse,Electronics,8,712,20,4556.8,250,2784.64,61.11,Debit Card,Standard,5,Aisha,Yes
+ORD00448,2025-06-17,C293,Customer 113,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,6,1594,15,8129.4,800,3544.59,43.6,Credit Card,Same Day,5,Meena,Yes
+ORD00449,2025-11-12,C166,Customer 246,Chennai,Tamil Nadu,South,Corporate,P005,Laptop Stand,Accessories,3,1139,0,3417.0,220,2757.0,80.68,Cash,Express,3,Kiran,Yes
+ORD00450,2025-11-24,C245,Customer 60,Delhi,Delhi,North,Corporate,P006,Headphones,Electronics,9,1510,10,12231.0,600,6966.9,56.96,Debit Card,Express,5,Kiran,No
+ORD00451,2025-11-18,C276,Customer 7,Hyderabad,Telangana,South,Corporate,P001,Wireless Mouse,Electronics,7,418,10,2633.4,250,912.66,34.66,Debit Card,Express,7,Meena,Yes
+ORD00452,2025-01-31,C072,Customer 76,Chennai,Tamil Nadu,South,Corporate,P007,Desk,Furniture,2,1797,5,3414.3,1500,423.28,12.4,Credit Card,Standard,1,Meena,No
+ORD00453,2025-10-10,C046,Customer 77,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,2,427,20,683.2,180,357.36,52.31,Credit Card,Standard,6,Meena,No
+ORD00454,2025-06-04,C020,Customer 44,Chennai,Tamil Nadu,South,Consumer,P007,Desk,Furniture,3,2211,5,6301.35,1500,1817.93,28.85,Credit Card,Standard,1,Ravi,No
+ORD00455,2025-04-03,C102,Customer 184,Chennai,Tamil Nadu,South,Home Office,P003,Monitor,Electronics,8,1065,0,8520.0,800,2120.0,24.88,Credit Card,Express,1,Meena,No
+ORD00456,2025-09-05,C013,Customer 90,Mumbai,Maharashtra,West,Consumer,P007,Desk,Furniture,5,2056,5,9766.0,1500,2291.7,23.47,Credit Card,Standard,7,Arjun,Yes
+ORD00457,2025-08-14,C281,Customer 295,Delhi,Delhi,North,Consumer,P008,Webcam,Electronics,10,1497,0,14970.0,700,7970.0,53.24,Cash,Express,1,Kiran,No
+ORD00458,2025-10-15,C265,Customer 73,Delhi,Delhi,North,Corporate,P007,Desk,Furniture,3,2480,0,7440.0,1500,2940.0,39.52,Credit Card,Same Day,4,Priya,Yes
+ORD00459,2025-10-19,C195,Customer 210,Hyderabad,Telangana,South,Corporate,P001,Wireless Mouse,Electronics,7,1072,5,7128.8,250,5397.56,75.71,Cash,Same Day,5,Priya,No
+ORD00460,2025-01-03,C297,Customer 168,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,5,1816,20,7264.0,1500,127.2,1.75,Net Banking,Express,7,Kiran,No
+ORD00461,2025-02-12,C252,Customer 24,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,9,1400,10,11340.0,800,4266.0,37.62,Cash,Standard,5,Meena,No
+ORD00462,2025-03-10,C053,Customer 193,Kochi,Kerala,South,Corporate,P007,Desk,Furniture,1,1689,20,1351.2,1500,-81.24,-6.01,UPI,Same Day,7,Meena,No
+ORD00463,2025-02-19,C019,Customer 253,Chennai,Tamil Nadu,South,Home Office,P005,Laptop Stand,Accessories,8,984,10,7084.8,220,5403.52,76.27,Debit Card,Standard,1,Aisha,No
+ORD00464,2025-09-27,C219,Customer 293,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,4,840,20,2688.0,220,1942.4,72.26,Debit Card,Express,6,Arjun,No
+ORD00465,2025-12-14,C152,Customer 28,Chennai,Tamil Nadu,South,Home Office,P008,Webcam,Electronics,1,1567,5,1488.65,700,792.57,53.24,Net Banking,Same Day,6,Priya,No
+ORD00466,2025-01-18,C228,Customer 245,Bengaluru,Karnataka,South,Consumer,P007,Desk,Furniture,5,2434,20,9736.0,1500,2722.8,27.97,UPI,Standard,7,Ravi,Yes
+ORD00467,2025-05-29,C176,Customer 95,Delhi,Delhi,North,Consumer,P008,Webcam,Electronics,8,1697,0,13576.0,700,7976.0,58.75,UPI,Same Day,2,Kiran,No
+ORD00468,2025-04-25,C129,Customer 133,Bengaluru,Karnataka,South,Consumer,P006,Headphones,Electronics,3,928,15,2366.4,600,629.04,26.58,Credit Card,Standard,5,Arjun,Yes
+ORD00469,2025-04-19,C051,Customer 214,Delhi,Delhi,North,Corporate,P007,Desk,Furniture,10,2475,15,21037.5,1500,6594.38,31.35,Debit Card,Same Day,1,Aisha,No
+ORD00470,2025-04-11,C133,Customer 83,Kochi,Kerala,South,Home Office,P004,Office Chair,Furniture,8,1092,20,6988.8,500,3338.24,47.77,UPI,Same Day,3,Meena,Yes
+ORD00471,2025-10-16,C189,Customer 51,Mumbai,Maharashtra,West,Home Office,P003,Monitor,Electronics,8,1404,10,10108.8,800,3821.12,37.8,Cash,Same Day,3,Priya,No
+ORD00472,2025-09-13,C299,Customer 145,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,7,394,5,2620.1,180,1366.99,52.17,Cash,Same Day,5,Priya,No
+ORD00473,2025-05-26,C234,Customer 190,Hyderabad,Telangana,South,Home Office,P001,Wireless Mouse,Electronics,4,819,0,3276.0,250,2276.0,69.47,Debit Card,Express,6,Priya,Yes
+ORD00474,2025-05-31,C126,Customer 33,Bengaluru,Karnataka,South,Corporate,P006,Headphones,Electronics,10,894,10,8046.0,600,2135.4,26.54,UPI,Standard,5,Ravi,Yes
+ORD00475,2025-02-21,C099,Customer 298,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,2,980,10,1764.0,180,1423.6,80.7,UPI,Express,1,Meena,Yes
+ORD00476,2025-09-21,C213,Customer 180,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,10,1029,0,10290.0,220,8090.0,78.62,Net Banking,Same Day,7,Priya,Yes
+ORD00477,2025-03-04,C137,Customer 300,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,4,704,5,2675.2,500,682.24,25.5,Net Banking,Express,6,Meena,No
+ORD00478,2025-02-26,C139,Customer 264,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,10,1200,15,10200.0,250,7970.0,78.14,Cash,Express,7,Aisha,Yes
+ORD00479,2025-12-01,C198,Customer 83,Chennai,Tamil Nadu,South,Corporate,P001,Wireless Mouse,Electronics,7,988,20,5532.8,250,4059.44,73.37,Debit Card,Same Day,2,Arjun,No
+ORD00480,2025-03-19,C077,Customer 57,Delhi,Delhi,North,Home Office,P005,Laptop Stand,Accessories,3,486,5,1385.1,220,728.75,52.61,UPI,Standard,3,Kiran,Yes
+ORD00481,2025-01-30,C121,Customer 217,Mumbai,Maharashtra,West,Consumer,P008,Webcam,Electronics,8,1356,0,10848.0,700,5248.0,48.38,Credit Card,Standard,2,Arjun,Yes
+ORD00482,2025-06-21,C244,Customer 22,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,10,676,15,5746.0,180,4098.1,71.32,UPI,Express,5,Priya,Yes
+ORD00483,2025-06-19,C046,Customer 174,Bengaluru,Karnataka,South,Home Office,P003,Monitor,Electronics,2,1166,0,2332.0,800,732.0,31.39,UPI,Express,7,Arjun,Yes
+ORD00484,2025-08-10,C167,Customer 55,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,3,976,10,2635.2,700,564.48,21.42,Net Banking,Express,2,Kiran,Yes
+ORD00485,2025-05-26,C260,Customer 21,Chennai,Tamil Nadu,South,Corporate,P008,Webcam,Electronics,3,1638,0,4914.0,700,2814.0,57.26,UPI,Standard,5,Aisha,Yes
+ORD00486,2025-08-10,C133,Customer 233,Bengaluru,Karnataka,South,Consumer,P007,Desk,Furniture,4,2285,5,8683.0,1500,2705.85,31.16,Credit Card,Express,1,Aisha,Yes
+ORD00487,2025-10-02,C148,Customer 187,Chennai,Tamil Nadu,South,Corporate,P007,Desk,Furniture,4,2017,0,8068.0,1500,2068.0,25.63,Credit Card,Express,6,Aisha,No
+ORD00488,2025-02-05,C080,Customer 44,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,7,1026,15,6104.7,500,2766.3,45.31,UPI,Same Day,2,Arjun,Yes
+ORD00489,2025-02-20,C254,Customer 289,Delhi,Delhi,North,Corporate,P007,Desk,Furniture,8,1859,5,14128.4,1500,2165.58,15.33,Debit Card,Standard,5,Meena,Yes
+ORD00490,2025-12-04,C013,Customer 95,Chennai,Tamil Nadu,South,Home Office,P003,Monitor,Electronics,8,1347,5,10237.2,800,3864.14,37.75,UPI,Same Day,7,Ravi,Yes
+ORD00491,2025-05-18,C179,Customer 88,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,1,926,20,740.8,600,177.84,24.01,Debit Card,Express,6,Arjun,Yes
+ORD00492,2025-02-16,C279,Customer 221,Mumbai,Maharashtra,West,Consumer,P008,Webcam,Electronics,3,803,5,2288.55,700,194.57,8.5,Credit Card,Same Day,7,Arjun,Yes
+ORD00493,2025-01-02,C079,Customer 22,Mumbai,Maharashtra,West,Corporate,P002,Keyboard,Electronics,2,967,5,1837.3,180,1482.13,80.67,UPI,Express,5,Arjun,No
+ORD00494,2025-06-22,C065,Customer 192,Hyderabad,Telangana,South,Corporate,P004,Office Chair,Furniture,9,809,15,6188.85,500,1852.67,29.94,Net Banking,Same Day,5,Priya,No
+ORD00495,2025-12-07,C095,Customer 23,Delhi,Delhi,North,Home Office,P003,Monitor,Electronics,1,1328,15,1128.8,800,358.68,31.78,Debit Card,Express,1,Aisha,No
+ORD00496,2025-10-05,C193,Customer 279,Delhi,Delhi,North,Corporate,P006,Headphones,Electronics,8,954,20,6105.6,600,1610.88,26.38,Debit Card,Express,7,Aisha,Yes
+ORD00497,2025-08-20,C184,Customer 157,Mumbai,Maharashtra,West,Corporate,P005,Laptop Stand,Accessories,6,1068,5,6087.6,220,4783.62,78.58,Debit Card,Standard,7,Arjun,Yes
+ORD00498,2025-12-22,C009,Customer 140,Mumbai,Maharashtra,West,Home Office,P004,Office Chair,Furniture,5,1250,10,5625.0,500,3187.5,56.67,UPI,Express,3,Meena,Yes
+ORD00499,2025-04-28,C175,Customer 173,Delhi,Delhi,North,Corporate,P007,Desk,Furniture,9,2286,10,18516.6,1500,5222.34,28.2,UPI,Same Day,7,Aisha,Yes
+ORD00500,2025-09-07,C023,Customer 68,Chennai,Tamil Nadu,South,Corporate,P008,Webcam,Electronics,6,1001,10,5405.4,700,1265.46,23.41,Cash,Express,3,Meena,Yes
+ORD00501,2025-06-30,C144,Customer 32,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,3,1429,5,4072.65,600,2283.37,56.07,Credit Card,Express,1,Priya,Yes
+ORD00502,2025-09-18,C062,Customer 58,Mumbai,Maharashtra,West,Corporate,P007,Desk,Furniture,4,1755,10,6318.0,1500,388.2,6.14,Cash,Same Day,4,Kiran,No
+ORD00503,2025-01-06,C191,Customer 59,Mumbai,Maharashtra,West,Corporate,P001,Wireless Mouse,Electronics,7,540,15,3213.0,250,1548.05,48.18,Debit Card,Standard,6,Ravi,Yes
+ORD00504,2025-11-09,C119,Customer 151,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,10,1290,20,10320.0,500,5836.0,56.55,Credit Card,Same Day,7,Priya,Yes
+ORD00505,2025-01-19,C293,Customer 167,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,10,1129,0,11290.0,700,4290.0,38.0,Net Banking,Standard,5,Meena,Yes
+ORD00506,2025-07-05,C008,Customer 117,Bengaluru,Karnataka,South,Consumer,P004,Office Chair,Furniture,8,918,15,6242.4,500,2407.64,38.57,Debit Card,Express,2,Aisha,No
+ORD00507,2025-11-21,C020,Customer 267,Hyderabad,Telangana,South,Home Office,P004,Office Chair,Furniture,10,846,15,7191.0,500,2381.35,33.12,Debit Card,Express,4,Aisha,No
+ORD00508,2025-08-25,C117,Customer 90,Chennai,Tamil Nadu,South,Home Office,P008,Webcam,Electronics,1,1479,15,1257.15,700,590.43,46.97,Cash,Same Day,4,Priya,Yes
+ORD00509,2025-06-09,C237,Customer 109,Kochi,Kerala,South,Home Office,P005,Laptop Stand,Accessories,8,1219,0,9752.0,220,7992.0,81.95,UPI,Standard,1,Ravi,Yes
+ORD00510,2025-08-22,C149,Customer 179,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,7,1120,20,6272.0,600,2385.6,38.04,Debit Card,Same Day,2,Ravi,No
+ORD00511,2025-04-18,C113,Customer 199,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,5,1161,20,4644.0,180,3976.2,85.62,Debit Card,Same Day,5,Kiran,No
+ORD00512,2025-02-28,C188,Customer 273,Chennai,Tamil Nadu,South,Home Office,P005,Laptop Stand,Accessories,10,1053,10,9477.0,220,7382.3,77.9,Debit Card,Standard,3,Aisha,Yes
+ORD00513,2025-04-24,C206,Customer 2,Bengaluru,Karnataka,South,Consumer,P006,Headphones,Electronics,7,723,10,4554.9,600,405.51,8.9,Credit Card,Same Day,5,Meena,No
+ORD00514,2025-03-26,C192,Customer 30,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,4,1776,15,6038.4,1500,198.24,3.28,Cash,Standard,3,Aisha,No
+ORD00515,2025-10-05,C089,Customer 35,Mumbai,Maharashtra,West,Home Office,P001,Wireless Mouse,Electronics,9,833,5,7122.15,250,4890.89,68.67,Credit Card,Same Day,2,Arjun,Yes
+ORD00516,2025-05-29,C282,Customer 274,Kochi,Kerala,South,Consumer,P003,Monitor,Electronics,9,1790,10,14499.0,800,7460.1,51.45,Cash,Same Day,5,Ravi,Yes
+ORD00517,2025-10-07,C293,Customer 114,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,5,1014,5,4816.5,220,3729.18,77.43,Cash,Same Day,7,Arjun,Yes
+ORD00518,2025-01-31,C055,Customer 42,Mumbai,Maharashtra,West,Home Office,P006,Headphones,Electronics,8,1263,5,9598.8,600,4824.06,50.26,Net Banking,Standard,5,Aisha,Yes
+ORD00519,2025-01-12,C009,Customer 118,Chennai,Tamil Nadu,South,Corporate,P005,Laptop Stand,Accessories,3,1167,20,2800.8,220,2280.84,81.44,UPI,Same Day,4,Kiran,Yes
+ORD00520,2025-11-05,C014,Customer 68,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,6,1549,10,8364.6,800,3657.54,43.73,Debit Card,Standard,1,Ravi,Yes
+ORD00521,2025-06-03,C045,Customer 105,Bengaluru,Karnataka,South,Corporate,P001,Wireless Mouse,Electronics,5,1037,10,4666.5,250,3468.35,74.32,Net Banking,Express,5,Ravi,Yes
+ORD00522,2025-09-05,C074,Customer 196,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,5,413,20,1652.0,220,634.6,38.41,Net Banking,Express,4,Meena,Yes
+ORD00523,2025-05-07,C069,Customer 157,Hyderabad,Telangana,South,Corporate,P004,Office Chair,Furniture,5,1362,20,5448.0,500,3220.4,59.11,UPI,Standard,1,Priya,No
+ORD00524,2025-09-06,C014,Customer 183,Mumbai,Maharashtra,West,Corporate,P006,Headphones,Electronics,9,1056,20,7603.2,600,2583.36,33.98,Credit Card,Standard,3,Meena,No
+ORD00525,2025-08-30,C260,Customer 108,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,3,1335,5,3804.75,800,1414.76,37.18,Credit Card,Express,5,Ravi,No
+ORD00526,2025-07-12,C297,Customer 112,Hyderabad,Telangana,South,Corporate,P005,Laptop Stand,Accessories,2,813,10,1463.4,220,1039.66,71.04,Cash,Standard,7,Arjun,No
+ORD00527,2025-11-17,C065,Customer 88,Delhi,Delhi,North,Corporate,P003,Monitor,Electronics,9,1515,20,10908.0,800,4253.4,38.99,UPI,Same Day,4,Meena,No
+ORD00528,2025-03-30,C261,Customer 77,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,2,1759,15,2990.3,1500,69.45,2.32,Credit Card,Same Day,7,Meena,No
+ORD00529,2025-04-08,C083,Customer 244,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,2,507,20,811.2,220,411.76,50.76,Net Banking,Standard,4,Aisha,No
+ORD00530,2025-11-27,C292,Customer 53,Chennai,Tamil Nadu,South,Home Office,P002,Keyboard,Electronics,4,734,0,2936.0,180,2216.0,75.48,Cash,Standard,7,Arjun,Yes
+ORD00531,2025-09-03,C034,Customer 81,Kochi,Kerala,South,Home Office,P003,Monitor,Electronics,6,1280,0,7680.0,800,2880.0,37.5,Debit Card,Standard,3,Kiran,Yes
+ORD00532,2025-04-16,C044,Customer 131,Delhi,Delhi,North,Corporate,P001,Wireless Mouse,Electronics,1,552,5,524.4,250,275.78,52.59,UPI,Express,4,Priya,No
+ORD00533,2025-05-05,C212,Customer 59,Hyderabad,Telangana,South,Consumer,P001,Wireless Mouse,Electronics,8,578,10,4161.6,250,2207.84,53.05,UPI,Standard,3,Aisha,Yes
+ORD00534,2025-04-26,C108,Customer 180,Kochi,Kerala,South,Consumer,P008,Webcam,Electronics,8,1599,0,12792.0,700,7192.0,56.22,Debit Card,Express,4,Aisha,No
+ORD00535,2025-09-20,C226,Customer 224,Hyderabad,Telangana,South,Home Office,P004,Office Chair,Furniture,7,674,20,3774.4,500,463.12,12.27,Net Banking,Express,3,Priya,No
+ORD00536,2025-08-25,C295,Customer 126,Bengaluru,Karnataka,South,Home Office,P007,Desk,Furniture,1,2173,5,2064.35,1500,569.78,27.6,Net Banking,Standard,1,Aisha,No
+ORD00537,2025-11-20,C081,Customer 99,Chennai,Tamil Nadu,South,Corporate,P007,Desk,Furniture,1,1865,15,1585.25,1500,127.21,8.02,Credit Card,Express,4,Aisha,Yes
+ORD00538,2025-12-03,C152,Customer 12,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,7,1572,0,11004.0,800,5404.0,49.11,Cash,Same Day,3,Kiran,Yes
+ORD00539,2025-05-27,C023,Customer 152,Chennai,Tamil Nadu,South,Corporate,P006,Headphones,Electronics,3,749,0,2247.0,600,447.0,19.89,Net Banking,Same Day,7,Priya,Yes
+ORD00540,2025-07-08,C092,Customer 203,Kochi,Kerala,South,Home Office,P002,Keyboard,Electronics,2,586,0,1172.0,180,812.0,69.28,Net Banking,Same Day,4,Ravi,Yes
+ORD00541,2025-02-24,C223,Customer 117,Hyderabad,Telangana,South,Corporate,P008,Webcam,Electronics,8,1254,15,8527.2,700,3152.92,36.97,Credit Card,Express,4,Aisha,No
+ORD00542,2025-10-28,C022,Customer 230,Delhi,Delhi,North,Corporate,P007,Desk,Furniture,9,1885,0,16965.0,1500,3465.0,20.42,Credit Card,Standard,4,Meena,No
+ORD00543,2025-08-06,C077,Customer 140,Bengaluru,Karnataka,South,Consumer,P006,Headphones,Electronics,10,1231,5,11694.5,600,5725.27,48.96,UPI,Same Day,1,Meena,Yes
+ORD00544,2025-10-28,C226,Customer 33,Delhi,Delhi,North,Consumer,P001,Wireless Mouse,Electronics,8,1029,10,7408.8,250,5491.12,74.12,UPI,Express,3,Kiran,Yes
+ORD00545,2025-02-15,C009,Customer 14,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,3,2417,15,6163.35,1500,1826.5,29.63,Net Banking,Standard,6,Ravi,Yes
+ORD00546,2025-05-29,C214,Customer 226,Delhi,Delhi,North,Corporate,P004,Office Chair,Furniture,9,672,5,5745.6,500,1260.72,21.94,Net Banking,Standard,3,Ravi,Yes
+ORD00547,2025-02-21,C220,Customer 33,Hyderabad,Telangana,South,Home Office,P007,Desk,Furniture,10,1659,0,16590.0,1500,1590.0,9.58,Credit Card,Same Day,7,Aisha,No
+ORD00548,2025-01-11,C145,Customer 234,Hyderabad,Telangana,South,Home Office,P008,Webcam,Electronics,3,1388,15,3539.4,700,1533.09,43.31,Debit Card,Express,5,Arjun,Yes
+ORD00549,2025-07-08,C059,Customer 163,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,8,628,5,4772.8,180,3345.36,70.09,Net Banking,Express,6,Arjun,No
+ORD00550,2025-11-03,C124,Customer 223,Mumbai,Maharashtra,West,Corporate,P004,Office Chair,Furniture,9,880,20,6336.0,500,2152.8,33.98,Debit Card,Same Day,7,Priya,Yes
+ORD00551,2025-12-27,C090,Customer 185,Delhi,Delhi,North,Corporate,P003,Monitor,Electronics,1,981,10,882.9,800,92.71,10.5,Net Banking,Standard,4,Meena,Yes
+ORD00552,2025-11-25,C271,Customer 215,Hyderabad,Telangana,South,Consumer,P002,Keyboard,Electronics,2,468,15,795.6,180,456.66,57.4,Credit Card,Express,4,Aisha,No
+ORD00553,2025-07-26,C292,Customer 205,Hyderabad,Telangana,South,Home Office,P004,Office Chair,Furniture,9,1358,10,10999.8,500,6622.02,60.2,Cash,Standard,4,Priya,No
+ORD00554,2025-10-13,C089,Customer 185,Chennai,Tamil Nadu,South,Corporate,P008,Webcam,Electronics,2,1046,0,2092.0,700,692.0,33.08,Cash,Express,3,Arjun,No
+ORD00555,2025-03-21,C291,Customer 272,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,3,1074,0,3222.0,800,822.0,25.51,Cash,Express,7,Ravi,Yes
+ORD00556,2025-05-28,C155,Customer 43,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,9,1129,10,9144.9,800,2046.51,22.38,Credit Card,Express,1,Meena,Yes
+ORD00557,2025-01-01,C049,Customer 117,Mumbai,Maharashtra,West,Corporate,P007,Desk,Furniture,1,2051,15,1743.35,1500,289.5,16.61,Debit Card,Standard,1,Kiran,Yes
+ORD00558,2025-02-16,C127,Customer 230,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,7,1395,20,7812.0,700,3302.6,42.28,Credit Card,Standard,3,Kiran,Yes
+ORD00559,2025-12-23,C249,Customer 282,Delhi,Delhi,North,Consumer,P002,Keyboard,Electronics,1,923,20,738.4,180,595.32,80.62,Cash,Standard,5,Meena,No
+ORD00560,2025-12-29,C294,Customer 172,Mumbai,Maharashtra,West,Home Office,P006,Headphones,Electronics,3,895,0,2685.0,600,885.0,32.96,Cash,Standard,7,Arjun,No
+ORD00561,2025-01-20,C171,Customer 131,Delhi,Delhi,North,Home Office,P001,Wireless Mouse,Electronics,6,869,0,5214.0,250,3714.0,71.23,Debit Card,Same Day,3,Meena,No
+ORD00562,2025-06-12,C057,Customer 90,Mumbai,Maharashtra,West,Consumer,P008,Webcam,Electronics,8,1577,20,10092.8,700,4997.44,49.51,Credit Card,Same Day,6,Aisha,Yes
+ORD00563,2025-04-07,C171,Customer 229,Bengaluru,Karnataka,South,Corporate,P004,Office Chair,Furniture,4,1104,10,3974.4,500,2018.56,50.79,UPI,Same Day,7,Priya,Yes
+ORD00564,2025-01-16,C010,Customer 247,Mumbai,Maharashtra,West,Home Office,P003,Monitor,Electronics,2,968,15,1645.6,800,89.16,5.42,Cash,Same Day,1,Meena,Yes
+ORD00565,2025-06-23,C157,Customer 252,Chennai,Tamil Nadu,South,Corporate,P003,Monitor,Electronics,10,1320,5,12540.0,800,4573.0,36.47,Cash,Standard,6,Kiran,Yes
+ORD00566,2025-04-14,C114,Customer 172,Chennai,Tamil Nadu,South,Consumer,P006,Headphones,Electronics,10,1506,15,12801.0,600,7139.85,55.78,UPI,Standard,7,Ravi,No
+ORD00567,2025-10-27,C194,Customer 298,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,8,1182,0,9456.0,700,3856.0,40.78,UPI,Express,6,Arjun,No
+ORD00568,2025-02-23,C252,Customer 51,Mumbai,Maharashtra,West,Corporate,P002,Keyboard,Electronics,9,819,15,6265.35,180,4811.2,76.79,UPI,Express,6,Meena,Yes
+ORD00569,2025-01-24,C216,Customer 142,Kochi,Kerala,South,Home Office,P002,Keyboard,Electronics,10,760,10,6840.0,180,5116.0,74.8,UPI,Express,2,Arjun,No
+ORD00570,2025-11-12,C027,Customer 170,Chennai,Tamil Nadu,South,Corporate,P007,Desk,Furniture,5,2243,20,8972.0,1500,1920.6,21.41,Net Banking,Standard,7,Kiran,No
+ORD00571,2025-03-16,C245,Customer 156,Mumbai,Maharashtra,West,Home Office,P001,Wireless Mouse,Electronics,8,915,20,5856.0,250,4148.8,70.85,Net Banking,Standard,6,Arjun,Yes
+ORD00572,2025-01-16,C085,Customer 135,Hyderabad,Telangana,South,Consumer,P003,Monitor,Electronics,1,1683,5,1598.85,800,803.06,50.23,Cash,Standard,6,Aisha,No
+ORD00573,2025-07-17,C178,Customer 79,Chennai,Tamil Nadu,South,Corporate,P003,Monitor,Electronics,4,1349,20,4316.8,800,1332.64,30.87,Credit Card,Same Day,7,Arjun,No
+ORD00574,2025-01-27,C063,Customer 84,Delhi,Delhi,North,Consumer,P001,Wireless Mouse,Electronics,5,1165,15,4951.25,250,3832.31,77.4,Cash,Same Day,6,Aisha,Yes
+ORD00575,2025-03-10,C156,Customer 278,Hyderabad,Telangana,South,Home Office,P006,Headphones,Electronics,2,859,15,1460.3,600,298.96,20.47,UPI,Same Day,1,Meena,Yes
+ORD00576,2025-04-28,C001,Customer 28,Chennai,Tamil Nadu,South,Corporate,P008,Webcam,Electronics,4,957,10,3445.2,700,683.48,19.84,UPI,Standard,7,Meena,No
+ORD00577,2025-12-17,C075,Customer 291,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,6,1623,15,8277.3,800,3696.41,44.66,Debit Card,Express,5,Kiran,Yes
+ORD00578,2025-12-22,C011,Customer 63,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,6,1055,5,6013.5,800,1229.33,20.44,Debit Card,Standard,3,Arjun,Yes
+ORD00579,2025-03-23,C227,Customer 55,Kochi,Kerala,South,Consumer,P005,Laptop Stand,Accessories,8,1145,20,7328.0,220,5934.4,80.98,Debit Card,Express,2,Priya,Yes
+ORD00580,2025-02-12,C065,Customer 127,Chennai,Tamil Nadu,South,Corporate,P002,Keyboard,Electronics,2,963,15,1637.1,180,1320.43,80.66,UPI,Express,6,Meena,Yes
+ORD00581,2025-10-28,C224,Customer 178,Mumbai,Maharashtra,West,Corporate,P001,Wireless Mouse,Electronics,6,555,5,3163.5,250,1671.83,52.85,Net Banking,Express,6,Priya,No
+ORD00582,2025-03-02,C110,Customer 224,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,7,568,10,3578.4,180,2358.16,65.9,Cash,Express,2,Aisha,No
+ORD00583,2025-08-19,C033,Customer 291,Mumbai,Maharashtra,West,Corporate,P005,Laptop Stand,Accessories,10,411,0,4110.0,220,1910.0,46.47,Cash,Express,4,Arjun,No
+ORD00584,2025-09-19,C222,Customer 98,Bengaluru,Karnataka,South,Consumer,P002,Keyboard,Electronics,9,997,5,8524.35,180,6926.78,81.26,Cash,Express,7,Arjun,No
+ORD00585,2025-06-07,C211,Customer 264,Delhi,Delhi,North,Consumer,P002,Keyboard,Electronics,2,681,5,1293.9,180,937.31,72.44,Debit Card,Express,4,Meena,No
+ORD00586,2025-05-11,C257,Customer 9,Delhi,Delhi,North,Corporate,P008,Webcam,Electronics,10,942,5,8949.0,700,1972.55,22.04,UPI,Express,7,Kiran,No
+ORD00587,2025-08-28,C211,Customer 101,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,7,1470,0,10290.0,600,6090.0,59.18,UPI,Standard,6,Priya,No
+ORD00588,2025-12-05,C233,Customer 222,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,7,1980,20,11088.0,1500,1142.4,10.3,Cash,Standard,2,Ravi,No
+ORD00589,2025-12-05,C180,Customer 293,Delhi,Delhi,North,Corporate,P002,Keyboard,Electronics,8,1058,15,7194.4,180,5944.84,82.63,Credit Card,Standard,6,Kiran,No
+ORD00590,2025-08-17,C020,Customer 256,Hyderabad,Telangana,South,Home Office,P006,Headphones,Electronics,7,1022,15,6080.9,600,2041.87,33.58,Net Banking,Standard,6,Ravi,Yes
+ORD00591,2025-04-21,C122,Customer 256,Hyderabad,Telangana,South,Corporate,P001,Wireless Mouse,Electronics,5,1151,0,5755.0,250,4505.0,78.28,Cash,Same Day,4,Kiran,Yes
+ORD00592,2025-12-19,C048,Customer 195,Kochi,Kerala,South,Consumer,P001,Wireless Mouse,Electronics,2,526,5,999.4,250,502.03,50.23,Net Banking,Same Day,3,Arjun,Yes
+ORD00593,2025-04-25,C064,Customer 23,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,6,1570,15,8007.0,800,3418.95,42.7,Cash,Express,1,Aisha,No
+ORD00594,2025-04-06,C240,Customer 93,Hyderabad,Telangana,South,Consumer,P005,Laptop Stand,Accessories,8,558,10,4017.6,220,2302.24,57.3,Cash,Same Day,3,Priya,No
+ORD00595,2025-09-30,C121,Customer 52,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,5,651,10,2929.5,180,2062.05,70.39,Debit Card,Express,2,Kiran,No
+ORD00596,2025-11-20,C191,Customer 155,Chennai,Tamil Nadu,South,Corporate,P001,Wireless Mouse,Electronics,8,1057,15,7187.6,250,5377.86,74.82,Credit Card,Same Day,6,Priya,No
+ORD00597,2025-10-21,C183,Customer 194,Kochi,Kerala,South,Consumer,P004,Office Chair,Furniture,6,1174,15,5987.4,500,3145.89,52.54,UPI,Same Day,7,Ravi,No
+ORD00598,2025-11-03,C108,Customer 251,Mumbai,Maharashtra,West,Consumer,P006,Headphones,Electronics,4,1145,20,3664.0,600,1447.2,39.5,Cash,Standard,3,Meena,Yes
+ORD00599,2025-11-16,C106,Customer 146,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,3,971,15,2476.05,220,1881.59,75.99,Cash,Same Day,2,Aisha,Yes
+ORD00600,2025-06-01,C179,Customer 99,Mumbai,Maharashtra,West,Home Office,P005,Laptop Stand,Accessories,6,342,0,2052.0,220,732.0,35.67,Credit Card,Standard,4,Aisha,No
+ORD00601,2025-06-05,C129,Customer 264,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,10,431,0,4310.0,180,2510.0,58.24,Debit Card,Same Day,4,Arjun,No
+ORD00602,2025-04-28,C165,Customer 102,Kochi,Kerala,South,Corporate,P005,Laptop Stand,Accessories,1,547,10,492.3,220,277.77,56.42,Debit Card,Express,1,Aisha,No
+ORD00603,2025-04-19,C188,Customer 60,Chennai,Tamil Nadu,South,Home Office,P005,Laptop Stand,Accessories,9,598,5,5112.9,220,3146.36,61.54,Debit Card,Express,1,Kiran,Yes
+ORD00604,2025-09-13,C157,Customer 188,Hyderabad,Telangana,South,Home Office,P007,Desk,Furniture,2,2192,15,3726.4,1500,825.04,22.14,Net Banking,Same Day,1,Arjun,No
+ORD00605,2025-06-18,C069,Customer 126,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,3,806,15,2055.3,220,1449.7,70.53,Net Banking,Same Day,1,Priya,Yes
+ORD00606,2025-05-02,C067,Customer 275,Chennai,Tamil Nadu,South,Home Office,P004,Office Chair,Furniture,4,1317,20,4214.4,500,2425.12,57.54,Cash,Express,7,Meena,No
+ORD00607,2025-09-01,C097,Customer 24,Bengaluru,Karnataka,South,Home Office,P001,Wireless Mouse,Electronics,4,785,20,2512.0,250,1637.6,65.19,Debit Card,Standard,1,Arjun,No
+ORD00608,2025-03-31,C050,Customer 265,Mumbai,Maharashtra,West,Home Office,P002,Keyboard,Electronics,3,805,20,1932.0,180,1488.6,77.05,Credit Card,Express,2,Arjun,Yes
+ORD00609,2025-07-23,C107,Customer 177,Mumbai,Maharashtra,West,Consumer,P006,Headphones,Electronics,2,1190,10,2142.0,600,965.8,45.09,Cash,Express,2,Priya,Yes
+ORD00610,2025-06-22,C077,Customer 53,Kochi,Kerala,South,Consumer,P008,Webcam,Electronics,4,1415,0,5660.0,700,2860.0,50.53,Net Banking,Same Day,6,Arjun,No
+ORD00611,2025-01-23,C153,Customer 197,Mumbai,Maharashtra,West,Corporate,P002,Keyboard,Electronics,2,1048,20,1676.8,180,1400.64,83.53,Cash,Express,7,Arjun,No
+ORD00612,2025-04-15,C177,Customer 298,Bengaluru,Karnataka,South,Corporate,P001,Wireless Mouse,Electronics,8,531,0,4248.0,250,2248.0,52.92,Credit Card,Same Day,1,Aisha,Yes
+ORD00613,2025-09-07,C225,Customer 130,Delhi,Delhi,North,Corporate,P001,Wireless Mouse,Electronics,3,366,20,878.4,250,172.32,19.62,UPI,Express,5,Arjun,Yes
+ORD00614,2025-05-05,C076,Customer 15,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,8,532,5,4043.2,220,2293.84,56.73,Net Banking,Express,2,Meena,No
+ORD00615,2025-09-17,C054,Customer 256,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,7,1129,0,7903.0,600,3703.0,46.86,UPI,Express,6,Priya,No
+ORD00616,2025-07-26,C068,Customer 258,Bengaluru,Karnataka,South,Corporate,P008,Webcam,Electronics,3,1596,20,3830.4,700,1921.92,50.18,Debit Card,Express,1,Priya,Yes
+ORD00617,2025-09-19,C274,Customer 263,Kochi,Kerala,South,Consumer,P008,Webcam,Electronics,6,1383,0,8298.0,700,4098.0,49.39,Net Banking,Standard,2,Ravi,Yes
+ORD00618,2025-01-25,C215,Customer 93,Bengaluru,Karnataka,South,Consumer,P006,Headphones,Electronics,6,933,0,5598.0,600,1998.0,35.69,UPI,Express,4,Aisha,Yes
+ORD00619,2025-12-15,C238,Customer 241,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,4,1746,20,5587.2,1500,-133.44,-2.39,UPI,Express,5,Priya,No
+ORD00620,2025-03-02,C172,Customer 267,Kochi,Kerala,South,Home Office,P002,Keyboard,Electronics,4,731,0,2924.0,180,2204.0,75.38,Net Banking,Same Day,2,Aisha,Yes
+ORD00621,2025-08-04,C294,Customer 28,Delhi,Delhi,North,Consumer,P005,Laptop Stand,Accessories,1,825,20,660.0,220,473.0,71.67,Debit Card,Express,6,Meena,Yes
+ORD00622,2025-09-22,C201,Customer 76,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,9,2131,10,17261.1,1500,3952.89,22.9,Debit Card,Express,3,Kiran,Yes
+ORD00623,2025-07-22,C254,Customer 230,Chennai,Tamil Nadu,South,Consumer,P008,Webcam,Electronics,6,1538,0,9228.0,700,5028.0,54.49,Net Banking,Standard,3,Ravi,Yes
+ORD00624,2025-08-27,C166,Customer 30,Bengaluru,Karnataka,South,Consumer,P001,Wireless Mouse,Electronics,1,1076,10,968.4,250,729.16,75.3,Credit Card,Express,3,Aisha,No
+ORD00625,2025-07-07,C059,Customer 179,Mumbai,Maharashtra,West,Home Office,P008,Webcam,Electronics,2,1039,5,1974.1,700,579.29,29.34,Cash,Standard,1,Meena,Yes
+ORD00626,2025-08-31,C067,Customer 52,Kochi,Kerala,South,Home Office,P002,Keyboard,Electronics,8,961,20,6150.4,180,5017.92,81.59,Net Banking,Standard,4,Meena,Yes
+ORD00627,2025-04-22,C294,Customer 167,Delhi,Delhi,North,Consumer,P002,Keyboard,Electronics,4,730,10,2628.0,180,1937.2,73.71,Cash,Same Day,7,Priya,No
+ORD00628,2025-05-09,C211,Customer 90,Hyderabad,Telangana,South,Home Office,P002,Keyboard,Electronics,10,299,0,2990.0,180,1190.0,39.8,Net Banking,Express,7,Ravi,No
+ORD00629,2025-06-06,C275,Customer 77,Hyderabad,Telangana,South,Home Office,P002,Keyboard,Electronics,9,490,5,4189.5,180,2580.53,61.6,Debit Card,Express,5,Aisha,No
+ORD00630,2025-12-26,C225,Customer 109,Kochi,Kerala,South,Home Office,P008,Webcam,Electronics,3,1100,10,2970.0,700,903.0,30.4,Credit Card,Same Day,2,Meena,Yes
+ORD00631,2025-06-06,C207,Customer 244,Kochi,Kerala,South,Corporate,P004,Office Chair,Furniture,6,777,15,3962.7,500,1067.6,26.94,Credit Card,Express,1,Meena,No
+ORD00632,2025-07-15,C140,Customer 70,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,6,1598,5,9108.6,800,4332.57,47.57,Debit Card,Same Day,7,Meena,Yes
+ORD00633,2025-05-16,C002,Customer 222,Bengaluru,Karnataka,South,Consumer,P003,Monitor,Electronics,6,1597,20,7665.6,800,3248.88,42.38,UPI,Express,1,Priya,Yes
+ORD00634,2025-05-08,C150,Customer 144,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,8,654,20,4185.6,220,2634.88,62.95,UPI,Same Day,6,Kiran,Yes
+ORD00635,2025-09-28,C041,Customer 300,Chennai,Tamil Nadu,South,Corporate,P001,Wireless Mouse,Electronics,3,929,10,2508.3,250,1786.17,71.21,Credit Card,Standard,4,Kiran,No
+ORD00636,2025-07-23,C183,Customer 284,Chennai,Tamil Nadu,South,Corporate,P008,Webcam,Electronics,5,1062,0,5310.0,700,1810.0,34.09,UPI,Same Day,2,Kiran,No
+ORD00637,2025-04-30,C023,Customer 44,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,5,944,0,4720.0,220,3620.0,76.69,Cash,Express,5,Priya,No
+ORD00638,2025-11-19,C265,Customer 262,Hyderabad,Telangana,South,Corporate,P006,Headphones,Electronics,4,1340,5,5092.0,600,2705.4,53.13,Credit Card,Same Day,7,Ravi,Yes
+ORD00639,2025-09-01,C070,Customer 284,Bengaluru,Karnataka,South,Home Office,P001,Wireless Mouse,Electronics,6,876,20,4204.8,250,2915.04,69.33,Cash,Same Day,4,Priya,Yes
+ORD00640,2025-03-15,C014,Customer 31,Chennai,Tamil Nadu,South,Consumer,P006,Headphones,Electronics,1,1365,10,1228.5,600,642.15,52.27,Credit Card,Express,3,Aisha,Yes
+ORD00641,2025-06-13,C090,Customer 69,Mumbai,Maharashtra,West,Corporate,P003,Monitor,Electronics,3,1455,10,3928.5,800,1572.15,40.02,Credit Card,Express,4,Priya,Yes
+ORD00642,2025-10-10,C123,Customer 207,Mumbai,Maharashtra,West,Corporate,P005,Laptop Stand,Accessories,3,884,10,2386.8,220,1753.32,73.46,UPI,Same Day,3,Kiran,No
+ORD00643,2025-03-02,C291,Customer 131,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,9,1086,20,7819.2,180,6590.16,84.28,UPI,Standard,3,Arjun,No
+ORD00644,2025-12-28,C216,Customer 134,Delhi,Delhi,North,Corporate,P001,Wireless Mouse,Electronics,2,453,5,860.7,250,362.97,42.17,UPI,Standard,6,Arjun,Yes
+ORD00645,2025-08-22,C236,Customer 23,Hyderabad,Telangana,South,Corporate,P006,Headphones,Electronics,6,1367,5,7791.9,600,4212.4,54.06,Debit Card,Express,6,Kiran,Yes
+ORD00646,2025-07-26,C183,Customer 284,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,6,1428,20,6854.4,600,3597.12,52.48,Net Banking,Express,4,Arjun,Yes
+ORD00647,2025-12-03,C221,Customer 21,Hyderabad,Telangana,South,Consumer,P002,Keyboard,Electronics,2,990,5,1881.0,180,1525.95,81.12,Net Banking,Express,5,Kiran,Yes
+ORD00648,2025-05-08,C053,Customer 72,Delhi,Delhi,North,Home Office,P007,Desk,Furniture,9,1692,5,14466.6,1500,1004.67,6.94,Cash,Same Day,5,Aisha,Yes
+ORD00649,2025-03-20,C194,Customer 273,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,4,610,5,2318.0,500,324.1,13.98,Credit Card,Same Day,7,Aisha,No
+ORD00650,2025-12-15,C162,Customer 156,Hyderabad,Telangana,South,Home Office,P008,Webcam,Electronics,1,1656,5,1573.2,700,877.34,55.77,Cash,Standard,3,Meena,Yes
+ORD00651,2025-06-19,C004,Customer 251,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,10,1413,20,11304.0,700,4869.2,43.08,Net Banking,Standard,1,Arjun,No
+ORD00652,2025-01-24,C064,Customer 241,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,10,1628,15,13838.0,1500,-795.7,-5.75,UPI,Same Day,4,Arjun,Yes
+ORD00653,2025-08-16,C276,Customer 287,Kochi,Kerala,South,Corporate,P005,Laptop Stand,Accessories,8,983,0,7864.0,220,6104.0,77.62,Net Banking,Express,5,Kiran,No
+ORD00654,2025-02-08,C212,Customer 64,Kochi,Kerala,South,Home Office,P008,Webcam,Electronics,4,1645,15,5593.0,700,2941.05,52.58,Debit Card,Same Day,2,Kiran,No
+ORD00655,2025-06-24,C012,Customer 206,Bengaluru,Karnataka,South,Corporate,P004,Office Chair,Furniture,4,846,5,3214.8,500,1223.26,38.05,Debit Card,Standard,1,Kiran,No
+ORD00656,2025-06-03,C294,Customer 87,Kochi,Kerala,South,Corporate,P005,Laptop Stand,Accessories,9,718,20,5169.6,220,3448.08,66.7,Cash,Express,7,Arjun,No
+ORD00657,2025-04-06,C260,Customer 15,Chennai,Tamil Nadu,South,Home Office,P001,Wireless Mouse,Electronics,8,981,10,7063.2,250,5141.68,72.8,Cash,Standard,2,Arjun,No
+ORD00658,2025-06-28,C199,Customer 58,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,1,875,10,787.5,180,616.25,78.25,Debit Card,Same Day,3,Arjun,Yes
+ORD00659,2025-08-25,C278,Customer 161,Chennai,Tamil Nadu,South,Consumer,P003,Monitor,Electronics,10,1768,0,17680.0,800,9680.0,54.75,Net Banking,Standard,1,Arjun,Yes
+ORD00660,2025-10-01,C014,Customer 39,Delhi,Delhi,North,Home Office,P007,Desk,Furniture,5,1939,10,8725.5,1500,1322.45,15.16,Debit Card,Same Day,5,Aisha,No
+ORD00661,2025-10-22,C132,Customer 10,Delhi,Delhi,North,Corporate,P002,Keyboard,Electronics,9,1006,15,7695.9,180,6279.61,81.6,Cash,Standard,3,Arjun,Yes
+ORD00662,2025-10-10,C271,Customer 235,Chennai,Tamil Nadu,South,Consumer,P006,Headphones,Electronics,10,760,5,7220.0,600,1239.0,17.16,Net Banking,Express,1,Kiran,No
+ORD00663,2025-08-19,C121,Customer 92,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,3,779,15,1986.45,600,239.03,12.03,Net Banking,Express,5,Arjun,No
+ORD00664,2025-04-12,C044,Customer 13,Mumbai,Maharashtra,West,Home Office,P005,Laptop Stand,Accessories,10,892,20,7136.0,220,5292.8,74.17,Net Banking,Same Day,1,Priya,No
+ORD00665,2025-06-01,C220,Customer 99,Bengaluru,Karnataka,South,Consumer,P006,Headphones,Electronics,7,1121,20,6277.6,600,2391.48,38.1,UPI,Same Day,5,Priya,Yes
+ORD00666,2025-01-03,C014,Customer 187,Mumbai,Maharashtra,West,Corporate,P005,Laptop Stand,Accessories,10,1202,5,11419.0,220,9249.05,81.0,UPI,Standard,4,Arjun,Yes
+ORD00667,2025-02-08,C118,Customer 56,Delhi,Delhi,North,Consumer,P004,Office Chair,Furniture,2,1061,5,2015.9,500,1021.21,50.66,Credit Card,Standard,4,Kiran,Yes
+ORD00668,2025-07-25,C242,Customer 81,Mumbai,Maharashtra,West,Corporate,P006,Headphones,Electronics,6,1186,5,6760.2,600,3177.99,47.01,Cash,Express,2,Kiran,Yes
+ORD00669,2025-02-07,C124,Customer 190,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,9,785,0,7065.0,180,5445.0,77.07,UPI,Same Day,6,Meena,No
+ORD00670,2025-09-12,C096,Customer 238,Mumbai,Maharashtra,West,Corporate,P008,Webcam,Electronics,3,1424,15,3631.2,700,1627.32,44.81,Net Banking,Standard,5,Kiran,Yes
+ORD00671,2025-05-07,C229,Customer 201,Hyderabad,Telangana,South,Home Office,P006,Headphones,Electronics,4,1310,5,4978.0,600,2591.1,52.05,Cash,Express,5,Aisha,Yes
+ORD00672,2025-02-03,C037,Customer 157,Bengaluru,Karnataka,South,Consumer,P004,Office Chair,Furniture,6,1454,10,7851.6,500,4938.84,62.9,Cash,Standard,6,Meena,No
+ORD00673,2025-09-24,C222,Customer 97,Mumbai,Maharashtra,West,Consumer,P001,Wireless Mouse,Electronics,2,943,0,1886.0,250,1386.0,73.49,Net Banking,Same Day,2,Priya,No
+ORD00674,2025-04-09,C278,Customer 135,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,4,1966,20,6291.2,1500,605.76,9.63,UPI,Standard,3,Aisha,Yes
+ORD00675,2025-12-29,C056,Customer 13,Kochi,Kerala,South,Corporate,P001,Wireless Mouse,Electronics,5,364,20,1456.0,250,278.8,19.15,Net Banking,Express,6,Meena,No
+ORD00676,2025-03-14,C019,Customer 81,Kochi,Kerala,South,Home Office,P001,Wireless Mouse,Electronics,10,1066,15,9061.0,250,6800.85,75.06,Cash,Express,5,Arjun,No
+ORD00677,2025-02-04,C038,Customer 227,Hyderabad,Telangana,South,Consumer,P001,Wireless Mouse,Electronics,6,707,0,4242.0,250,2742.0,64.64,Net Banking,Express,7,Ravi,No
+ORD00678,2025-02-17,C273,Customer 265,Chennai,Tamil Nadu,South,Consumer,P002,Keyboard,Electronics,5,293,15,1245.25,180,378.21,30.37,Cash,Standard,1,Aisha,No
+ORD00679,2025-10-25,C085,Customer 272,Kochi,Kerala,South,Home Office,P001,Wireless Mouse,Electronics,9,774,20,5572.8,250,3601.44,64.63,UPI,Standard,2,Priya,Yes
+ORD00680,2025-06-27,C223,Customer 66,Hyderabad,Telangana,South,Home Office,P003,Monitor,Electronics,6,1300,0,7800.0,800,3000.0,38.46,Cash,Standard,6,Arjun,Yes
+ORD00681,2025-12-26,C119,Customer 159,Hyderabad,Telangana,South,Consumer,P004,Office Chair,Furniture,7,810,15,4819.5,500,1447.08,30.03,Debit Card,Same Day,4,Kiran,Yes
+ORD00682,2025-02-19,C055,Customer 160,Delhi,Delhi,North,Home Office,P007,Desk,Furniture,7,1678,0,11746.0,1500,1246.0,10.61,UPI,Express,1,Aisha,Yes
+ORD00683,2025-11-14,C271,Customer 117,Bengaluru,Karnataka,South,Home Office,P001,Wireless Mouse,Electronics,1,1089,5,1034.55,250,787.27,76.1,Net Banking,Express,4,Priya,No
+ORD00684,2025-03-30,C230,Customer 136,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,6,1347,15,6869.7,600,3451.55,50.24,Cash,Standard,7,Arjun,Yes
+ORD00685,2025-10-27,C283,Customer 188,Mumbai,Maharashtra,West,Home Office,P004,Office Chair,Furniture,5,1191,20,4764.0,500,2502.2,52.52,UPI,Same Day,5,Aisha,Yes
+ORD00686,2025-01-11,C083,Customer 254,Chennai,Tamil Nadu,South,Consumer,P002,Keyboard,Electronics,4,1032,5,3921.6,180,3211.92,81.9,UPI,Same Day,3,Arjun,No
+ORD00687,2025-12-18,C125,Customer 167,Mumbai,Maharashtra,West,Consumer,P004,Office Chair,Furniture,1,1433,10,1289.7,500,804.03,62.34,Cash,Express,3,Arjun,No
+ORD00688,2025-11-01,C253,Customer 2,Chennai,Tamil Nadu,South,Home Office,P003,Monitor,Electronics,9,1757,10,14231.7,800,7189.83,50.52,Credit Card,Standard,4,Meena,Yes
+ORD00689,2025-10-15,C061,Customer 3,Bengaluru,Karnataka,South,Corporate,P008,Webcam,Electronics,2,1313,15,2232.1,700,891.18,39.93,Credit Card,Same Day,5,Aisha,Yes
+ORD00690,2025-04-11,C294,Customer 153,Delhi,Delhi,North,Consumer,P007,Desk,Furniture,2,2273,0,4546.0,1500,1546.0,34.01,UPI,Standard,4,Arjun,Yes
+ORD00691,2025-05-14,C208,Customer 294,Delhi,Delhi,North,Consumer,P004,Office Chair,Furniture,7,884,5,5878.6,500,2394.07,40.73,Cash,Standard,3,Meena,No
+ORD00692,2025-03-11,C143,Customer 77,Mumbai,Maharashtra,West,Home Office,P002,Keyboard,Electronics,9,468,5,4001.4,180,2391.93,59.78,Credit Card,Same Day,7,Aisha,Yes
+ORD00693,2025-04-05,C076,Customer 201,Delhi,Delhi,North,Consumer,P008,Webcam,Electronics,3,1011,5,2881.35,700,788.93,27.38,Cash,Express,6,Arjun,Yes
+ORD00694,2025-01-14,C049,Customer 295,Chennai,Tamil Nadu,South,Home Office,P004,Office Chair,Furniture,10,1142,0,11420.0,500,6420.0,56.22,Net Banking,Standard,1,Arjun,Yes
+ORD00695,2025-10-17,C217,Customer 287,Delhi,Delhi,North,Home Office,P007,Desk,Furniture,6,1983,15,10113.3,1500,1381.01,13.66,Credit Card,Same Day,5,Aisha,Yes
+ORD00696,2025-07-23,C226,Customer 119,Bengaluru,Karnataka,South,Corporate,P005,Laptop Stand,Accessories,4,488,20,1561.6,220,759.68,48.65,Cash,Standard,6,Aisha,Yes
+ORD00697,2025-06-04,C224,Customer 136,Mumbai,Maharashtra,West,Home Office,P008,Webcam,Electronics,7,1523,10,9594.9,700,4801.51,50.04,Cash,Same Day,1,Meena,No
+ORD00698,2025-03-25,C273,Customer 158,Delhi,Delhi,North,Corporate,P006,Headphones,Electronics,1,1369,15,1163.65,600,594.45,51.08,UPI,Express,4,Ravi,Yes
+ORD00699,2025-09-14,C142,Customer 272,Mumbai,Maharashtra,West,Corporate,P003,Monitor,Electronics,8,1256,15,8540.8,800,2366.88,27.71,Cash,Same Day,2,Meena,Yes
+ORD00700,2025-06-13,C165,Customer 212,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,5,433,10,1948.5,180,1070.15,54.92,Net Banking,Standard,2,Priya,Yes
+ORD00701,2025-03-08,C289,Customer 225,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,7,1038,15,6176.1,600,2139.59,34.64,Net Banking,Same Day,1,Aisha,Yes
+ORD00702,2025-10-01,C299,Customer 290,Kochi,Kerala,South,Consumer,P006,Headphones,Electronics,1,1437,5,1365.15,600,768.74,56.31,Debit Card,Express,4,Aisha,No
+ORD00703,2025-05-22,C265,Customer 120,Mumbai,Maharashtra,West,Consumer,P005,Laptop Stand,Accessories,9,697,5,5959.35,220,3995.03,67.04,Cash,Express,2,Meena,Yes
+ORD00704,2025-12-20,C131,Customer 37,Mumbai,Maharashtra,West,Consumer,P004,Office Chair,Furniture,2,1024,20,1638.4,500,720.32,43.96,UPI,Express,4,Priya,No
+ORD00705,2025-09-12,C065,Customer 26,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,6,543,5,3095.1,180,2023.24,65.37,Credit Card,Same Day,4,Kiran,Yes
+ORD00706,2025-02-25,C204,Customer 135,Mumbai,Maharashtra,West,Home Office,P004,Office Chair,Furniture,5,1079,0,5395.0,500,2895.0,53.66,Credit Card,Same Day,7,Kiran,No
+ORD00707,2025-05-09,C085,Customer 123,Hyderabad,Telangana,South,Home Office,P002,Keyboard,Electronics,10,1153,0,11530.0,180,9730.0,84.39,Credit Card,Same Day,5,Kiran,No
+ORD00708,2025-10-03,C177,Customer 159,Mumbai,Maharashtra,West,Corporate,P003,Monitor,Electronics,1,1044,5,991.8,800,194.41,19.6,UPI,Express,4,Ravi,Yes
+ORD00709,2025-02-28,C071,Customer 127,Hyderabad,Telangana,South,Home Office,P007,Desk,Furniture,8,1759,10,12664.8,1500,805.52,6.36,Credit Card,Express,2,Ravi,No
+ORD00710,2025-04-06,C079,Customer 144,Hyderabad,Telangana,South,Corporate,P008,Webcam,Electronics,9,1187,5,10148.85,700,3875.56,38.19,UPI,Same Day,4,Ravi,Yes
+ORD00711,2025-04-27,C121,Customer 25,Mumbai,Maharashtra,West,Corporate,P002,Keyboard,Electronics,3,508,0,1524.0,180,984.0,64.57,UPI,Same Day,1,Meena,No
+ORD00712,2025-03-06,C277,Customer 261,Kochi,Kerala,South,Consumer,P002,Keyboard,Electronics,1,1119,20,895.2,180,759.96,84.89,Cash,Same Day,6,Meena,No
+ORD00713,2025-02-24,C173,Customer 27,Hyderabad,Telangana,South,Consumer,P002,Keyboard,Electronics,2,403,15,685.1,180,343.24,50.1,Debit Card,Same Day,6,Kiran,Yes
+ORD00714,2025-05-05,C251,Customer 61,Hyderabad,Telangana,South,Consumer,P006,Headphones,Electronics,2,1341,15,2279.7,600,1140.05,50.01,Credit Card,Same Day,2,Ravi,Yes
+ORD00715,2025-10-21,C136,Customer 108,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,2,529,10,952.2,250,462.78,48.6,UPI,Express,2,Kiran,Yes
+ORD00716,2025-09-17,C265,Customer 19,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,4,1528,15,5195.2,800,2132.72,41.05,UPI,Standard,2,Aisha,Yes
+ORD00717,2025-07-13,C280,Customer 205,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,2,575,10,1035.0,180,686.5,66.33,Cash,Standard,5,Priya,Yes
+ORD00718,2025-08-26,C296,Customer 196,Chennai,Tamil Nadu,South,Home Office,P008,Webcam,Electronics,6,1494,15,7619.4,700,3621.09,47.52,Cash,Standard,1,Kiran,No
+ORD00719,2025-05-14,C161,Customer 274,Chennai,Tamil Nadu,South,Home Office,P008,Webcam,Electronics,3,820,20,1968.0,700,-33.6,-1.71,Cash,Express,6,Ravi,No
+ORD00720,2025-09-30,C115,Customer 198,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,3,802,0,2406.0,180,1866.0,77.56,Credit Card,Express,3,Arjun,Yes
+ORD00721,2025-02-06,C013,Customer 14,Kochi,Kerala,South,Home Office,P005,Laptop Stand,Accessories,6,573,10,3094.2,220,1808.58,58.45,Debit Card,Express,5,Meena,No
+ORD00722,2025-02-15,C236,Customer 300,Bengaluru,Karnataka,South,Consumer,P005,Laptop Stand,Accessories,7,693,5,4608.45,220,3080.58,66.85,UPI,Standard,5,Arjun,Yes
+ORD00723,2025-10-11,C216,Customer 241,Kochi,Kerala,South,Consumer,P005,Laptop Stand,Accessories,10,820,15,6970.0,220,4954.5,71.08,Net Banking,Express,3,Ravi,No
+ORD00724,2025-07-01,C102,Customer 45,Mumbai,Maharashtra,West,Home Office,P001,Wireless Mouse,Electronics,7,352,10,2217.6,250,492.24,22.2,UPI,Same Day,5,Meena,No
+ORD00725,2025-07-11,C196,Customer 53,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,2,1000,0,2000.0,500,1000.0,50.0,Net Banking,Same Day,1,Ravi,No
+ORD00726,2025-01-23,C177,Customer 64,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,1,1416,5,1345.2,700,648.74,48.23,UPI,Same Day,7,Priya,Yes
+ORD00727,2025-06-24,C074,Customer 94,Hyderabad,Telangana,South,Home Office,P002,Keyboard,Electronics,8,1109,15,7541.2,180,6300.82,83.55,Debit Card,Standard,1,Ravi,No
+ORD00728,2025-06-19,C077,Customer 238,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,10,615,5,5842.5,180,4057.88,69.45,UPI,Same Day,7,Aisha,Yes
+ORD00729,2025-10-05,C194,Customer 185,Chennai,Tamil Nadu,South,Corporate,P003,Monitor,Electronics,2,1705,20,2728.0,800,1264.4,46.35,UPI,Express,6,Priya,Yes
+ORD00730,2025-12-30,C114,Customer 236,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,6,1061,10,5729.4,700,1593.06,27.81,Debit Card,Express,3,Aisha,Yes
+ORD00731,2025-12-03,C195,Customer 35,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,5,1395,10,6277.5,800,2347.25,37.39,Cash,Standard,3,Aisha,No
+ORD00732,2025-06-14,C025,Customer 220,Chennai,Tamil Nadu,South,Corporate,P002,Keyboard,Electronics,2,777,5,1476.3,180,1120.18,75.88,Credit Card,Same Day,5,Priya,Yes
+ORD00733,2025-10-18,C262,Customer 239,Bengaluru,Karnataka,South,Corporate,P008,Webcam,Electronics,5,1099,0,5495.0,700,1995.0,36.31,Credit Card,Express,5,Aisha,Yes
+ORD00734,2025-02-06,C190,Customer 82,Mumbai,Maharashtra,West,Corporate,P006,Headphones,Electronics,1,962,20,769.6,600,208.08,27.04,Credit Card,Express,4,Ravi,Yes
+ORD00735,2025-05-11,C006,Customer 211,Hyderabad,Telangana,South,Corporate,P005,Laptop Stand,Accessories,9,1174,5,10037.7,220,8084.11,80.54,Debit Card,Same Day,1,Kiran,No
+ORD00736,2025-02-05,C028,Customer 184,Mumbai,Maharashtra,West,Consumer,P008,Webcam,Electronics,9,1322,15,10113.3,700,4081.01,40.35,Credit Card,Same Day,1,Meena,No
+ORD00737,2025-11-16,C174,Customer 142,Kochi,Kerala,South,Home Office,P004,Office Chair,Furniture,1,949,0,949.0,500,449.0,47.31,Net Banking,Standard,1,Ravi,No
+ORD00738,2025-08-26,C125,Customer 187,Chennai,Tamil Nadu,South,Corporate,P005,Laptop Stand,Accessories,9,833,0,7497.0,220,5517.0,73.59,UPI,Same Day,7,Kiran,Yes
+ORD00739,2025-06-08,C190,Customer 270,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,4,678,15,2305.2,180,1646.22,71.41,Net Banking,Express,2,Ravi,Yes
+ORD00740,2025-09-14,C243,Customer 8,Chennai,Tamil Nadu,South,Consumer,P008,Webcam,Electronics,4,1537,10,5533.2,700,2794.68,50.51,Net Banking,Same Day,2,Ravi,No
+ORD00741,2025-07-01,C097,Customer 281,Bengaluru,Karnataka,South,Corporate,P003,Monitor,Electronics,6,1745,5,9946.5,800,5172.68,52.01,Net Banking,Standard,7,Arjun,Yes
+ORD00742,2025-10-03,C031,Customer 27,Mumbai,Maharashtra,West,Consumer,P006,Headphones,Electronics,4,997,15,3389.8,600,1079.53,31.85,Cash,Express,6,Ravi,Yes
+ORD00743,2025-09-30,C108,Customer 226,Mumbai,Maharashtra,West,Home Office,P006,Headphones,Electronics,6,1575,0,9450.0,600,5850.0,61.9,Cash,Same Day,3,Aisha,No
+ORD00744,2025-02-13,C208,Customer 222,Bengaluru,Karnataka,South,Consumer,P003,Monitor,Electronics,3,1442,20,3460.8,800,1233.84,35.65,UPI,Express,2,Aisha,Yes
+ORD00745,2025-08-26,C223,Customer 215,Hyderabad,Telangana,South,Corporate,P003,Monitor,Electronics,9,1331,0,11979.0,800,4779.0,39.89,Cash,Same Day,7,Arjun,Yes
+ORD00746,2025-06-29,C100,Customer 178,Kochi,Kerala,South,Consumer,P004,Office Chair,Furniture,3,1399,20,3357.6,500,2025.48,60.33,Debit Card,Same Day,7,Arjun,Yes
+ORD00747,2025-10-01,C062,Customer 144,Mumbai,Maharashtra,West,Home Office,P005,Laptop Stand,Accessories,4,645,20,2064.0,220,1287.2,62.36,Cash,Express,6,Aisha,No
+ORD00748,2025-07-01,C220,Customer 216,Bengaluru,Karnataka,South,Consumer,P005,Laptop Stand,Accessories,8,917,20,5868.8,220,4402.24,75.01,Debit Card,Standard,4,Priya,No
+ORD00749,2025-04-30,C120,Customer 126,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,3,1577,10,4257.9,800,1905.21,44.75,Cash,Standard,6,Aisha,No
+ORD00750,2025-12-03,C279,Customer 226,Chennai,Tamil Nadu,South,Home Office,P002,Keyboard,Electronics,8,718,20,4595.2,180,3384.96,73.66,UPI,Express,4,Arjun,Yes
+ORD00751,2025-07-11,C160,Customer 191,Chennai,Tamil Nadu,South,Home Office,P002,Keyboard,Electronics,7,1072,0,7504.0,180,6244.0,83.21,Debit Card,Standard,2,Priya,Yes
+ORD00752,2025-01-13,C067,Customer 99,Hyderabad,Telangana,South,Corporate,P004,Office Chair,Furniture,8,770,15,5236.0,500,1374.6,26.25,Debit Card,Same Day,3,Kiran,No
+ORD00753,2025-12-08,C281,Customer 253,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,7,2195,5,14596.75,1500,4135.16,28.33,Credit Card,Standard,3,Meena,No
+ORD00754,2025-10-12,C167,Customer 30,Chennai,Tamil Nadu,South,Consumer,P005,Laptop Stand,Accessories,2,534,5,1014.6,220,577.27,56.9,Credit Card,Express,5,Aisha,Yes
+ORD00755,2025-01-25,C119,Customer 112,Bengaluru,Karnataka,South,Home Office,P007,Desk,Furniture,9,1912,5,16347.6,1500,2890.62,17.68,Credit Card,Standard,5,Ravi,No
+ORD00756,2025-07-20,C286,Customer 20,Chennai,Tamil Nadu,South,Corporate,P006,Headphones,Electronics,9,1184,10,9590.4,600,4296.96,44.8,Net Banking,Same Day,1,Meena,No
+ORD00757,2025-11-05,C028,Customer 283,Hyderabad,Telangana,South,Home Office,P001,Wireless Mouse,Electronics,3,1141,15,2909.55,250,2236.57,76.87,Credit Card,Same Day,1,Priya,Yes
+ORD00758,2025-04-24,C058,Customer 288,Mumbai,Maharashtra,West,Home Office,P001,Wireless Mouse,Electronics,1,1203,5,1142.85,250,895.86,78.39,Cash,Same Day,2,Ravi,No
+ORD00759,2025-02-12,C111,Customer 63,Chennai,Tamil Nadu,South,Corporate,P008,Webcam,Electronics,4,1655,15,5627.0,700,2975.95,52.89,UPI,Same Day,5,Meena,Yes
+ORD00760,2025-12-20,C247,Customer 43,Kochi,Kerala,South,Home Office,P001,Wireless Mouse,Electronics,8,527,15,3583.6,250,1678.46,46.84,Cash,Same Day,3,Meena,Yes
+ORD00761,2025-10-12,C123,Customer 134,Hyderabad,Telangana,South,Corporate,P007,Desk,Furniture,9,2445,20,17604.0,1500,4984.2,28.31,UPI,Standard,2,Arjun,Yes
+ORD00762,2025-05-30,C222,Customer 277,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,10,1265,15,10752.5,700,4037.12,37.55,Credit Card,Standard,1,Priya,No
+ORD00763,2025-10-30,C116,Customer 48,Delhi,Delhi,North,Consumer,P002,Keyboard,Electronics,3,370,0,1110.0,180,570.0,51.35,Debit Card,Same Day,4,Kiran,Yes
+ORD00764,2025-08-02,C237,Customer 96,Kochi,Kerala,South,Corporate,P006,Headphones,Electronics,9,813,20,5853.6,600,746.28,12.75,Credit Card,Same Day,6,Ravi,No
+ORD00765,2025-02-19,C048,Customer 270,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,8,641,10,4615.2,180,3226.48,69.91,Net Banking,Standard,3,Aisha,No
+ORD00766,2025-04-06,C106,Customer 172,Mumbai,Maharashtra,West,Home Office,P004,Office Chair,Furniture,3,1478,15,3768.9,500,2368.66,62.85,Net Banking,Same Day,2,Meena,No
+ORD00767,2025-07-24,C115,Customer 248,Mumbai,Maharashtra,West,Corporate,P005,Laptop Stand,Accessories,7,333,15,1981.35,220,493.8,24.92,Cash,Express,7,Aisha,No
+ORD00768,2025-05-28,C085,Customer 106,Bengaluru,Karnataka,South,Consumer,P001,Wireless Mouse,Electronics,6,644,20,3091.2,250,1745.76,56.48,UPI,Standard,3,Priya,Yes
+ORD00769,2025-03-31,C157,Customer 97,Chennai,Tamil Nadu,South,Corporate,P003,Monitor,Electronics,5,1423,10,6403.5,800,2474.65,38.65,Net Banking,Standard,7,Kiran,Yes
+ORD00770,2025-02-15,C281,Customer 229,Kochi,Kerala,South,Corporate,P002,Keyboard,Electronics,9,290,20,2088.0,180,572.4,27.41,Net Banking,Same Day,5,Priya,Yes
+ORD00771,2025-02-02,C272,Customer 214,Bengaluru,Karnataka,South,Consumer,P007,Desk,Furniture,2,2320,5,4408.0,1500,1419.6,32.21,Debit Card,Express,7,Kiran,Yes
+ORD00772,2025-05-16,C243,Customer 39,Chennai,Tamil Nadu,South,Home Office,P005,Laptop Stand,Accessories,10,1146,15,9741.0,220,7798.85,80.06,Credit Card,Standard,4,Priya,Yes
+ORD00773,2025-03-08,C103,Customer 38,Kochi,Kerala,South,Consumer,P006,Headphones,Electronics,6,1273,0,7638.0,600,4038.0,52.87,UPI,Standard,2,Arjun,Yes
+ORD00774,2025-09-16,C242,Customer 67,Bengaluru,Karnataka,South,Corporate,P002,Keyboard,Electronics,6,601,0,3606.0,180,2526.0,70.05,Cash,Same Day,1,Meena,Yes
+ORD00775,2025-12-08,C270,Customer 81,Mumbai,Maharashtra,West,Consumer,P003,Monitor,Electronics,2,1140,20,1824.0,800,315.2,17.28,Credit Card,Express,1,Priya,Yes
+ORD00776,2025-07-08,C294,Customer 186,Delhi,Delhi,North,Consumer,P006,Headphones,Electronics,1,1032,0,1032.0,600,432.0,41.86,Debit Card,Express,5,Arjun,Yes
+ORD00777,2025-04-26,C154,Customer 9,Delhi,Delhi,North,Consumer,P007,Desk,Furniture,10,1868,5,17746.0,1500,2792.7,15.74,Net Banking,Express,6,Ravi,No
+ORD00778,2025-02-07,C262,Customer 80,Mumbai,Maharashtra,West,Corporate,P001,Wireless Mouse,Electronics,9,838,20,6033.6,250,4085.28,67.71,Net Banking,Same Day,3,Meena,Yes
+ORD00779,2025-01-02,C138,Customer 137,Bengaluru,Karnataka,South,Home Office,P003,Monitor,Electronics,8,1533,10,11037.6,800,4760.24,43.13,UPI,Same Day,6,Ravi,No
+ORD00780,2025-11-15,C229,Customer 38,Kochi,Kerala,South,Consumer,P008,Webcam,Electronics,5,1320,20,5280.0,700,2044.0,38.71,Cash,Standard,3,Arjun,Yes
+ORD00781,2025-05-08,C017,Customer 277,Chennai,Tamil Nadu,South,Home Office,P007,Desk,Furniture,2,2423,10,4361.4,1500,1409.86,32.33,Credit Card,Express,4,Arjun,Yes
+ORD00782,2025-10-03,C111,Customer 134,Delhi,Delhi,North,Corporate,P007,Desk,Furniture,8,2130,20,13632.0,1500,2313.6,16.97,Credit Card,Express,6,Arjun,Yes
+ORD00783,2025-06-01,C224,Customer 106,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,9,907,15,6938.55,800,-77.78,-1.12,Cash,Standard,1,Arjun,No
+ORD00784,2025-07-30,C066,Customer 132,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,1,1105,20,884.0,700,228.2,25.81,Cash,Express,5,Meena,No
+ORD00785,2025-07-31,C055,Customer 40,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,2,354,10,637.2,250,144.28,22.64,Net Banking,Same Day,6,Priya,No
+ORD00786,2025-10-25,C126,Customer 175,Kochi,Kerala,South,Consumer,P002,Keyboard,Electronics,1,1086,0,1086.0,180,906.0,83.43,Credit Card,Express,7,Aisha,No
+ORD00787,2025-02-10,C008,Customer 286,Bengaluru,Karnataka,South,Consumer,P003,Monitor,Electronics,2,1146,15,1948.2,800,399.77,20.52,UPI,Express,6,Priya,No
+ORD00788,2025-10-22,C027,Customer 275,Hyderabad,Telangana,South,Corporate,P003,Monitor,Electronics,6,1670,20,8016.0,800,3616.8,45.12,Net Banking,Same Day,3,Arjun,No
+ORD00789,2025-09-17,C055,Customer 148,Hyderabad,Telangana,South,Home Office,P007,Desk,Furniture,2,1786,20,2857.6,1500,0.48,0.02,Debit Card,Same Day,7,Arjun,Yes
+ORD00790,2025-07-23,C167,Customer 234,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,5,866,20,3464.0,180,2737.2,79.02,Net Banking,Same Day,6,Meena,No
+ORD00791,2025-10-04,C015,Customer 124,Hyderabad,Telangana,South,Consumer,P005,Laptop Stand,Accessories,3,971,0,2913.0,220,2253.0,77.34,Debit Card,Standard,7,Kiran,No
+ORD00792,2025-04-22,C258,Customer 8,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,8,388,5,2948.8,220,1196.56,40.58,Debit Card,Express,5,Aisha,Yes
+ORD00793,2025-03-04,C053,Customer 22,Delhi,Delhi,North,Home Office,P002,Keyboard,Electronics,6,373,5,2126.1,180,1051.69,49.47,Cash,Standard,6,Kiran,No
+ORD00794,2025-03-03,C187,Customer 114,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,2,763,0,1526.0,180,1166.0,76.41,UPI,Same Day,1,Meena,Yes
+ORD00795,2025-09-02,C109,Customer 198,Kochi,Kerala,South,Home Office,P005,Laptop Stand,Accessories,8,557,15,3787.6,220,2127.86,56.18,Net Banking,Standard,1,Arjun,Yes
+ORD00796,2025-05-23,C112,Customer 265,Kochi,Kerala,South,Consumer,P008,Webcam,Electronics,9,1345,10,10894.5,700,4715.55,43.28,Cash,Standard,4,Kiran,Yes
+ORD00797,2025-12-30,C297,Customer 32,Delhi,Delhi,North,Corporate,P004,Office Chair,Furniture,9,1320,20,9504.0,500,5479.2,57.65,Net Banking,Same Day,4,Ravi,Yes
+ORD00798,2025-07-30,C161,Customer 147,Kochi,Kerala,South,Corporate,P001,Wireless Mouse,Electronics,7,472,10,2973.6,250,1256.64,42.26,Credit Card,Express,3,Meena,Yes
+ORD00799,2025-06-12,C082,Customer 150,Hyderabad,Telangana,South,Corporate,P005,Laptop Stand,Accessories,9,1036,20,7459.2,220,5852.16,78.46,Net Banking,Standard,7,Arjun,Yes
+ORD00800,2025-07-05,C238,Customer 213,Delhi,Delhi,North,Corporate,P008,Webcam,Electronics,7,1249,10,7868.7,700,3056.13,38.84,Net Banking,Express,2,Arjun,Yes
+ORD00801,2025-04-01,C244,Customer 253,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,4,674,10,2426.4,250,1453.36,59.9,Cash,Standard,2,Arjun,Yes
+ORD00802,2025-05-31,C136,Customer 128,Hyderabad,Telangana,South,Home Office,P006,Headphones,Electronics,1,1551,5,1473.45,600,877.33,59.54,Cash,Standard,1,Aisha,Yes
+ORD00803,2025-11-21,C075,Customer 40,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,2,890,15,1513.0,500,553.05,36.55,Credit Card,Standard,2,Priya,Yes
+ORD00804,2025-03-31,C020,Customer 45,Delhi,Delhi,North,Corporate,P001,Wireless Mouse,Electronics,2,567,5,1077.3,250,580.13,53.85,Credit Card,Standard,2,Aisha,Yes
+ORD00805,2025-02-20,C001,Customer 279,Mumbai,Maharashtra,West,Corporate,P002,Keyboard,Electronics,10,1104,10,9936.0,180,8246.4,83.0,Debit Card,Same Day,1,Ravi,Yes
+ORD00806,2025-12-19,C109,Customer 59,Delhi,Delhi,North,Consumer,P003,Monitor,Electronics,4,1285,10,4626.0,800,1477.4,31.94,Credit Card,Same Day,7,Ravi,No
+ORD00807,2025-04-12,C130,Customer 22,Bengaluru,Karnataka,South,Corporate,P005,Laptop Stand,Accessories,9,1055,0,9495.0,220,7515.0,79.15,Debit Card,Same Day,4,Ravi,Yes
+ORD00808,2025-11-29,C265,Customer 235,Delhi,Delhi,North,Corporate,P006,Headphones,Electronics,3,1366,15,3483.3,600,1775.51,50.97,UPI,Standard,5,Meena,No
+ORD00809,2025-06-09,C111,Customer 234,Hyderabad,Telangana,South,Consumer,P004,Office Chair,Furniture,7,630,5,4189.5,500,700.52,16.72,Net Banking,Standard,1,Kiran,Yes
+ORD00810,2025-09-12,C048,Customer 178,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,8,451,20,2886.4,180,1590.72,55.11,UPI,Same Day,2,Meena,No
+ORD00811,2025-03-10,C075,Customer 298,Delhi,Delhi,North,Home Office,P003,Monitor,Electronics,10,1496,20,11968.0,800,4566.4,38.16,Net Banking,Standard,2,Ravi,No
+ORD00812,2025-02-15,C153,Customer 29,Mumbai,Maharashtra,West,Consumer,P005,Laptop Stand,Accessories,5,975,15,4143.75,220,3153.44,76.1,Debit Card,Same Day,1,Arjun,No
+ORD00813,2025-11-22,C280,Customer 176,Chennai,Tamil Nadu,South,Home Office,P002,Keyboard,Electronics,9,886,0,7974.0,180,6354.0,79.68,Credit Card,Standard,2,Priya,No
+ORD00814,2025-07-15,C219,Customer 1,Kochi,Kerala,South,Consumer,P003,Monitor,Electronics,6,1471,5,8384.7,800,3606.76,43.02,Cash,Standard,1,Ravi,Yes
+ORD00815,2025-06-15,C269,Customer 123,Chennai,Tamil Nadu,South,Consumer,P003,Monitor,Electronics,5,1488,20,5952.0,800,2249.6,37.8,Net Banking,Standard,2,Aisha,Yes
+ORD00816,2025-07-10,C025,Customer 93,Chennai,Tamil Nadu,South,Consumer,P007,Desk,Furniture,2,2193,15,3728.1,1500,826.78,22.18,UPI,Same Day,5,Kiran,Yes
+ORD00817,2025-07-03,C130,Customer 13,Chennai,Tamil Nadu,South,Home Office,P007,Desk,Furniture,4,2152,20,6886.4,1500,1230.72,17.87,Cash,Express,6,Meena,No
+ORD00818,2025-08-04,C068,Customer 55,Chennai,Tamil Nadu,South,Corporate,P007,Desk,Furniture,10,2003,0,20030.0,1500,5030.0,25.11,Net Banking,Same Day,7,Arjun,No
+ORD00819,2025-05-05,C119,Customer 9,Mumbai,Maharashtra,West,Home Office,P001,Wireless Mouse,Electronics,1,1078,5,1024.1,250,776.79,75.85,Credit Card,Standard,3,Arjun,Yes
+ORD00820,2025-02-04,C230,Customer 15,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,2,708,20,1132.8,250,689.44,60.86,Credit Card,Same Day,6,Arjun,No
+ORD00821,2025-07-22,C269,Customer 215,Chennai,Tamil Nadu,South,Consumer,P003,Monitor,Electronics,2,912,20,1459.2,800,-67.84,-4.65,Net Banking,Express,2,Arjun,Yes
+ORD00822,2025-11-16,C064,Customer 120,Kochi,Kerala,South,Consumer,P006,Headphones,Electronics,8,1128,15,7670.4,600,3073.44,40.07,Net Banking,Express,7,Priya,No
+ORD00823,2025-09-10,C125,Customer 3,Delhi,Delhi,North,Home Office,P006,Headphones,Electronics,8,1276,15,8676.8,600,4106.48,47.33,Debit Card,Standard,7,Ravi,No
+ORD00824,2025-03-17,C270,Customer 183,Hyderabad,Telangana,South,Corporate,P006,Headphones,Electronics,7,1453,20,8136.8,600,4343.64,53.38,Net Banking,Standard,5,Kiran,No
+ORD00825,2025-11-16,C174,Customer 19,Mumbai,Maharashtra,West,Home Office,P004,Office Chair,Furniture,6,1380,15,7038.0,500,4224.3,60.02,Credit Card,Standard,5,Meena,Yes
+ORD00826,2025-08-11,C186,Customer 31,Bengaluru,Karnataka,South,Home Office,P002,Keyboard,Electronics,7,1011,5,6723.15,180,5480.84,81.52,Debit Card,Standard,5,Priya,Yes
+ORD00827,2025-02-23,C250,Customer 216,Chennai,Tamil Nadu,South,Corporate,P006,Headphones,Electronics,9,1432,20,10310.4,600,5425.92,52.63,UPI,Same Day,3,Meena,No
+ORD00828,2025-04-28,C165,Customer 252,Bengaluru,Karnataka,South,Corporate,P006,Headphones,Electronics,6,1408,5,8025.6,600,4446.72,55.41,Cash,Standard,4,Priya,Yes
+ORD00829,2025-07-27,C285,Customer 254,Chennai,Tamil Nadu,South,Consumer,P008,Webcam,Electronics,8,1451,20,9286.4,700,4150.72,44.7,UPI,Same Day,7,Arjun,Yes
+ORD00830,2025-07-07,C091,Customer 71,Mumbai,Maharashtra,West,Corporate,P001,Wireless Mouse,Electronics,4,629,15,2138.6,250,1195.21,55.89,Debit Card,Express,5,Arjun,Yes
+ORD00831,2025-02-22,C101,Customer 293,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,5,1295,10,5827.5,500,3392.25,58.21,UPI,Express,4,Priya,Yes
+ORD00832,2025-10-26,C067,Customer 49,Mumbai,Maharashtra,West,Corporate,P002,Keyboard,Electronics,4,709,20,2268.8,180,1662.24,73.27,Credit Card,Standard,6,Meena,Yes
+ORD00833,2025-04-08,C156,Customer 239,Mumbai,Maharashtra,West,Home Office,P003,Monitor,Electronics,4,1612,10,5803.2,800,2667.68,45.97,Net Banking,Standard,5,Ravi,No
+ORD00834,2025-11-13,C091,Customer 221,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,8,458,5,3480.8,250,1489.96,42.81,UPI,Same Day,3,Priya,No
+ORD00835,2025-02-02,C276,Customer 31,Hyderabad,Telangana,South,Home Office,P006,Headphones,Electronics,2,981,10,1765.8,600,585.42,33.15,Net Banking,Same Day,2,Aisha,Yes
+ORD00836,2025-05-29,C232,Customer 241,Bengaluru,Karnataka,South,Consumer,P006,Headphones,Electronics,3,780,20,1872.0,600,165.6,8.85,UPI,Same Day,1,Arjun,No
+ORD00837,2025-08-12,C131,Customer 232,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,6,953,20,4574.4,220,3483.12,76.14,Cash,Standard,3,Arjun,Yes
+ORD00838,2025-03-31,C142,Customer 80,Hyderabad,Telangana,South,Corporate,P007,Desk,Furniture,4,1806,0,7224.0,1500,1224.0,16.94,Cash,Standard,6,Aisha,No
+ORD00839,2025-11-30,C194,Customer 271,Mumbai,Maharashtra,West,Consumer,P003,Monitor,Electronics,3,1344,10,3628.8,800,1269.12,34.97,Net Banking,Same Day,3,Ravi,Yes
+ORD00840,2025-03-08,C010,Customer 128,Mumbai,Maharashtra,West,Home Office,P002,Keyboard,Electronics,8,297,5,2257.2,180,823.14,36.47,Debit Card,Same Day,2,Priya,No
+ORD00841,2025-02-05,C205,Customer 284,Mumbai,Maharashtra,West,Home Office,P001,Wireless Mouse,Electronics,1,847,20,677.6,250,461.48,68.11,Debit Card,Same Day,2,Aisha,Yes
+ORD00842,2025-06-13,C138,Customer 213,Chennai,Tamil Nadu,South,Home Office,P007,Desk,Furniture,3,2442,0,7326.0,1500,2826.0,38.57,Cash,Standard,5,Priya,Yes
+ORD00843,2025-10-20,C163,Customer 196,Delhi,Delhi,North,Corporate,P006,Headphones,Electronics,10,733,10,6597.0,600,670.3,10.16,UPI,Express,2,Kiran,No
+ORD00844,2025-11-12,C242,Customer 80,Hyderabad,Telangana,South,Corporate,P007,Desk,Furniture,5,2003,15,8512.75,1500,1238.09,14.54,Credit Card,Same Day,1,Aisha,Yes
+ORD00845,2025-02-16,C150,Customer 106,Chennai,Tamil Nadu,South,Home Office,P007,Desk,Furniture,5,1994,20,7976.0,1500,874.8,10.97,Cash,Express,1,Ravi,Yes
+ORD00846,2025-09-06,C070,Customer 139,Kochi,Kerala,South,Home Office,P006,Headphones,Electronics,3,878,5,2502.3,600,708.88,28.33,Debit Card,Same Day,3,Kiran,Yes
+ORD00847,2025-10-03,C159,Customer 198,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,2,747,15,1269.9,220,863.51,68.0,UPI,Standard,4,Aisha,Yes
+ORD00848,2025-09-12,C191,Customer 57,Bengaluru,Karnataka,South,Consumer,P008,Webcam,Electronics,8,1401,15,9526.8,700,4178.98,43.87,Cash,Same Day,2,Aisha,No
+ORD00849,2025-05-25,C244,Customer 151,Hyderabad,Telangana,South,Consumer,P001,Wireless Mouse,Electronics,5,750,20,3000.0,250,1900.0,63.33,Net Banking,Standard,3,Kiran,Yes
+ORD00850,2025-03-29,C258,Customer 228,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,6,1830,15,9333.0,1500,580.05,6.22,Net Banking,Same Day,5,Ravi,Yes
+ORD00851,2025-03-10,C073,Customer 222,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,7,667,15,3968.65,250,2323.7,58.55,Debit Card,Express,6,Aisha,Yes
+ORD00852,2025-03-19,C011,Customer 145,Kochi,Kerala,South,Consumer,P007,Desk,Furniture,3,2083,20,4999.2,1500,749.16,14.99,Credit Card,Standard,6,Ravi,Yes
+ORD00853,2025-06-14,C163,Customer 2,Chennai,Tamil Nadu,South,Corporate,P005,Laptop Stand,Accessories,2,1074,10,1933.2,220,1514.68,78.35,UPI,Same Day,5,Arjun,No
+ORD00854,2025-04-12,C219,Customer 227,Bengaluru,Karnataka,South,Corporate,P006,Headphones,Electronics,7,1073,5,7135.45,600,2954.23,41.4,Debit Card,Same Day,2,Meena,Yes
+ORD00855,2025-07-11,C073,Customer 273,Mumbai,Maharashtra,West,Corporate,P002,Keyboard,Electronics,5,712,10,3204.0,180,2339.6,73.02,Credit Card,Standard,3,Kiran,No
+ORD00856,2025-08-23,C149,Customer 9,Chennai,Tamil Nadu,South,Home Office,P006,Headphones,Electronics,3,738,10,1992.6,600,214.74,10.78,Debit Card,Standard,6,Aisha,No
+ORD00857,2025-12-19,C245,Customer 288,Chennai,Tamil Nadu,South,Consumer,P008,Webcam,Electronics,3,1651,20,3962.4,700,2060.52,52.0,Cash,Express,3,Meena,No
+ORD00858,2025-07-12,C194,Customer 3,Hyderabad,Telangana,South,Home Office,P008,Webcam,Electronics,10,1595,5,15152.5,700,8192.38,54.07,UPI,Express,3,Meena,Yes
+ORD00859,2025-04-20,C186,Customer 208,Delhi,Delhi,North,Home Office,P005,Laptop Stand,Accessories,2,1133,20,1812.8,220,1463.44,80.73,UPI,Express,4,Kiran,Yes
+ORD00860,2025-11-07,C256,Customer 237,Delhi,Delhi,North,Home Office,P004,Office Chair,Furniture,3,1338,5,3813.3,500,2323.34,60.93,Debit Card,Express,7,Meena,No
+ORD00861,2025-05-03,C022,Customer 196,Kochi,Kerala,South,Home Office,P008,Webcam,Electronics,4,1536,5,5836.8,700,3052.16,52.29,Net Banking,Same Day,6,Aisha,No
+ORD00862,2025-10-27,C054,Customer 144,Delhi,Delhi,North,Consumer,P005,Laptop Stand,Accessories,4,698,15,2373.2,220,1556.02,65.57,UPI,Express,1,Kiran,Yes
+ORD00863,2025-07-19,C229,Customer 126,Kochi,Kerala,South,Corporate,P004,Office Chair,Furniture,7,1099,15,6539.05,500,3212.14,49.12,Cash,Express,3,Arjun,Yes
+ORD00864,2025-10-14,C261,Customer 285,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,1,1787,0,1787.0,1500,287.0,16.06,Credit Card,Express,4,Priya,No
+ORD00865,2025-01-02,C183,Customer 295,Delhi,Delhi,North,Corporate,P002,Keyboard,Electronics,9,737,5,6301.35,180,4697.93,74.55,Credit Card,Standard,5,Ravi,No
+ORD00866,2025-11-26,C193,Customer 101,Delhi,Delhi,North,Consumer,P005,Laptop Stand,Accessories,6,1080,5,6156.0,220,4852.2,78.82,Net Banking,Standard,5,Aisha,No
+ORD00867,2025-10-21,C209,Customer 181,Chennai,Tamil Nadu,South,Consumer,P007,Desk,Furniture,9,2029,20,14608.8,1500,1839.24,12.59,Cash,Same Day,2,Ravi,Yes
+ORD00868,2025-06-09,C100,Customer 129,Delhi,Delhi,North,Consumer,P007,Desk,Furniture,3,2091,5,5959.35,1500,1475.03,24.75,UPI,Standard,3,Arjun,No
+ORD00869,2025-02-08,C163,Customer 182,Mumbai,Maharashtra,West,Home Office,P003,Monitor,Electronics,5,965,10,4342.5,800,390.75,9.0,Net Banking,Standard,3,Ravi,No
+ORD00870,2025-06-13,C172,Customer 34,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,2,937,0,1874.0,700,474.0,25.29,Credit Card,Same Day,1,Priya,No
+ORD00871,2025-01-18,C233,Customer 300,Kochi,Kerala,South,Corporate,P007,Desk,Furniture,1,1689,10,1520.1,1500,36.99,2.43,Net Banking,Same Day,6,Meena,No
+ORD00872,2025-06-26,C177,Customer 173,Mumbai,Maharashtra,West,Corporate,P005,Laptop Stand,Accessories,10,1015,20,8120.0,220,6326.0,77.91,Cash,Standard,1,Arjun,Yes
+ORD00873,2025-11-02,C125,Customer 60,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,5,912,20,3648.0,700,330.4,9.06,Cash,Same Day,2,Priya,Yes
+ORD00874,2025-05-24,C202,Customer 235,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,9,1110,10,8991.0,700,2790.9,31.04,Credit Card,Same Day,4,Aisha,No
+ORD00875,2025-09-26,C250,Customer 297,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,9,480,10,3888.0,180,2311.2,59.44,Credit Card,Same Day,6,Kiran,No
+ORD00876,2025-05-26,C026,Customer 128,Kochi,Kerala,South,Corporate,P008,Webcam,Electronics,5,1307,10,5881.5,700,2446.85,41.6,Debit Card,Standard,5,Ravi,Yes
+ORD00877,2025-07-30,C053,Customer 165,Kochi,Kerala,South,Consumer,P002,Keyboard,Electronics,8,1049,15,7133.2,180,5882.02,82.46,Net Banking,Same Day,1,Meena,Yes
+ORD00878,2025-12-10,C299,Customer 9,Mumbai,Maharashtra,West,Consumer,P005,Laptop Stand,Accessories,9,373,20,2685.6,220,839.88,31.27,Credit Card,Express,7,Priya,Yes
+ORD00879,2025-04-20,C029,Customer 39,Delhi,Delhi,North,Corporate,P002,Keyboard,Electronics,10,1038,0,10380.0,180,8580.0,82.66,Credit Card,Same Day,6,Meena,Yes
+ORD00880,2025-10-04,C162,Customer 234,Chennai,Tamil Nadu,South,Corporate,P001,Wireless Mouse,Electronics,3,1226,5,3494.1,250,2753.3,78.8,Cash,Same Day,1,Kiran,No
+ORD00881,2025-07-25,C086,Customer 238,Chennai,Tamil Nadu,South,Consumer,P006,Headphones,Electronics,1,704,5,668.8,600,70.56,10.55,UPI,Same Day,5,Arjun,Yes
+ORD00882,2025-10-11,C060,Customer 170,Bengaluru,Karnataka,South,Corporate,P002,Keyboard,Electronics,8,430,20,2752.0,180,1449.6,52.67,UPI,Same Day,4,Priya,No
+ORD00883,2025-04-15,C264,Customer 72,Hyderabad,Telangana,South,Consumer,P001,Wireless Mouse,Electronics,2,382,10,687.6,250,195.24,28.39,Debit Card,Standard,3,Aisha,Yes
+ORD00884,2025-05-26,C149,Customer 74,Mumbai,Maharashtra,West,Corporate,P002,Keyboard,Electronics,9,387,10,3134.7,180,1549.53,49.43,Net Banking,Express,5,Ravi,No
+ORD00885,2025-05-26,C187,Customer 220,Kochi,Kerala,South,Consumer,P002,Keyboard,Electronics,3,889,0,2667.0,180,2127.0,79.75,Debit Card,Same Day,3,Ravi,No
+ORD00886,2025-12-19,C204,Customer 90,Kochi,Kerala,South,Consumer,P002,Keyboard,Electronics,8,950,0,7600.0,180,6160.0,81.05,UPI,Express,1,Arjun,Yes
+ORD00887,2025-01-11,C094,Customer 219,Mumbai,Maharashtra,West,Home Office,P006,Headphones,Electronics,7,916,15,5450.2,600,1394.47,25.59,Net Banking,Express,5,Arjun,Yes
+ORD00888,2025-11-28,C080,Customer 143,Kochi,Kerala,South,Consumer,P001,Wireless Mouse,Electronics,5,1053,0,5265.0,250,4015.0,76.26,Net Banking,Same Day,6,Ravi,No
+ORD00889,2025-05-23,C209,Customer 249,Kochi,Kerala,South,Home Office,P003,Monitor,Electronics,2,1213,20,1940.8,800,437.84,22.56,Net Banking,Express,1,Arjun,No
+ORD00890,2025-04-23,C017,Customer 218,Bengaluru,Karnataka,South,Consumer,P005,Laptop Stand,Accessories,9,878,0,7902.0,220,5922.0,74.94,Credit Card,Same Day,3,Priya,No
+ORD00891,2025-10-02,C060,Customer 41,Mumbai,Maharashtra,West,Home Office,P001,Wireless Mouse,Electronics,2,807,20,1291.2,250,855.76,66.28,UPI,Same Day,1,Aisha,No
+ORD00892,2025-12-08,C148,Customer 243,Mumbai,Maharashtra,West,Home Office,P004,Office Chair,Furniture,2,769,5,1461.1,500,464.94,31.82,Net Banking,Express,6,Aisha,Yes
+ORD00893,2025-03-27,C234,Customer 73,Mumbai,Maharashtra,West,Home Office,P006,Headphones,Electronics,3,1074,0,3222.0,600,1422.0,44.13,Cash,Same Day,1,Arjun,Yes
+ORD00894,2025-11-26,C101,Customer 102,Mumbai,Maharashtra,West,Home Office,P004,Office Chair,Furniture,2,751,20,1201.6,500,261.68,21.78,Net Banking,Same Day,4,Kiran,Yes
+ORD00895,2025-06-21,C200,Customer 28,Mumbai,Maharashtra,West,Home Office,P008,Webcam,Electronics,10,1496,5,14212.0,700,7249.4,51.01,Cash,Same Day,5,Meena,Yes
+ORD00896,2025-07-26,C232,Customer 253,Delhi,Delhi,North,Consumer,P002,Keyboard,Electronics,8,1010,10,7272.0,180,5912.8,81.31,Cash,Standard,7,Meena,No
+ORD00897,2025-06-12,C178,Customer 267,Hyderabad,Telangana,South,Home Office,P004,Office Chair,Furniture,3,678,10,1830.6,500,350.94,19.17,Net Banking,Standard,7,Arjun,Yes
+ORD00898,2025-01-28,C029,Customer 142,Kochi,Kerala,South,Corporate,P003,Monitor,Electronics,8,1033,15,7024.4,800,810.34,11.54,Credit Card,Same Day,5,Kiran,No
+ORD00899,2025-08-02,C174,Customer 171,Chennai,Tamil Nadu,South,Home Office,P002,Keyboard,Electronics,6,354,10,1911.6,180,852.84,44.61,UPI,Standard,4,Arjun,Yes
+ORD00900,2025-07-08,C237,Customer 63,Hyderabad,Telangana,South,Home Office,P003,Monitor,Electronics,10,1623,0,16230.0,800,8230.0,50.71,UPI,Same Day,4,Arjun,No
+ORD00901,2025-03-23,C026,Customer 126,Mumbai,Maharashtra,West,Home Office,P008,Webcam,Electronics,3,1581,20,3794.4,700,1884.12,49.66,Credit Card,Express,6,Arjun,Yes
+ORD00902,2025-05-15,C214,Customer 68,Hyderabad,Telangana,South,Consumer,P006,Headphones,Electronics,8,1037,20,6636.8,600,2168.64,32.68,Credit Card,Express,5,Priya,Yes
+ORD00903,2025-11-14,C249,Customer 203,Hyderabad,Telangana,South,Home Office,P003,Monitor,Electronics,1,948,20,758.4,800,-3.68,-0.49,Net Banking,Same Day,6,Ravi,No
+ORD00904,2025-03-11,C056,Customer 76,Chennai,Tamil Nadu,South,Corporate,P006,Headphones,Electronics,3,1267,10,3420.9,600,1658.91,48.49,Debit Card,Same Day,4,Ravi,Yes
+ORD00905,2025-05-23,C169,Customer 269,Hyderabad,Telangana,South,Home Office,P007,Desk,Furniture,8,2380,15,16184.0,1500,4612.4,28.5,Debit Card,Standard,3,Kiran,Yes
+ORD00906,2025-08-16,C227,Customer 51,Mumbai,Maharashtra,West,Home Office,P001,Wireless Mouse,Electronics,7,981,15,5836.95,250,4241.46,72.67,Net Banking,Standard,1,Arjun,No
+ORD00907,2025-04-26,C007,Customer 117,Bengaluru,Karnataka,South,Corporate,P004,Office Chair,Furniture,2,1014,0,2028.0,500,1028.0,50.69,Credit Card,Same Day,1,Priya,Yes
+ORD00908,2025-03-30,C214,Customer 93,Bengaluru,Karnataka,South,Corporate,P005,Laptop Stand,Accessories,5,798,15,3391.5,220,2381.28,70.21,Debit Card,Express,5,Aisha,Yes
+ORD00909,2025-04-01,C179,Customer 292,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,9,1787,0,16083.0,1500,2583.0,16.06,Credit Card,Express,4,Kiran,Yes
+ORD00910,2025-02-03,C137,Customer 120,Chennai,Tamil Nadu,South,Consumer,P006,Headphones,Electronics,3,1421,5,4049.85,600,2260.51,55.82,Net Banking,Same Day,2,Meena,Yes
+ORD00911,2025-11-03,C179,Customer 200,Chennai,Tamil Nadu,South,Corporate,P006,Headphones,Electronics,6,904,0,5424.0,600,1824.0,33.63,Debit Card,Same Day,6,Aisha,Yes
+ORD00912,2025-09-17,C233,Customer 57,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,7,671,15,3992.45,220,2558.13,64.07,Debit Card,Express,6,Ravi,No
+ORD00913,2025-07-24,C246,Customer 219,Bengaluru,Karnataka,South,Corporate,P008,Webcam,Electronics,7,1075,20,6020.0,700,1421.0,23.6,UPI,Express,7,Priya,No
+ORD00914,2025-04-27,C013,Customer 208,Mumbai,Maharashtra,West,Corporate,P008,Webcam,Electronics,8,1254,0,10032.0,700,4432.0,44.18,Debit Card,Same Day,5,Kiran,Yes
+ORD00915,2025-01-28,C021,Customer 79,Mumbai,Maharashtra,West,Consumer,P005,Laptop Stand,Accessories,10,866,15,7361.0,220,5355.85,72.76,UPI,Same Day,3,Kiran,No
+ORD00916,2025-12-08,C042,Customer 7,Hyderabad,Telangana,South,Corporate,P008,Webcam,Electronics,8,975,15,6630.0,700,1205.5,18.18,UPI,Standard,1,Arjun,Yes
+ORD00917,2025-02-22,C294,Customer 48,Kochi,Kerala,South,Home Office,P006,Headphones,Electronics,8,1052,0,8416.0,600,3616.0,42.97,Debit Card,Same Day,3,Ravi,No
+ORD00918,2025-02-05,C108,Customer 184,Kochi,Kerala,South,Consumer,P007,Desk,Furniture,2,2091,10,3763.8,1500,805.62,21.4,Debit Card,Express,7,Meena,Yes
+ORD00919,2025-04-18,C214,Customer 167,Kochi,Kerala,South,Corporate,P001,Wireless Mouse,Electronics,3,1052,0,3156.0,250,2406.0,76.24,UPI,Same Day,3,Arjun,No
+ORD00920,2025-12-21,C227,Customer 172,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,6,1840,20,8832.0,1500,273.6,3.1,Cash,Same Day,3,Kiran,No
+ORD00921,2025-07-07,C261,Customer 85,Mumbai,Maharashtra,West,Home Office,P003,Monitor,Electronics,9,1356,10,10983.6,800,3905.64,35.56,Cash,Express,2,Kiran,Yes
+ORD00922,2025-03-10,C072,Customer 47,Bengaluru,Karnataka,South,Home Office,P004,Office Chair,Furniture,10,1004,20,8032.0,500,3433.6,42.75,UPI,Express,4,Priya,No
+ORD00923,2025-07-16,C169,Customer 8,Delhi,Delhi,North,Corporate,P006,Headphones,Electronics,2,1560,0,3120.0,600,1920.0,61.54,Cash,Same Day,5,Arjun,Yes
+ORD00924,2025-08-05,C069,Customer 11,Bengaluru,Karnataka,South,Corporate,P006,Headphones,Electronics,6,1308,15,6670.8,600,3247.38,48.68,Cash,Express,4,Kiran,No
+ORD00925,2025-02-28,C066,Customer 7,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,7,740,0,5180.0,220,3640.0,70.27,Cash,Express,6,Meena,No
+ORD00926,2025-09-08,C165,Customer 243,Chennai,Tamil Nadu,South,Consumer,P001,Wireless Mouse,Electronics,1,841,0,841.0,250,591.0,70.27,Net Banking,Same Day,2,Aisha,No
+ORD00927,2025-08-11,C149,Customer 120,Mumbai,Maharashtra,West,Consumer,P004,Office Chair,Furniture,2,902,0,1804.0,500,804.0,44.57,UPI,Same Day,7,Arjun,No
+ORD00928,2025-01-28,C238,Customer 265,Bengaluru,Karnataka,South,Corporate,P008,Webcam,Electronics,1,1482,20,1185.6,700,544.88,45.96,UPI,Standard,5,Ravi,No
+ORD00929,2025-12-11,C043,Customer 240,Mumbai,Maharashtra,West,Home Office,P006,Headphones,Electronics,8,1311,5,9963.6,600,5189.82,52.09,UPI,Standard,2,Meena,No
+ORD00930,2025-08-08,C170,Customer 77,Bengaluru,Karnataka,South,Consumer,P008,Webcam,Electronics,9,1272,20,9158.4,700,3316.32,36.21,Credit Card,Standard,5,Ravi,No
+ORD00931,2025-04-05,C279,Customer 194,Delhi,Delhi,North,Consumer,P002,Keyboard,Electronics,1,1045,10,940.5,180,770.95,81.97,UPI,Same Day,2,Meena,No
+ORD00932,2025-07-05,C171,Customer 114,Mumbai,Maharashtra,West,Consumer,P002,Keyboard,Electronics,2,1012,5,1922.8,180,1567.86,81.54,Debit Card,Standard,7,Kiran,No
+ORD00933,2025-12-25,C035,Customer 69,Bengaluru,Karnataka,South,Consumer,P004,Office Chair,Furniture,8,713,5,5418.8,500,1433.06,26.45,UPI,Standard,5,Aisha,Yes
+ORD00934,2025-01-31,C198,Customer 260,Kochi,Kerala,South,Consumer,P003,Monitor,Electronics,5,1460,15,6205.0,800,2369.25,38.18,Debit Card,Same Day,1,Meena,Yes
+ORD00935,2025-06-04,C280,Customer 224,Hyderabad,Telangana,South,Home Office,P008,Webcam,Electronics,7,845,5,5619.25,700,734.04,13.06,Credit Card,Same Day,4,Priya,No
+ORD00936,2025-04-17,C146,Customer 216,Hyderabad,Telangana,South,Home Office,P007,Desk,Furniture,5,2044,5,9709.0,1500,2234.55,23.02,Credit Card,Express,6,Arjun,No
+ORD00937,2025-05-31,C082,Customer 225,Mumbai,Maharashtra,West,Consumer,P006,Headphones,Electronics,4,1029,10,3704.4,600,1345.56,36.32,Cash,Same Day,6,Kiran,Yes
+ORD00938,2025-07-21,C212,Customer 178,Delhi,Delhi,North,Corporate,P005,Laptop Stand,Accessories,7,564,0,3948.0,220,2408.0,60.99,Credit Card,Same Day,4,Aisha,Yes
+ORD00939,2025-08-03,C265,Customer 228,Hyderabad,Telangana,South,Consumer,P007,Desk,Furniture,4,1758,20,5625.6,1500,-93.12,-1.66,Debit Card,Express,1,Arjun,Yes
+ORD00940,2025-10-13,C196,Customer 294,Bengaluru,Karnataka,South,Home Office,P006,Headphones,Electronics,6,1131,10,6107.4,600,2575.26,42.17,Cash,Standard,2,Arjun,No
+ORD00941,2025-09-26,C246,Customer 102,Hyderabad,Telangana,South,Home Office,P008,Webcam,Electronics,1,1269,15,1078.65,700,407.2,37.75,UPI,Standard,5,Priya,Yes
+ORD00942,2025-07-28,C216,Customer 176,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,7,1124,5,7474.6,700,2594.27,34.71,Cash,Express,7,Priya,No
+ORD00943,2025-10-03,C253,Customer 298,Kochi,Kerala,South,Consumer,P001,Wireless Mouse,Electronics,6,875,10,4725.0,250,3277.5,69.37,Cash,Express,7,Kiran,Yes
+ORD00944,2025-05-24,C272,Customer 17,Bengaluru,Karnataka,South,Consumer,P004,Office Chair,Furniture,5,1272,10,5724.0,500,3287.6,57.44,Credit Card,Same Day,5,Priya,No
+ORD00945,2025-04-02,C211,Customer 36,Delhi,Delhi,North,Consumer,P005,Laptop Stand,Accessories,3,1078,20,2587.2,220,2056.56,79.49,Credit Card,Same Day,3,Meena,Yes
+ORD00946,2025-04-05,C075,Customer 219,Kochi,Kerala,South,Home Office,P005,Laptop Stand,Accessories,6,1025,20,4920.0,220,3846.0,78.17,Credit Card,Same Day,3,Priya,Yes
+ORD00947,2025-09-14,C247,Customer 110,Chennai,Tamil Nadu,South,Consumer,P003,Monitor,Electronics,9,1460,5,12483.0,800,5315.85,42.58,Credit Card,Same Day,7,Meena,Yes
+ORD00948,2025-04-28,C268,Customer 177,Kochi,Kerala,South,Corporate,P004,Office Chair,Furniture,6,1044,0,6264.0,500,3264.0,52.11,Credit Card,Same Day,2,Priya,No
+ORD00949,2025-12-25,C010,Customer 221,Bengaluru,Karnataka,South,Home Office,P008,Webcam,Electronics,5,1042,0,5210.0,700,1710.0,32.82,Credit Card,Express,6,Meena,No
+ORD00950,2025-01-09,C053,Customer 166,Mumbai,Maharashtra,West,Corporate,P007,Desk,Furniture,8,1818,5,13816.8,1500,1853.16,13.41,Debit Card,Express,3,Meena,Yes
+ORD00951,2025-08-02,C119,Customer 99,Chennai,Tamil Nadu,South,Consumer,P003,Monitor,Electronics,7,1722,10,10848.6,800,5369.14,49.49,Credit Card,Standard,4,Aisha,No
+ORD00952,2025-11-08,C231,Customer 214,Kochi,Kerala,South,Consumer,P004,Office Chair,Furniture,1,825,20,660.0,500,193.0,29.24,Credit Card,Same Day,7,Priya,Yes
+ORD00953,2025-04-15,C072,Customer 164,Delhi,Delhi,North,Home Office,P003,Monitor,Electronics,7,1364,0,9548.0,800,3948.0,41.35,Cash,Express,1,Kiran,Yes
+ORD00954,2025-08-02,C222,Customer 79,Hyderabad,Telangana,South,Consumer,P006,Headphones,Electronics,7,866,0,6062.0,600,1862.0,30.72,Credit Card,Express,2,Priya,Yes
+ORD00955,2025-08-12,C216,Customer 224,Bengaluru,Karnataka,South,Corporate,P008,Webcam,Electronics,1,990,20,792.0,700,131.6,16.62,UPI,Standard,3,Aisha,Yes
+ORD00956,2025-08-05,C092,Customer 160,Hyderabad,Telangana,South,Corporate,P005,Laptop Stand,Accessories,1,1173,5,1114.35,220,897.28,80.52,Credit Card,Same Day,1,Kiran,Yes
+ORD00957,2025-03-30,C029,Customer 241,Mumbai,Maharashtra,West,Corporate,P004,Office Chair,Furniture,5,1418,10,6381.0,500,3951.9,61.93,Cash,Standard,4,Kiran,No
+ORD00958,2025-08-25,C127,Customer 213,Chennai,Tamil Nadu,South,Consumer,P002,Keyboard,Electronics,9,685,10,5548.5,180,3990.15,71.91,Debit Card,Same Day,5,Aisha,Yes
+ORD00959,2025-02-18,C278,Customer 23,Delhi,Delhi,North,Consumer,P008,Webcam,Electronics,1,1112,20,889.6,700,234.08,26.31,Cash,Express,7,Priya,No
+ORD00960,2025-03-01,C061,Customer 297,Hyderabad,Telangana,South,Home Office,P005,Laptop Stand,Accessories,10,1135,15,9647.5,220,7702.88,79.84,Net Banking,Express,7,Arjun,No
+ORD00961,2025-08-03,C299,Customer 266,Bengaluru,Karnataka,South,Corporate,P007,Desk,Furniture,10,2092,0,20920.0,1500,5920.0,28.3,Debit Card,Same Day,1,Kiran,No
+ORD00962,2025-11-11,C098,Customer 94,Bengaluru,Karnataka,South,Home Office,P007,Desk,Furniture,9,1625,15,12431.25,1500,-739.69,-5.95,Debit Card,Standard,3,Kiran,Yes
+ORD00963,2025-11-01,C195,Customer 92,Chennai,Tamil Nadu,South,Consumer,P007,Desk,Furniture,7,1752,5,11650.8,1500,1181.46,10.14,UPI,Express,5,Arjun,No
+ORD00964,2025-10-18,C185,Customer 146,Hyderabad,Telangana,South,Corporate,P007,Desk,Furniture,5,2193,20,8772.0,1500,1710.6,19.5,Debit Card,Express,3,Ravi,Yes
+ORD00965,2025-02-17,C271,Customer 173,Kochi,Kerala,South,Home Office,P008,Webcam,Electronics,1,1173,0,1173.0,700,473.0,40.32,Net Banking,Standard,6,Aisha,Yes
+ORD00966,2025-09-16,C045,Customer 115,Chennai,Tamil Nadu,South,Home Office,P002,Keyboard,Electronics,6,1118,10,6037.2,180,5024.28,83.22,Cash,Express,7,Ravi,No
+ORD00967,2025-12-13,C230,Customer 270,Chennai,Tamil Nadu,South,Corporate,P008,Webcam,Electronics,1,858,20,686.4,700,20.72,3.02,Debit Card,Standard,5,Ravi,No
+ORD00968,2025-10-21,C176,Customer 222,Delhi,Delhi,North,Corporate,P003,Monitor,Electronics,4,1300,15,4420.0,800,1337.0,30.25,Cash,Express,2,Arjun,No
+ORD00969,2025-10-19,C222,Customer 155,Hyderabad,Telangana,South,Corporate,P005,Laptop Stand,Accessories,3,1182,0,3546.0,220,2886.0,81.39,UPI,Same Day,1,Kiran,No
+ORD00970,2025-09-24,C189,Customer 150,Chennai,Tamil Nadu,South,Home Office,P005,Laptop Stand,Accessories,5,915,15,3888.75,220,2891.69,74.36,Debit Card,Express,6,Ravi,No
+ORD00971,2025-10-20,C206,Customer 162,Chennai,Tamil Nadu,South,Consumer,P003,Monitor,Electronics,5,1621,5,7699.75,800,3720.01,48.31,Debit Card,Same Day,1,Ravi,Yes
+ORD00972,2025-08-29,C167,Customer 8,Delhi,Delhi,North,Home Office,P003,Monitor,Electronics,7,926,5,6157.9,800,574.11,9.32,Cash,Standard,4,Meena,Yes
+ORD00973,2025-04-24,C212,Customer 44,Mumbai,Maharashtra,West,Consumer,P001,Wireless Mouse,Electronics,6,434,20,2083.2,250,687.36,33.0,Credit Card,Express,4,Kiran,Yes
+ORD00974,2025-09-23,C109,Customer 137,Hyderabad,Telangana,South,Corporate,P006,Headphones,Electronics,1,1097,0,1097.0,600,497.0,45.31,Net Banking,Same Day,4,Priya,No
+ORD00975,2025-12-15,C219,Customer 98,Kochi,Kerala,South,Corporate,P006,Headphones,Electronics,6,1447,10,7813.8,600,4300.62,55.04,UPI,Same Day,4,Arjun,No
+ORD00976,2025-01-21,C088,Customer 169,Delhi,Delhi,North,Corporate,P004,Office Chair,Furniture,2,673,20,1076.8,500,130.64,12.13,Debit Card,Express,1,Arjun,No
+ORD00977,2025-01-06,C281,Customer 247,Delhi,Delhi,North,Home Office,P008,Webcam,Electronics,9,1377,15,10534.05,700,4512.89,42.84,Net Banking,Same Day,5,Kiran,No
+ORD00978,2025-02-05,C146,Customer 17,Bengaluru,Karnataka,South,Consumer,P002,Keyboard,Electronics,4,415,0,1660.0,180,940.0,56.63,Net Banking,Express,1,Kiran,Yes
+ORD00979,2025-01-12,C221,Customer 157,Delhi,Delhi,North,Home Office,P004,Office Chair,Furniture,8,897,20,5740.8,500,2027.84,35.32,Net Banking,Standard,5,Arjun,Yes
+ORD00980,2025-12-07,C230,Customer 61,Hyderabad,Telangana,South,Corporate,P007,Desk,Furniture,4,1973,0,7892.0,1500,1892.0,23.97,Cash,Standard,7,Meena,No
+ORD00981,2025-02-13,C116,Customer 111,Hyderabad,Telangana,South,Corporate,P007,Desk,Furniture,4,2094,10,7538.4,1500,1622.16,21.52,UPI,Same Day,3,Kiran,Yes
+ORD00982,2025-10-28,C212,Customer 205,Chennai,Tamil Nadu,South,Home Office,P003,Monitor,Electronics,4,1174,10,4226.4,800,1073.36,25.4,UPI,Standard,1,Aisha,Yes
+ORD00983,2025-01-02,C147,Customer 148,Delhi,Delhi,North,Consumer,P001,Wireless Mouse,Electronics,10,1187,20,9496.0,250,7470.8,78.67,Cash,Same Day,5,Arjun,No
+ORD00984,2025-08-24,C283,Customer 271,Bengaluru,Karnataka,South,Consumer,P007,Desk,Furniture,6,1693,10,9142.2,1500,243.78,2.67,Net Banking,Express,6,Arjun,No
+ORD00985,2025-07-03,C254,Customer 119,Kochi,Kerala,South,Home Office,P008,Webcam,Electronics,10,1040,10,9360.0,700,2464.0,26.32,Debit Card,Express,2,Aisha,No
+ORD00986,2025-09-04,C288,Customer 294,Bengaluru,Karnataka,South,Consumer,P007,Desk,Furniture,7,1729,10,10892.7,1500,513.73,4.72,UPI,Same Day,7,Aisha,Yes
+ORD00987,2025-01-20,C258,Customer 211,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,1,774,15,657.9,500,175.31,26.65,Net Banking,Standard,5,Ravi,Yes
+ORD00988,2025-08-17,C133,Customer 174,Delhi,Delhi,North,Consumer,P001,Wireless Mouse,Electronics,10,711,20,5688.0,250,3472.4,61.05,Net Banking,Same Day,6,Kiran,No
+ORD00989,2025-12-29,C216,Customer 3,Chennai,Tamil Nadu,South,Corporate,P006,Headphones,Electronics,6,983,5,5603.1,600,2017.85,36.01,Credit Card,Express,4,Priya,Yes
+ORD00990,2025-02-14,C207,Customer 147,Bengaluru,Karnataka,South,Corporate,P002,Keyboard,Electronics,7,824,5,5479.6,180,4234.02,77.27,Cash,Express,1,Ravi,Yes
+ORD00991,2025-10-20,C275,Customer 262,Hyderabad,Telangana,South,Home Office,P007,Desk,Furniture,3,1632,5,4651.2,1500,163.44,3.51,UPI,Standard,3,Priya,No
+ORD00992,2025-12-08,C154,Customer 130,Hyderabad,Telangana,South,Corporate,P004,Office Chair,Furniture,2,763,10,1373.4,500,388.66,28.3,Credit Card,Standard,6,Ravi,Yes
+ORD00993,2025-04-13,C165,Customer 199,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,7,1157,20,6479.2,180,5543.16,85.55,Cash,Same Day,5,Meena,No
+ORD00994,2025-12-20,C085,Customer 111,Hyderabad,Telangana,South,Corporate,P002,Keyboard,Electronics,5,802,10,3609.0,180,2749.1,76.17,Credit Card,Standard,1,Aisha,No
+ORD00995,2025-09-11,C267,Customer 263,Delhi,Delhi,North,Consumer,P006,Headphones,Electronics,3,1463,15,3730.65,600,2029.4,54.4,Debit Card,Standard,3,Priya,No
+ORD00996,2025-10-26,C037,Customer 93,Bengaluru,Karnataka,South,Home Office,P005,Laptop Stand,Accessories,3,563,15,1435.65,220,813.65,56.67,Credit Card,Standard,4,Ravi,Yes
+ORD00997,2025-05-05,C207,Customer 280,Mumbai,Maharashtra,West,Corporate,P004,Office Chair,Furniture,10,611,20,4888.0,500,132.4,2.71,Debit Card,Same Day,2,Kiran,No
+ORD00998,2025-06-04,C223,Customer 265,Chennai,Tamil Nadu,South,Consumer,P004,Office Chair,Furniture,1,1359,15,1155.15,500,685.73,59.36,Cash,Same Day,3,Priya,Yes
+ORD00999,2025-10-28,C046,Customer 169,Mumbai,Maharashtra,West,Corporate,P004,Office Chair,Furniture,10,1354,0,13540.0,500,8540.0,63.07,Credit Card,Express,4,Arjun,No
+ORD01000,2025-11-06,C060,Customer 154,Mumbai,Maharashtra,West,Home Office,P005,Laptop Stand,Accessories,3,1135,20,2724.0,220,2200.2,80.77,Debit Card,Express,6,Kiran,No
